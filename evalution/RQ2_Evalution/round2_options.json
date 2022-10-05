@@ -1,0 +1,6527 @@
+[
+    [
+        "with the given flags",
+        "None of the above"
+    ],
+    [
+        "in jdbc date escape format",
+        "in jdbc time escape format",
+        "to character array",
+        "to int",
+        "to integer",
+        "None of the above"
+    ],
+    [
+        "concatenated",
+        "input",
+        "sequential",
+        "None of the above"
+    ],
+    [
+        "non",
+        "terminal"
+    ],
+    [
+        "first",
+        "None of the above"
+    ],
+    [
+        "using the given class loader",
+        "None of the above"
+    ],
+    [
+        "sequential",
+        "None of the above"
+    ],
+    [
+        "distributed",
+        "largest",
+        "pseudorandom",
+        "None of the above"
+    ],
+    [
+        "from startinclusive",
+        "with array",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "empty",
+        "ordered",
+        "sequential",
+        "None of the above"
+    ],
+    [
+        "literal",
+        "localized",
+        "None of the above"
+    ],
+    [
+        "digested",
+        "effectively unlimited",
+        "equivalent",
+        "input",
+        "ordered",
+        "parallel",
+        "populated",
+        "producing the given streamsize number of pseudorandom int values",
+        "sequential",
+        "unlimited",
+        "unordered",
+        "valued",
+        "None of the above"
+    ],
+    [
+        "formatted",
+        "independent",
+        "informative",
+        "line",
+        "new",
+        "readable",
+        "short",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "new",
+        "None of the above"
+    ],
+    [
+        "as an unsigned integer value in the radix specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "if and only if this string contains the specified sequence of char values",
+        "if the string is empty or contains only white space codepoints,otherwise false."
+    ],
+    [
+        "to charsequence",
+        "to object",
+        "to string",
+        "to stringbuffer"
+    ],
+    [
+        "truncating or padding with false (if necessary) so the copy has the specified length.",
+        "truncating or padding with null characters (if necessary) so the copy has the specified length.",
+        "truncating or padding with nulls (if necessary) so the copy has the specified length.",
+        "truncating or padding with zeros (if necessary) so the copy has the specified length.",
+        "None of the above"
+    ],
+    [
+        "first",
+        "None of the above"
+    ],
+    [
+        "at index",
+        "in sequence"
+    ],
+    [
+        "at row",
+        "for reading",
+        "for tabbedpane",
+        "in sequence",
+        "into array of hyperlinks",
+        "into buttons",
+        "into input string of the position",
+        "into list of elements",
+        "to string",
+        "within bank",
+        "within char sequence",
+        "within string of the first occurrence of the specified character",
+        "within string of the first occurrence of the specified substring",
+        "within string of the last occurrence of the specified character",
+        "within string of the last occurrence of the specified substring",
+        "within string of the rightmost occurrence of the specified substring",
+        "within subarray",
+        "None of the above"
+    ],
+    [
+        "actual",
+        "adjustable",
+        "arbitrary",
+        "audioclip",
+        "byte",
+        "callable",
+        "charset",
+        "cipher",
+        "double",
+        "font",
+        "iiometadata",
+        "imagewriterspi",
+        "integer",
+        "interfacedef",
+        "iterator",
+        "jscrollbar",
+        "keyfactory",
+        "lock",
+        "long",
+        "marshalled",
+        "mbeanserver",
+        "new",
+        "responsible",
+        "scrollpaneadjustable",
+        "secretkeyfactory",
+        "securerandom",
+        "serversocketfactory",
+        "short",
+        "similar",
+        "soapheader",
+        "socketfactory",
+        "specialized",
+        "sslcontext",
+        "threadinfo",
+        "throwable",
+        "transferable",
+        "trustmanagerfactory",
+        "unique",
+        "None of the above"
+    ],
+    [
+        "literal",
+        "localized",
+        "None of the above"
+    ],
+    [
+        "empty",
+        "immutable",
+        "key",
+        "navigable",
+        "sorted",
+        "synchronized",
+        "unmodifiable",
+        "None of the above"
+    ],
+    [
+        "formatted",
+        "independent",
+        "informative",
+        "line",
+        "new",
+        "readable",
+        "short",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "if and only if this string contains the specified sequence of char values",
+        "if the string is empty or contains only white space codepoints,otherwise false."
+    ],
+    [
+        "to element of the specified array of bytes",
+        "to element of the specified range of the specified array of bytes"
+    ],
+    [
+        "to element of the specified array of chars",
+        "to element of the specified range of the specified array of chars"
+    ],
+    [
+        "to element of the specified array of floats",
+        "to element of the specified range of the specified array of floats"
+    ],
+    [
+        "to element of the specified array of ints",
+        "to element of the specified range of the specified array of ints"
+    ],
+    [
+        "to element of the specified array of objects",
+        "to element of the specified range of the specified array of objects"
+    ],
+    [
+        "to cookie",
+        "to element of the specified array of booleans",
+        "to element of the specified array of doubles",
+        "to element of the specified array of longs",
+        "to element of the specified array of shorts",
+        "to element of the specified range of the specified array of booleans",
+        "to element of the specified range of the specified array of doubles",
+        "to element of the specified range of the specified array of longs",
+        "to element of the specified range of the specified array of shorts",
+        "to flag of a specific attribute"
+    ],
+    [
+        "numerically",
+        "None of the above"
+    ],
+    [
+        "to charsequence",
+        "to object",
+        "to string",
+        "to stringbuffer"
+    ],
+    [
+        "as integer",
+        "in jdbc date escape format",
+        "in jdbc time escape format",
+        "to character array",
+        "to int",
+        "None of the above"
+    ],
+    [
+        "non",
+        "terminal"
+    ],
+    [
+        "if length is 0",
+        "None of the above"
+    ],
+    [
+        "as boolean",
+        "as byte",
+        "as decimal",
+        "as decimal byte",
+        "as integer",
+        "as long",
+        "as short",
+        "as signed"
+    ],
+    [
+        "at index",
+        "in sequence"
+    ],
+    [
+        "for annotation type",
+        "None of the above"
+    ],
+    [
+        "boolean",
+        "byte",
+        "double",
+        "long",
+        "new",
+        "optional",
+        "optionaldouble",
+        "short",
+        "None of the above"
+    ],
+    [
+        "since january",
+        "None of the above"
+    ],
+    [
+        "actual",
+        "adjustable",
+        "arbitrary",
+        "audioclip",
+        "byte",
+        "callable",
+        "charset",
+        "cipher",
+        "double",
+        "font",
+        "iiometadata",
+        "imagewriterspi",
+        "integer",
+        "interfacedef",
+        "iterator",
+        "jscrollbar",
+        "keyfactory",
+        "lock",
+        "long",
+        "marshalled",
+        "mbeanserver",
+        "new",
+        "responsible",
+        "scrollpaneadjustable",
+        "secretkeyfactory",
+        "securerandom",
+        "serversocketfactory",
+        "short",
+        "similar",
+        "soapheader",
+        "socketfactory",
+        "specialized",
+        "sslcontext",
+        "threadinfo",
+        "throwable",
+        "transferable",
+        "trustmanagerfactory",
+        "unique",
+        "None of the above"
+    ],
+    [
+        "formatted",
+        "independent",
+        "informative",
+        "line",
+        "new",
+        "readable",
+        "short",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "as an unsigned integer",
+        "as an unsigned integer in base 16",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "specified",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "into bigdecimal",
+        "None of the above"
+    ],
+    [
+        "according to object",
+        "to charsequence",
+        "to string",
+        "to stringbuffer"
+    ],
+    [
+        "if length is 0",
+        "None of the above"
+    ],
+    [
+        "as boolean",
+        "as byte",
+        "as decimal",
+        "as decimal byte",
+        "as integer",
+        "as long",
+        "as short",
+        "as signed"
+    ],
+    [
+        "as a",
+        "as a blob object in the java programming language",
+        "as a byte array",
+        "as a clob object",
+        "as a java",
+        "as a nclob object in the java programming language",
+        "as a ref object",
+        "as a stream of ascii characters",
+        "as a stream of uninterpreted bytes",
+        "as a string",
+        "as an array object",
+        "as an object in the java programming language",
+        "None of the above"
+    ],
+    [
+        "boolean",
+        "byte",
+        "double",
+        "long",
+        "new",
+        "optional",
+        "optionaldouble",
+        "short",
+        "None of the above"
+    ],
+    [
+        "actual",
+        "adjustable",
+        "arbitrary",
+        "audioclip",
+        "byte",
+        "callable",
+        "charset",
+        "cipher",
+        "double",
+        "font",
+        "iiometadata",
+        "imagewriterspi",
+        "integer",
+        "interfacedef",
+        "iterator",
+        "jscrollbar",
+        "keyfactory",
+        "lock",
+        "long",
+        "marshalled",
+        "mbeanserver",
+        "new",
+        "responsible",
+        "scrollpaneadjustable",
+        "secretkeyfactory",
+        "securerandom",
+        "serversocketfactory",
+        "short",
+        "similar",
+        "soapheader",
+        "socketfactory",
+        "specialized",
+        "sslcontext",
+        "threadinfo",
+        "throwable",
+        "transferable",
+        "trustmanagerfactory",
+        "unique",
+        "None of the above"
+    ],
+    [
+        "if non - null",
+        "None of the above"
+    ],
+    [
+        "digested",
+        "effectively unlimited",
+        "equivalent",
+        "input",
+        "ordered",
+        "parallel",
+        "populated",
+        "producing the given streamsize number of pseudorandom int values",
+        "sequential",
+        "unlimited",
+        "unordered",
+        "valued",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "as an unsigned integer",
+        "as an unsigned integer in base 16",
+        "None of the above"
+    ],
+    [
+        "acceptable",
+        "biggest",
+        "boolean",
+        "boxed",
+        "constant",
+        "contained",
+        "current",
+        "double",
+        "enumerated",
+        "hashcode",
+        "highest",
+        "initial",
+        "largest",
+        "last",
+        "long",
+        "maximal",
+        "maximum",
+        "minimal",
+        "minimum",
+        "new",
+        "numeric",
+        "pixel",
+        "private",
+        "pseudorandom",
+        "public",
+        "recorded",
+        "same",
+        "smallest",
+        "tentative",
+        "None of the above"
+    ],
+    [
+        "in jdbc date escape format",
+        "in jdbc time escape format",
+        "to character array",
+        "to int",
+        "to integer",
+        "None of the above"
+    ],
+    [
+        "truncating or padding with false (if necessary) so the copy has the specified length.",
+        "truncating or padding with null characters (if necessary) so the copy has the specified length.",
+        "truncating or padding with nulls (if necessary) so the copy has the specified length.",
+        "truncating or padding with zeros (if necessary) so the copy has the specified length.",
+        "None of the above"
+    ],
+    [
+        "first",
+        "None of the above"
+    ],
+    [
+        "at index",
+        "in sequence"
+    ],
+    [
+        "at row",
+        "for reading",
+        "for tabbedpane",
+        "in sequence",
+        "into array of hyperlinks",
+        "into buttons",
+        "into input string of the position",
+        "into list of elements",
+        "within bank",
+        "within char sequence",
+        "within string",
+        "within string of the first occurrence of the specified character",
+        "within string of the first occurrence of the specified substring",
+        "within string of the last occurrence of the specified character",
+        "within string of the last occurrence of the specified substring",
+        "within string of the rightmost occurrence of the specified substring",
+        "within subarray",
+        "None of the above"
+    ],
+    [
+        "empty",
+        "immutable",
+        "key",
+        "navigable",
+        "sorted",
+        "synchronized",
+        "unmodifiable",
+        "None of the above"
+    ],
+    [
+        "formatted",
+        "independent",
+        "informative",
+        "line",
+        "new",
+        "readable",
+        "short",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "in base 2",
+        "in base 8",
+        "None of the above"
+    ],
+    [
+        "if and only if this string contains the specified sequence of char values",
+        "if the string is empty or contains only white space codepoints,otherwise false."
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "with an optional codesource",
+        "with an optional protectiondomain",
+        "None of the above"
+    ],
+    [
+        "in jdbc date escape format",
+        "in jdbc time escape format",
+        "to character array",
+        "to int",
+        "to integer",
+        "None of the above"
+    ],
+    [
+        "truncating or padding with false (if necessary) so the copy has the specified length.",
+        "truncating or padding with null characters (if necessary) so the copy has the specified length.",
+        "truncating or padding with nulls (if necessary) so the copy has the specified length.",
+        "truncating or padding with zeros (if necessary) so the copy has the specified length.",
+        "None of the above"
+    ],
+    [
+        "as long",
+        "into byte",
+        "into short",
+        "to integer",
+        "None of the above"
+    ],
+    [
+        "using the named charset, storing the result into a new byte array.",
+        "using the platform's default charset, storing the result into a new byte array.",
+        "None of the above"
+    ],
+    [
+        "as boolean",
+        "as decimal",
+        "as decimal byte",
+        "as long",
+        "as signed",
+        "into byte",
+        "into short",
+        "to integer"
+    ],
+    [
+        "first",
+        "None of the above"
+    ],
+    [
+        "byte",
+        "double",
+        "long",
+        "new",
+        "short",
+        "None of the above"
+    ],
+    [
+        "from defaults",
+        "with value",
+        "None of the above"
+    ],
+    [
+        "at index",
+        "in sequence"
+    ],
+    [
+        "for annotation type",
+        "None of the above"
+    ],
+    [
+        "boolean",
+        "byte",
+        "double",
+        "long",
+        "new",
+        "optional",
+        "optionaldouble",
+        "short",
+        "None of the above"
+    ],
+    [
+        "for element",
+        "None of the above"
+    ],
+    [
+        "actual",
+        "adjustable",
+        "arbitrary",
+        "audioclip",
+        "byte",
+        "callable",
+        "charset",
+        "cipher",
+        "double",
+        "font",
+        "iiometadata",
+        "imagewriterspi",
+        "integer",
+        "interfacedef",
+        "iterator",
+        "jscrollbar",
+        "keyfactory",
+        "lock",
+        "long",
+        "marshalled",
+        "mbeanserver",
+        "new",
+        "responsible",
+        "scrollpaneadjustable",
+        "secretkeyfactory",
+        "securerandom",
+        "serversocketfactory",
+        "short",
+        "similar",
+        "soapheader",
+        "socketfactory",
+        "specialized",
+        "sslcontext",
+        "threadinfo",
+        "throwable",
+        "transferable",
+        "trustmanagerfactory",
+        "unique",
+        "None of the above"
+    ],
+    [
+        "formatted",
+        "independent",
+        "informative",
+        "line",
+        "new",
+        "readable",
+        "short",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "new",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "as an unsigned integer value in the radix specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "as an unsigned integer",
+        "as an unsigned integer in base 16",
+        "None of the above"
+    ],
+    [
+        "including dns hostname",
+        "None of the above"
+    ],
+    [
+        "specified",
+        "None of the above"
+    ],
+    [
+        "truncating or padding with false (if necessary) so the copy has the specified length.",
+        "truncating or padding with null characters (if necessary) so the copy has the specified length.",
+        "truncating or padding with nulls (if necessary) so the copy has the specified length.",
+        "truncating or padding with zeros (if necessary) so the copy has the specified length.",
+        "None of the above"
+    ],
+    [
+        "for integer",
+        "into byte",
+        "into long",
+        "into short",
+        "None of the above"
+    ],
+    [
+        "using the named charset, storing the result into a new byte array.",
+        "using the platform's default charset, storing the result into a new byte array.",
+        "None of the above"
+    ],
+    [
+        "as boolean",
+        "as decimal",
+        "as decimal byte",
+        "as signed",
+        "for integer",
+        "into byte",
+        "into long",
+        "into short"
+    ],
+    [
+        "byte",
+        "double",
+        "long",
+        "new",
+        "short",
+        "None of the above"
+    ],
+    [
+        "as value",
+        "from defaults",
+        "None of the above"
+    ],
+    [
+        "for annotation type",
+        "None of the above"
+    ],
+    [
+        "concurrent",
+        "new",
+        "None of the above"
+    ],
+    [
+        "sequential",
+        "None of the above"
+    ],
+    [
+        "as value",
+        "for bigdecimal",
+        "for biginteger",
+        "for calendar",
+        "for char value",
+        "for character",
+        "for colormodel",
+        "for dimension",
+        "for doc flavor object",
+        "for enum",
+        "for fieldposition",
+        "for float object",
+        "for float value",
+        "for imagetypespecifier",
+        "for insets",
+        "for instant",
+        "for int value",
+        "for integer",
+        "for jmxprincipal",
+        "for manifest",
+        "for marshalledobject",
+        "for mathcontext",
+        "for object",
+        "for object name",
+        "for objectimpl",
+        "for parseposition",
+        "for serialarray",
+        "for serialblob",
+        "for serialclob",
+        "for serialdatalink",
+        "for serialjavaobject",
+        "for serialref",
+        "for serialstruct",
+        "for shaper",
+        "for sortkey",
+        "for string",
+        "for uuid",
+        "given definition",
+        "into byte",
+        "into short",
+        "None of the above"
+    ],
+    [
+        "boolean",
+        "byte",
+        "double",
+        "long",
+        "new",
+        "optional",
+        "optionaldouble",
+        "short",
+        "None of the above"
+    ],
+    [
+        "distributed",
+        "largest",
+        "pseudorandom",
+        "None of the above"
+    ],
+    [
+        "from startinclusive",
+        "with array",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "empty",
+        "ordered",
+        "sequential",
+        "None of the above"
+    ],
+    [
+        "for element",
+        "None of the above"
+    ],
+    [
+        "actual",
+        "adjustable",
+        "arbitrary",
+        "audioclip",
+        "byte",
+        "callable",
+        "charset",
+        "cipher",
+        "double",
+        "font",
+        "iiometadata",
+        "imagewriterspi",
+        "integer",
+        "interfacedef",
+        "iterator",
+        "jscrollbar",
+        "keyfactory",
+        "lock",
+        "long",
+        "marshalled",
+        "mbeanserver",
+        "new",
+        "responsible",
+        "scrollpaneadjustable",
+        "secretkeyfactory",
+        "securerandom",
+        "serversocketfactory",
+        "short",
+        "similar",
+        "soapheader",
+        "socketfactory",
+        "specialized",
+        "sslcontext",
+        "threadinfo",
+        "throwable",
+        "transferable",
+        "trustmanagerfactory",
+        "unique",
+        "None of the above"
+    ],
+    [
+        "digested",
+        "effectively unlimited",
+        "equivalent",
+        "input",
+        "ordered",
+        "parallel",
+        "populated",
+        "producing the given streamsize number of pseudorandom int values",
+        "sequential",
+        "unlimited",
+        "unordered",
+        "valued",
+        "None of the above"
+    ],
+    [
+        "new",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "as an unsigned integer value in the radix specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "as an unsigned integer",
+        "as an unsigned integer in base 16",
+        "None of the above"
+    ],
+    [
+        "including dns hostname",
+        "None of the above"
+    ],
+    [
+        "acceptable",
+        "biggest",
+        "boolean",
+        "boxed",
+        "constant",
+        "contained",
+        "current",
+        "double",
+        "enumerated",
+        "hashcode",
+        "highest",
+        "initial",
+        "largest",
+        "last",
+        "long",
+        "maximal",
+        "maximum",
+        "minimal",
+        "minimum",
+        "new",
+        "numeric",
+        "pixel",
+        "private",
+        "pseudorandom",
+        "public",
+        "recorded",
+        "same",
+        "smallest",
+        "tentative",
+        "None of the above"
+    ],
+    [
+        "for bigdecimal",
+        "None of the above"
+    ],
+    [
+        "in substring of this sequence",
+        "None of the above"
+    ],
+    [
+        "first",
+        "None of the above"
+    ],
+    [
+        "first",
+        "None of the above"
+    ],
+    [
+        "at index",
+        "in sequence"
+    ],
+    [
+        "as if by calling math",
+        "None of the above"
+    ],
+    [
+        "as if by calling math",
+        "None of the above"
+    ],
+    [
+        "as if by calling math",
+        "None of the above"
+    ],
+    [
+        "as if by calling math",
+        "None of the above"
+    ],
+    [
+        "at row",
+        "for reading",
+        "for tabbedpane",
+        "in sequence",
+        "into array of hyperlinks",
+        "into buttons",
+        "into input string of the position",
+        "into list of elements",
+        "within bank",
+        "within char sequence",
+        "within string",
+        "within string of the first occurrence of the specified character",
+        "within string of the first occurrence of the specified substring",
+        "within string of the last occurrence of the specified character",
+        "within string of the last occurrence of the specified substring",
+        "within string of the rightmost occurrence of the specified substring",
+        "within subarray",
+        "None of the above"
+    ],
+    [
+        "literal",
+        "localized",
+        "None of the above"
+    ],
+    [
+        "formatted",
+        "independent",
+        "informative",
+        "line",
+        "new",
+        "readable",
+        "short",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "in base 2",
+        "in base 8",
+        "None of the above"
+    ],
+    [
+        "including dns hostname",
+        "None of the above"
+    ],
+    [
+        "if and only if this string contains the specified sequence of char values",
+        "if the string is empty or contains only white space codepoints,otherwise false."
+    ],
+    [
+        "to element of the specified array of bytes",
+        "to element of the specified range of the specified array of bytes"
+    ],
+    [
+        "to element of the specified array of chars",
+        "to element of the specified range of the specified array of chars"
+    ],
+    [
+        "to element of the specified array of floats",
+        "to element of the specified range of the specified array of floats"
+    ],
+    [
+        "to element of the specified array of ints",
+        "to element of the specified range of the specified array of ints"
+    ],
+    [
+        "to element of the specified array of objects",
+        "to element of the specified range of the specified array of objects"
+    ],
+    [
+        "to cookie",
+        "to element of the specified array of booleans",
+        "to element of the specified array of doubles",
+        "to element of the specified array of longs",
+        "to element of the specified array of shorts",
+        "to element of the specified range of the specified array of booleans",
+        "to element of the specified range of the specified array of doubles",
+        "to element of the specified range of the specified array of longs",
+        "to element of the specified range of the specified array of shorts",
+        "to flag of a specific attribute"
+    ],
+    [
+        "ignoring case differences",
+        "None of the above"
+    ],
+    [
+        "as int",
+        "for integer",
+        "in jdbc date escape format",
+        "in jdbc time escape format",
+        "to character array",
+        "None of the above"
+    ],
+    [
+        "as boolean",
+        "as decimal",
+        "as decimal byte",
+        "as long",
+        "as signed",
+        "for byte",
+        "for integer",
+        "for short"
+    ],
+    [
+        "at index",
+        "in sequence"
+    ],
+    [
+        "for column",
+        "with comparator",
+        "with function",
+        "None of the above"
+    ],
+    [
+        "for bigdecimal",
+        "for biginteger",
+        "for byte",
+        "for calendar",
+        "for char value",
+        "for character",
+        "for colormodel",
+        "for dimension",
+        "for doc flavor object",
+        "for enum",
+        "for fieldposition",
+        "for float object",
+        "for float value",
+        "for imagetypespecifier",
+        "for insets",
+        "for instant",
+        "for int value",
+        "for integer",
+        "for jmxprincipal",
+        "for manifest",
+        "for marshalledobject",
+        "for mathcontext",
+        "for object",
+        "for object name",
+        "for objectimpl",
+        "for parseposition",
+        "for serialarray",
+        "for serialblob",
+        "for serialclob",
+        "for serialdatalink",
+        "for serialjavaobject",
+        "for serialref",
+        "for serialstruct",
+        "for shaper",
+        "for short",
+        "for sortkey",
+        "for uuid",
+        "for value",
+        "given definition",
+        "within string",
+        "None of the above"
+    ],
+    [
+        "at row",
+        "for reading",
+        "for tabbedpane",
+        "in sequence",
+        "into array of hyperlinks",
+        "into buttons",
+        "into input string of the position",
+        "into list of elements",
+        "within bank",
+        "within char sequence",
+        "within string",
+        "within string of the first occurrence of the specified character",
+        "within string of the first occurrence of the specified substring",
+        "within string of the last occurrence of the specified character",
+        "within string of the last occurrence of the specified substring",
+        "within string of the rightmost occurrence of the specified substring",
+        "within subarray",
+        "None of the above"
+    ],
+    [
+        "according to ieee point format bit layout",
+        "according to ieee point format layout"
+    ],
+    [
+        "digested",
+        "effectively unlimited",
+        "equivalent",
+        "input",
+        "ordered",
+        "parallel",
+        "populated",
+        "producing the given streamsize number of pseudorandom int values",
+        "sequential",
+        "unlimited",
+        "unordered",
+        "valued",
+        "None of the above"
+    ],
+    [
+        "formatted",
+        "independent",
+        "informative",
+        "line",
+        "new",
+        "readable",
+        "short",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "including dns hostname",
+        "None of the above"
+    ],
+    [
+        "acceptable",
+        "biggest",
+        "boolean",
+        "boxed",
+        "constant",
+        "contained",
+        "current",
+        "double",
+        "enumerated",
+        "hashcode",
+        "highest",
+        "initial",
+        "largest",
+        "last",
+        "long",
+        "maximal",
+        "maximum",
+        "minimal",
+        "minimum",
+        "new",
+        "numeric",
+        "pixel",
+        "private",
+        "pseudorandom",
+        "public",
+        "recorded",
+        "same",
+        "smallest",
+        "tentative",
+        "None of the above"
+    ],
+    [
+        "between fromindex",
+        "None of the above"
+    ],
+    [
+        "in parallel",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "specified",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "to element of the specified array of bytes",
+        "to element of the specified range of the specified array of bytes"
+    ],
+    [
+        "to element of the specified array of chars",
+        "to element of the specified range of the specified array of chars"
+    ],
+    [
+        "to element of the specified array of floats",
+        "to element of the specified range of the specified array of floats"
+    ],
+    [
+        "to element of the specified array of ints",
+        "to element of the specified range of the specified array of ints"
+    ],
+    [
+        "to element of the specified array of objects",
+        "to element of the specified range of the specified array of objects"
+    ],
+    [
+        "to cookie",
+        "to element of the specified array of booleans",
+        "to element of the specified array of doubles",
+        "to element of the specified array of longs",
+        "to element of the specified array of shorts",
+        "to element of the specified range of the specified array of booleans",
+        "to element of the specified range of the specified array of doubles",
+        "to element of the specified range of the specified array of longs",
+        "to element of the specified range of the specified array of shorts",
+        "to flag of a specific attribute"
+    ],
+    [
+        "truncating or padding with false (if necessary) so the copy has the specified length.",
+        "truncating or padding with null characters (if necessary) so the copy has the specified length.",
+        "truncating or padding with nulls (if necessary) so the copy has the specified length.",
+        "truncating or padding with zeros (if necessary) so the copy has the specified length.",
+        "None of the above"
+    ],
+    [
+        "concatenated",
+        "input",
+        "sequential",
+        "None of the above"
+    ],
+    [
+        "to connector server",
+        "to database url",
+        "with data source"
+    ],
+    [
+        "as boolean",
+        "as byte",
+        "as decimal",
+        "as decimal byte",
+        "as integer",
+        "as long",
+        "as short",
+        "as signed"
+    ],
+    [
+        "first",
+        "None of the above"
+    ],
+    [
+        "byte",
+        "double",
+        "long",
+        "new",
+        "short",
+        "None of the above"
+    ],
+    [
+        "for annotation type",
+        "None of the above"
+    ],
+    [
+        "concurrent",
+        "new",
+        "None of the above"
+    ],
+    [
+        "empty",
+        "immutable",
+        "synchronized",
+        "unmodifiable",
+        "None of the above"
+    ],
+    [
+        "digested",
+        "effectively unlimited",
+        "equivalent",
+        "input",
+        "ordered",
+        "parallel",
+        "populated",
+        "producing the given streamsize number of pseudorandom int values",
+        "sequential",
+        "unlimited",
+        "unordered",
+        "valued",
+        "None of the above"
+    ],
+    [
+        "formatted",
+        "independent",
+        "informative",
+        "line",
+        "new",
+        "readable",
+        "short",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "as an unsigned integer",
+        "as an unsigned integer in base 16",
+        "None of the above"
+    ],
+    [
+        "as bigdecimal",
+        "as biginteger",
+        "as byte",
+        "as double",
+        "as float",
+        "as int",
+        "as long",
+        "into value",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "as byte",
+        "as long",
+        "as short",
+        "into integer",
+        "None of the above"
+    ],
+    [
+        "as boolean",
+        "as byte",
+        "as decimal",
+        "as decimal byte",
+        "as long",
+        "as short",
+        "as signed",
+        "into integer"
+    ],
+    [
+        "new",
+        "None of the above"
+    ],
+    [
+        "boolean",
+        "byte",
+        "double",
+        "long",
+        "new",
+        "optional",
+        "optionaldouble",
+        "short",
+        "None of the above"
+    ],
+    [
+        "closest",
+        "None of the above"
+    ],
+    [
+        "actual",
+        "adjustable",
+        "arbitrary",
+        "audioclip",
+        "byte",
+        "callable",
+        "charset",
+        "cipher",
+        "double",
+        "font",
+        "iiometadata",
+        "imagewriterspi",
+        "integer",
+        "interfacedef",
+        "iterator",
+        "jscrollbar",
+        "keyfactory",
+        "lock",
+        "long",
+        "marshalled",
+        "mbeanserver",
+        "new",
+        "responsible",
+        "scrollpaneadjustable",
+        "secretkeyfactory",
+        "securerandom",
+        "serversocketfactory",
+        "short",
+        "similar",
+        "soapheader",
+        "socketfactory",
+        "specialized",
+        "sslcontext",
+        "threadinfo",
+        "throwable",
+        "transferable",
+        "trustmanagerfactory",
+        "unique",
+        "None of the above"
+    ],
+    [
+        "formatted",
+        "independent",
+        "informative",
+        "line",
+        "new",
+        "readable",
+        "short",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "new",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "as an unsigned integer value in the radix specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "in base 2",
+        "in base 8",
+        "None of the above"
+    ],
+    [
+        "including dns hostname",
+        "None of the above"
+    ],
+    [
+        "as byte",
+        "as double",
+        "as float",
+        "as int",
+        "as long",
+        "as short"
+    ],
+    [
+        "as bigdecimal",
+        "as biginteger",
+        "as byte",
+        "as double",
+        "as float",
+        "as int",
+        "as long",
+        "into value",
+        "None of the above"
+    ],
+    [
+        "to clob value",
+        "to destination",
+        "to file",
+        "to output stream",
+        "to sqloutputimpl",
+        "to writer",
+        "None of the above"
+    ],
+    [
+        "with icon",
+        "with options",
+        "None of the above"
+    ],
+    [
+        "as boolean",
+        "as byte",
+        "as decimal",
+        "as decimal byte",
+        "as integer",
+        "as long",
+        "as short",
+        "as signed"
+    ],
+    [
+        "new",
+        "None of the above"
+    ],
+    [
+        "boolean",
+        "byte",
+        "double",
+        "long",
+        "new",
+        "optional",
+        "optionaldouble",
+        "short",
+        "None of the above"
+    ],
+    [
+        "closest",
+        "None of the above"
+    ],
+    [
+        "actual",
+        "adjustable",
+        "arbitrary",
+        "audioclip",
+        "byte",
+        "callable",
+        "charset",
+        "cipher",
+        "double",
+        "font",
+        "iiometadata",
+        "imagewriterspi",
+        "integer",
+        "interfacedef",
+        "iterator",
+        "jscrollbar",
+        "keyfactory",
+        "lock",
+        "long",
+        "marshalled",
+        "mbeanserver",
+        "new",
+        "responsible",
+        "scrollpaneadjustable",
+        "secretkeyfactory",
+        "securerandom",
+        "serversocketfactory",
+        "short",
+        "similar",
+        "soapheader",
+        "socketfactory",
+        "specialized",
+        "sslcontext",
+        "threadinfo",
+        "throwable",
+        "transferable",
+        "trustmanagerfactory",
+        "unique",
+        "None of the above"
+    ],
+    [
+        "formatted",
+        "independent",
+        "informative",
+        "line",
+        "new",
+        "readable",
+        "short",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "in base 2",
+        "in base 8",
+        "None of the above"
+    ],
+    [
+        "acceptable",
+        "biggest",
+        "boolean",
+        "boxed",
+        "constant",
+        "contained",
+        "current",
+        "double",
+        "enumerated",
+        "hashcode",
+        "highest",
+        "initial",
+        "largest",
+        "last",
+        "long",
+        "maximal",
+        "maximum",
+        "minimal",
+        "minimum",
+        "new",
+        "numeric",
+        "pixel",
+        "private",
+        "pseudorandom",
+        "public",
+        "recorded",
+        "same",
+        "smallest",
+        "tentative",
+        "None of the above"
+    ],
+    [
+        "current",
+        "executing",
+        "subject"
+    ],
+    [
+        "randomly permute the specified list using the specified source of randomness",
+        "randomly permutes the specified list using a default source of randomness"
+    ],
+    [
+        "at position",
+        "from document",
+        "from format",
+        "from set",
+        "None of the above"
+    ],
+    [
+        "positive",
+        "None of the above"
+    ],
+    [
+        "concurrent",
+        "new",
+        "None of the above"
+    ],
+    [
+        "from sequence",
+        "None of the above"
+    ],
+    [
+        "digested",
+        "effectively unlimited",
+        "equivalent",
+        "input",
+        "ordered",
+        "parallel",
+        "populated",
+        "producing the given streamsize number of pseudorandom int values",
+        "sequential",
+        "unlimited",
+        "unordered",
+        "valued",
+        "None of the above"
+    ],
+    [
+        "formatted",
+        "independent",
+        "informative",
+        "line",
+        "new",
+        "readable",
+        "short",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "in base 2",
+        "in base 8",
+        "None of the above"
+    ],
+    [
+        "including dns hostname",
+        "None of the above"
+    ],
+    [
+        "acceptable",
+        "biggest",
+        "boolean",
+        "boxed",
+        "constant",
+        "contained",
+        "current",
+        "double",
+        "enumerated",
+        "hashcode",
+        "highest",
+        "initial",
+        "largest",
+        "last",
+        "long",
+        "maximal",
+        "maximum",
+        "minimal",
+        "minimum",
+        "new",
+        "numeric",
+        "pixel",
+        "private",
+        "pseudorandom",
+        "public",
+        "recorded",
+        "same",
+        "smallest",
+        "tentative",
+        "None of the above"
+    ],
+    [
+        "between fromindex",
+        "None of the above"
+    ],
+    [
+        "to clob value",
+        "to destination",
+        "to file",
+        "to output stream",
+        "to sqloutputimpl",
+        "to writer",
+        "None of the above"
+    ],
+    [
+        "to element of the specified array of bytes",
+        "to element of the specified range of the specified array of bytes"
+    ],
+    [
+        "to element of the specified array of chars",
+        "to element of the specified range of the specified array of chars"
+    ],
+    [
+        "to element of the specified array of floats",
+        "to element of the specified range of the specified array of floats"
+    ],
+    [
+        "to element of the specified array of ints",
+        "to element of the specified range of the specified array of ints"
+    ],
+    [
+        "to element of the specified array of objects",
+        "to element of the specified range of the specified array of objects"
+    ],
+    [
+        "to cookie",
+        "to element of the specified array of booleans",
+        "to element of the specified array of doubles",
+        "to element of the specified array of longs",
+        "to element of the specified array of shorts",
+        "to element of the specified range of the specified array of booleans",
+        "to element of the specified range of the specified array of doubles",
+        "to element of the specified range of the specified array of longs",
+        "to element of the specified range of the specified array of shorts",
+        "to flag of a specific attribute"
+    ],
+    [
+        "byte",
+        "double",
+        "long",
+        "remote",
+        "short",
+        "subset",
+        "two"
+    ],
+    [
+        "into pattern",
+        "None of the above"
+    ],
+    [
+        "truncating or padding with false (if necessary) so the copy has the specified length.",
+        "truncating or padding with null characters (if necessary) so the copy has the specified length.",
+        "truncating or padding with nulls (if necessary) so the copy has the specified length.",
+        "truncating or padding with zeros (if necessary) so the copy has the specified length.",
+        "None of the above"
+    ],
+    [
+        "by creating all nonexistent parent directories first",
+        "using the given prefix to generate its name",
+        "None of the above"
+    ],
+    [
+        "as boolean",
+        "as byte",
+        "as decimal",
+        "as decimal byte",
+        "as integer",
+        "as long",
+        "as short",
+        "as signed"
+    ],
+    [
+        "on the elements of this stream",
+        "None of the above"
+    ],
+    [
+        "randomly permute the specified list using the specified source of randomness",
+        "randomly permutes the specified list using a default source of randomness"
+    ],
+    [
+        "at position",
+        "from document",
+        "from format",
+        "from set",
+        "None of the above"
+    ],
+    [
+        "first",
+        "last"
+    ],
+    [
+        "concurrent",
+        "new",
+        "None of the above"
+    ],
+    [
+        "sequential",
+        "None of the above"
+    ],
+    [
+        "searching forwards from index , or returns -1 if the element is not found",
+        "None of the above"
+    ],
+    [
+        "boolean",
+        "byte",
+        "double",
+        "long",
+        "new",
+        "optional",
+        "optionaldouble",
+        "short",
+        "None of the above"
+    ],
+    [
+        "from startinclusive",
+        "with array",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "empty",
+        "ordered",
+        "sequential",
+        "None of the above"
+    ],
+    [
+        "actual",
+        "adjustable",
+        "arbitrary",
+        "audioclip",
+        "byte",
+        "callable",
+        "charset",
+        "cipher",
+        "double",
+        "font",
+        "iiometadata",
+        "imagewriterspi",
+        "integer",
+        "interfacedef",
+        "iterator",
+        "jscrollbar",
+        "keyfactory",
+        "lock",
+        "long",
+        "marshalled",
+        "mbeanserver",
+        "new",
+        "responsible",
+        "scrollpaneadjustable",
+        "secretkeyfactory",
+        "securerandom",
+        "serversocketfactory",
+        "short",
+        "similar",
+        "soapheader",
+        "socketfactory",
+        "specialized",
+        "sslcontext",
+        "threadinfo",
+        "throwable",
+        "transferable",
+        "trustmanagerfactory",
+        "unique",
+        "None of the above"
+    ],
+    [
+        "digested",
+        "effectively unlimited",
+        "equivalent",
+        "input",
+        "ordered",
+        "parallel",
+        "populated",
+        "producing the given streamsize number of pseudorandom int values",
+        "sequential",
+        "unlimited",
+        "unordered",
+        "valued",
+        "None of the above"
+    ],
+    [
+        "formatted",
+        "independent",
+        "informative",
+        "line",
+        "new",
+        "readable",
+        "short",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "including dns hostname",
+        "None of the above"
+    ],
+    [
+        "typesafe",
+        "unmodifiable"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "truncating or padding with false (if necessary) so the copy has the specified length.",
+        "truncating or padding with null characters (if necessary) so the copy has the specified length.",
+        "truncating or padding with nulls (if necessary) so the copy has the specified length.",
+        "truncating or padding with zeros (if necessary) so the copy has the specified length.",
+        "None of the above"
+    ],
+    [
+        "as boolean",
+        "as byte",
+        "as decimal",
+        "as decimal byte",
+        "as integer",
+        "as long",
+        "as short",
+        "as signed"
+    ],
+    [
+        "byte",
+        "double",
+        "long",
+        "new",
+        "short",
+        "None of the above"
+    ],
+    [
+        "formatted",
+        "independent",
+        "informative",
+        "line",
+        "new",
+        "readable",
+        "short",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "new",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "as an unsigned integer value in the radix specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "in base 2",
+        "in base 8",
+        "None of the above"
+    ],
+    [
+        "navigableset",
+        "set"
+    ],
+    [
+        "to end of this list",
+        "to end of this vector",
+        "None of the above"
+    ],
+    [
+        "including the chronology",
+        "None of the above"
+    ],
+    [
+        "numerically",
+        "None of the above"
+    ],
+    [
+        "byte",
+        "double",
+        "long",
+        "remote",
+        "short",
+        "subset",
+        "two"
+    ],
+    [
+        "byte",
+        "dynany",
+        "long",
+        "short",
+        "specified",
+        "two"
+    ],
+    [
+        "truncating or padding with false (if necessary) so the copy has the specified length.",
+        "truncating or padding with null characters (if necessary) so the copy has the specified length.",
+        "truncating or padding with nulls (if necessary) so the copy has the specified length.",
+        "truncating or padding with zeros (if necessary) so the copy has the specified length.",
+        "None of the above"
+    ],
+    [
+        "as component",
+        "at end of this deque",
+        "at front of this deque",
+        "at front of this list",
+        "at position",
+        "at tail of this deque",
+        "at tail of this queue",
+        "into delay queue",
+        "into list",
+        "into priority queue",
+        "into queue",
+        "None of the above"
+    ],
+    [
+        "as boolean",
+        "as byte",
+        "as decimal",
+        "as decimal byte",
+        "as integer",
+        "as long",
+        "as short",
+        "as signed"
+    ],
+    [
+        "randomly permute the specified list using the specified source of randomness",
+        "randomly permutes the specified list using a default source of randomness"
+    ],
+    [
+        "using the given class loader",
+        "None of the above"
+    ],
+    [
+        "for column",
+        "with comparator",
+        "with function",
+        "None of the above"
+    ],
+    [
+        "as byte",
+        "as integer",
+        "as short",
+        "for bigdecimal",
+        "for biginteger",
+        "for calendar",
+        "for char value",
+        "for character",
+        "for colormodel",
+        "for dimension",
+        "for doc flavor object",
+        "for enum",
+        "for fieldposition",
+        "for float object",
+        "for float value",
+        "for imagetypespecifier",
+        "for insets",
+        "for instant",
+        "for int value",
+        "for jmxprincipal",
+        "for manifest",
+        "for marshalledobject",
+        "for mathcontext",
+        "for object",
+        "for object name",
+        "for objectimpl",
+        "for parseposition",
+        "for serialarray",
+        "for serialblob",
+        "for serialclob",
+        "for serialdatalink",
+        "for serialjavaobject",
+        "for serialref",
+        "for serialstruct",
+        "for shaper",
+        "for sortkey",
+        "for string",
+        "for uuid",
+        "for value",
+        "given definition",
+        "None of the above"
+    ],
+    [
+        "between fromindex",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "specified",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "truncating or padding with false (if necessary) so the copy has the specified length.",
+        "truncating or padding with null characters (if necessary) so the copy has the specified length.",
+        "truncating or padding with nulls (if necessary) so the copy has the specified length.",
+        "truncating or padding with zeros (if necessary) so the copy has the specified length.",
+        "None of the above"
+    ],
+    [
+        "concatenated",
+        "input",
+        "sequential",
+        "None of the above"
+    ],
+    [
+        "for default locale",
+        "for locale"
+    ],
+    [
+        "using an associative accumulation function",
+        "using the provided identity , accumulation and combining functions",
+        "using the provided identity value and an associative accumulation function"
+    ],
+    [
+        "composed",
+        "None of the above"
+    ],
+    [
+        "digested",
+        "effectively unlimited",
+        "equivalent",
+        "input",
+        "ordered",
+        "parallel",
+        "populated",
+        "producing the given streamsize number of pseudorandom int values",
+        "sequential",
+        "unlimited",
+        "unordered",
+        "valued",
+        "None of the above"
+    ],
+    [
+        "navigableset",
+        "set"
+    ],
+    [
+        "set",
+        "None of the above"
+    ],
+    [
+        "between fromindex",
+        "None of the above"
+    ],
+    [
+        "typesafe",
+        "unmodifiable"
+    ],
+    [
+        "specified",
+        "None of the above"
+    ],
+    [
+        "to end of this list",
+        "to end of this vector",
+        "None of the above"
+    ],
+    [
+        "to element of the specified array of bytes",
+        "to element of the specified range of the specified array of bytes"
+    ],
+    [
+        "to element of the specified array of chars",
+        "to element of the specified range of the specified array of chars"
+    ],
+    [
+        "to element of the specified array of floats",
+        "to element of the specified range of the specified array of floats"
+    ],
+    [
+        "to element of the specified array of ints",
+        "to element of the specified range of the specified array of ints"
+    ],
+    [
+        "to element of the specified array of objects",
+        "to element of the specified range of the specified array of objects"
+    ],
+    [
+        "to cookie",
+        "to element of the specified array of booleans",
+        "to element of the specified array of doubles",
+        "to element of the specified array of longs",
+        "to element of the specified array of shorts",
+        "to element of the specified range of the specified array of booleans",
+        "to element of the specified range of the specified array of doubles",
+        "to element of the specified range of the specified array of longs",
+        "to element of the specified range of the specified array of shorts",
+        "to flag of a specific attribute"
+    ],
+    [
+        "as component",
+        "at end of this deque",
+        "at front of this deque",
+        "at front of this list",
+        "at position",
+        "at tail of this deque",
+        "at tail of this queue",
+        "into delay queue",
+        "into list",
+        "into priority queue",
+        "into queue",
+        "None of the above"
+    ],
+    [
+        "at index",
+        "in sequence"
+    ],
+    [
+        "sequential",
+        "None of the above"
+    ],
+    [
+        "current",
+        "deepest",
+        "double",
+        "first",
+        "greatest",
+        "innermost",
+        "last",
+        "least",
+        "next",
+        "previous",
+        "underlying",
+        "unknown",
+        "None of the above"
+    ],
+    [
+        "searching forwards from index , or returns -1 if the element is not found",
+        "None of the above"
+    ],
+    [
+        "from startinclusive",
+        "with array",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "empty",
+        "ordered",
+        "sequential",
+        "None of the above"
+    ],
+    [
+        "into queue",
+        "None of the above"
+    ],
+    [
+        "digested",
+        "effectively unlimited",
+        "equivalent",
+        "input",
+        "ordered",
+        "parallel",
+        "populated",
+        "producing the given streamsize number of pseudorandom int values",
+        "sequential",
+        "unlimited",
+        "unordered",
+        "valued",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "as an unsigned integer",
+        "as an unsigned integer in base 16",
+        "None of the above"
+    ],
+    [
+        "including dns hostname",
+        "None of the above"
+    ],
+    [
+        "specified",
+        "None of the above"
+    ],
+    [
+        "to end of this list",
+        "to end of this vector",
+        "None of the above"
+    ],
+    [
+        "concatenated",
+        "input",
+        "sequential",
+        "None of the above"
+    ],
+    [
+        "as component",
+        "at end of this deque",
+        "at front of this deque",
+        "at front of this list",
+        "at position",
+        "at tail of this deque",
+        "at tail of this queue",
+        "in list",
+        "into delay queue",
+        "into priority queue",
+        "into queue",
+        "None of the above"
+    ],
+    [
+        "byte",
+        "double",
+        "long",
+        "new",
+        "short",
+        "None of the above"
+    ],
+    [
+        "at index",
+        "in sequence"
+    ],
+    [
+        "concurrent",
+        "new",
+        "None of the above"
+    ],
+    [
+        "sequential",
+        "None of the above"
+    ],
+    [
+        "current",
+        "deepest",
+        "double",
+        "first",
+        "greatest",
+        "innermost",
+        "last",
+        "least",
+        "next",
+        "previous",
+        "underlying",
+        "unknown",
+        "None of the above"
+    ],
+    [
+        "digested",
+        "effectively unlimited",
+        "equivalent",
+        "input",
+        "ordered",
+        "parallel",
+        "populated",
+        "producing the given streamsize number of pseudorandom int values",
+        "sequential",
+        "unlimited",
+        "unordered",
+        "valued",
+        "None of the above"
+    ],
+    [
+        "formatted",
+        "independent",
+        "informative",
+        "line",
+        "new",
+        "readable",
+        "short",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "new",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "as an unsigned integer value in the radix specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "as an unsigned integer",
+        "as an unsigned integer in base 16",
+        "None of the above"
+    ],
+    [
+        "acceptable",
+        "biggest",
+        "boolean",
+        "boxed",
+        "constant",
+        "contained",
+        "current",
+        "double",
+        "enumerated",
+        "hashcode",
+        "highest",
+        "initial",
+        "largest",
+        "last",
+        "long",
+        "maximal",
+        "maximum",
+        "minimal",
+        "minimum",
+        "new",
+        "numeric",
+        "pixel",
+        "private",
+        "pseudorandom",
+        "public",
+        "recorded",
+        "same",
+        "smallest",
+        "tentative",
+        "None of the above"
+    ],
+    [
+        "specified",
+        "None of the above"
+    ],
+    [
+        "into pattern",
+        "None of the above"
+    ],
+    [
+        "truncating or padding with false (if necessary) so the copy has the specified length.",
+        "truncating or padding with null characters (if necessary) so the copy has the specified length.",
+        "truncating or padding with nulls (if necessary) so the copy has the specified length.",
+        "truncating or padding with zeros (if necessary) so the copy has the specified length.",
+        "None of the above"
+    ],
+    [
+        "concatenated",
+        "input",
+        "sequential",
+        "None of the above"
+    ],
+    [
+        "as byte",
+        "as integer",
+        "as long",
+        "as short",
+        "None of the above"
+    ],
+    [
+        "using the named charset, storing the result into a new byte array.",
+        "using the platform's default charset, storing the result into a new byte array.",
+        "None of the above"
+    ],
+    [
+        "as boolean",
+        "as byte",
+        "as decimal",
+        "as decimal byte",
+        "as integer",
+        "as long",
+        "as short",
+        "as signed"
+    ],
+    [
+        "for each",
+        "for each element of the iterable",
+        "for each element of this stream",
+        "for each entry in this map",
+        "for each non - null transformation of each",
+        "for each remaining element",
+        "None of the above"
+    ],
+    [
+        "as a stream",
+        "None of the above"
+    ],
+    [
+        "byte",
+        "double",
+        "long",
+        "new",
+        "short",
+        "None of the above"
+    ],
+    [
+        "concurrent",
+        "new",
+        "None of the above"
+    ],
+    [
+        "for column",
+        "with comparator",
+        "with function",
+        "None of the above"
+    ],
+    [
+        "sequential",
+        "None of the above"
+    ],
+    [
+        "composed",
+        "current",
+        "None of the above"
+    ],
+    [
+        "boolean",
+        "byte",
+        "double",
+        "long",
+        "new",
+        "optional",
+        "optionaldouble",
+        "short",
+        "None of the above"
+    ],
+    [
+        "from startinclusive",
+        "with array",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "for elements of this stream",
+        "for events",
+        "for list of qnames of service endpoints",
+        "in form of imagetypespecifierss",
+        "over child nodes of this element",
+        "over children of this node",
+        "over elements",
+        "over name elements of this path",
+        "over namespace prefix strings",
+        "over sequence of locales",
+        "over sequence of string objects",
+        "over set of element mappings of this domcryptocontext",
+        "over soapheaderelement objects",
+        "over sqlexceptions",
+        "None of the above"
+    ],
+    [
+        "empty",
+        "ordered",
+        "sequential",
+        "None of the above"
+    ],
+    [
+        "actual",
+        "adjustable",
+        "arbitrary",
+        "audioclip",
+        "byte",
+        "callable",
+        "charset",
+        "cipher",
+        "double",
+        "font",
+        "iiometadata",
+        "imagewriterspi",
+        "integer",
+        "interfacedef",
+        "iterator",
+        "jscrollbar",
+        "keyfactory",
+        "lock",
+        "long",
+        "marshalled",
+        "mbeanserver",
+        "new",
+        "responsible",
+        "scrollpaneadjustable",
+        "secretkeyfactory",
+        "securerandom",
+        "serversocketfactory",
+        "short",
+        "similar",
+        "soapheader",
+        "socketfactory",
+        "specialized",
+        "sslcontext",
+        "threadinfo",
+        "throwable",
+        "transferable",
+        "trustmanagerfactory",
+        "unique",
+        "None of the above"
+    ],
+    [
+        "digested",
+        "effectively unlimited",
+        "equivalent",
+        "input",
+        "ordered",
+        "parallel",
+        "populated",
+        "producing the given streamsize number of pseudorandom int values",
+        "sequential",
+        "unlimited",
+        "unordered",
+        "valued",
+        "None of the above"
+    ],
+    [
+        "new",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "as an unsigned integer value in the radix specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "as an unsigned integer",
+        "as an unsigned integer in base 16",
+        "None of the above"
+    ],
+    [
+        "using the temporal object to refine the result",
+        "None of the above"
+    ],
+    [
+        "at position",
+        "from document",
+        "from format",
+        "from set",
+        "None of the above"
+    ],
+    [
+        "at position",
+        "in parent",
+        "None of the above"
+    ],
+    [
+        "from set",
+        "in list",
+        "in vector",
+        "with collection"
+    ],
+    [
+        "with altered",
+        "with month altered",
+        "with number of days",
+        "with number of months",
+        "with number of weeks",
+        "with number of years",
+        "with year"
+    ],
+    [
+        "for elements of this stream",
+        "for events",
+        "for list of qnames of service endpoints",
+        "in form of imagetypespecifierss",
+        "over child nodes of this element",
+        "over children of this node",
+        "over elements",
+        "over name elements of this path",
+        "over namespace prefix strings",
+        "over sequence of locales",
+        "over sequence of string objects",
+        "over set of element mappings of this domcryptocontext",
+        "over soapheaderelement objects",
+        "over sqlexceptions",
+        "None of the above"
+    ],
+    [
+        "encoded",
+        "first",
+        "generated",
+        "greater",
+        "greatest",
+        "last",
+        "private",
+        "public",
+        "selected",
+        "None of the above"
+    ],
+    [
+        "digested",
+        "effectively unlimited",
+        "equivalent",
+        "input",
+        "ordered",
+        "parallel",
+        "populated",
+        "producing the given streamsize number of pseudorandom int values",
+        "sequential",
+        "unlimited",
+        "unordered",
+        "valued",
+        "None of the above"
+    ],
+    [
+        "formatted",
+        "independent",
+        "informative",
+        "line",
+        "new",
+        "readable",
+        "short",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "if and only if this string contains the specified sequence of char values",
+        "if the string is empty or contains only white space codepoints,otherwise false."
+    ],
+    [
+        "acceptable",
+        "biggest",
+        "boolean",
+        "boxed",
+        "constant",
+        "contained",
+        "current",
+        "double",
+        "enumerated",
+        "hashcode",
+        "highest",
+        "initial",
+        "largest",
+        "last",
+        "long",
+        "maximal",
+        "maximum",
+        "minimal",
+        "minimum",
+        "new",
+        "numeric",
+        "pixel",
+        "private",
+        "pseudorandom",
+        "public",
+        "recorded",
+        "same",
+        "smallest",
+        "tentative",
+        "None of the above"
+    ],
+    [
+        "navigableset",
+        "set"
+    ],
+    [
+        "set",
+        "None of the above"
+    ],
+    [
+        "between fromindex",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "truncating or padding with false (if necessary) so the copy has the specified length.",
+        "truncating or padding with null characters (if necessary) so the copy has the specified length.",
+        "truncating or padding with nulls (if necessary) so the copy has the specified length.",
+        "truncating or padding with zeros (if necessary) so the copy has the specified length.",
+        "None of the above"
+    ],
+    [
+        "concatenated",
+        "input",
+        "sequential",
+        "None of the above"
+    ],
+    [
+        "if length is 0",
+        "None of the above"
+    ],
+    [
+        "as boolean",
+        "as byte",
+        "as decimal",
+        "as decimal byte",
+        "as integer",
+        "as long",
+        "as short",
+        "as signed"
+    ],
+    [
+        "randomly permute the specified list using the specified source of randomness",
+        "randomly permutes the specified list using a default source of randomness"
+    ],
+    [
+        "at index",
+        "from sequence"
+    ],
+    [
+        "new",
+        "None of the above"
+    ],
+    [
+        "literal",
+        "localized",
+        "None of the above"
+    ],
+    [
+        "from sequence",
+        "None of the above"
+    ],
+    [
+        "formatted",
+        "independent",
+        "informative",
+        "line",
+        "new",
+        "readable",
+        "short",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "new",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "as an unsigned integer value in the radix specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "as an unsigned integer",
+        "as an unsigned integer in base 16",
+        "None of the above"
+    ],
+    [
+        "if and only if this string contains the specified sequence of char values",
+        "if the string is empty or contains only white space codepoints,otherwise false."
+    ],
+    [
+        "acceptable",
+        "biggest",
+        "boolean",
+        "boxed",
+        "constant",
+        "contained",
+        "current",
+        "double",
+        "enumerated",
+        "hashcode",
+        "highest",
+        "initial",
+        "largest",
+        "last",
+        "long",
+        "maximal",
+        "maximum",
+        "minimal",
+        "minimum",
+        "new",
+        "numeric",
+        "pixel",
+        "private",
+        "pseudorandom",
+        "public",
+        "recorded",
+        "same",
+        "smallest",
+        "tentative",
+        "None of the above"
+    ],
+    [
+        "between fromindex",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "specified",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "truncating or padding with false (if necessary) so the copy has the specified length.",
+        "truncating or padding with null characters (if necessary) so the copy has the specified length.",
+        "truncating or padding with nulls (if necessary) so the copy has the specified length.",
+        "truncating or padding with zeros (if necessary) so the copy has the specified length.",
+        "None of the above"
+    ],
+    [
+        "if length is 0",
+        "None of the above"
+    ],
+    [
+        "at position",
+        "for set",
+        "from document",
+        "from format",
+        "None of the above"
+    ],
+    [
+        "if it is present",
+        "None of the above"
+    ],
+    [
+        "byte",
+        "double",
+        "long",
+        "new",
+        "short",
+        "None of the above"
+    ],
+    [
+        "for acl entry",
+        "for arraytype instance",
+        "for attribute",
+        "for bit",
+        "for code signer",
+        "for collection",
+        "for compositedata instance",
+        "for compositedatasupport instance",
+        "for compositetype instance",
+        "for curve",
+        "for curve point",
+        "for date time attribute",
+        "for descriptor",
+        "for entry",
+        "for enumeration value",
+        "for field",
+        "for instance",
+        "for jobattributes",
+        "for list",
+        "for map",
+        "for map entry",
+        "for method type",
+        "for object",
+        "for object identifier",
+        "for openmbeanattributeinfo instance",
+        "for openmbeanattributeinfosupport instance",
+        "for openmbeanconstructorinfo instance",
+        "for openmbeanconstructorinfosupport instance",
+        "for openmbeanoperationinfo instance",
+        "for openmbeanparameterinfo instance",
+        "for openmbeanparameterinfosupport instance",
+        "for pageattributes",
+        "for permission object",
+        "for redirect",
+        "for renderinghints",
+        "for resolution",
+        "for server name",
+        "for set",
+        "for set attribute",
+        "for simpledateformat object",
+        "for simpletype instance",
+        "for size attribute",
+        "for snihostname",
+        "for sslrmiclientsocketfactory",
+        "for sslrmiserversocketfactory",
+        "for stack trace element",
+        "for tabulardata instance",
+        "for tabulardatasupport instance",
+        "for tabulartype instance",
+        "for timestamp",
+        "for uid",
+        "for uri",
+        "for vector",
+        "None of the above"
+    ],
+    [
+        "for elements of this stream",
+        "for events",
+        "for list of qnames of service endpoints",
+        "in form of imagetypespecifierss",
+        "over child nodes of this element",
+        "over children of this node",
+        "over elements",
+        "over name elements of this path",
+        "over namespace prefix strings",
+        "over sequence of locales",
+        "over sequence of string objects",
+        "over set of element mappings of this domcryptocontext",
+        "over soapheaderelement objects",
+        "over sqlexceptions",
+        "None of the above"
+    ],
+    [
+        "in queue",
+        "None of the above"
+    ],
+    [
+        "empty",
+        "immutable",
+        "key",
+        "navigable",
+        "sorted",
+        "synchronized",
+        "unmodifiable",
+        "None of the above"
+    ],
+    [
+        "set",
+        "None of the above"
+    ],
+    [
+        "typesafe",
+        "unmodifiable"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "truncating or padding with false (if necessary) so the copy has the specified length.",
+        "truncating or padding with null characters (if necessary) so the copy has the specified length.",
+        "truncating or padding with nulls (if necessary) so the copy has the specified length.",
+        "truncating or padding with zeros (if necessary) so the copy has the specified length.",
+        "None of the above"
+    ],
+    [
+        "using an associative accumulation function",
+        "using the provided identity , accumulation and combining functions",
+        "using the provided identity value and an associative accumulation function"
+    ],
+    [
+        "empty",
+        "immutable",
+        "synchronized",
+        "unmodifiable",
+        "None of the above"
+    ],
+    [
+        "composed",
+        "None of the above"
+    ],
+    [
+        "digested",
+        "effectively unlimited",
+        "equivalent",
+        "input",
+        "ordered",
+        "parallel",
+        "populated",
+        "producing the given streamsize number of pseudorandom int values",
+        "sequential",
+        "unlimited",
+        "unordered",
+        "valued",
+        "None of the above"
+    ],
+    [
+        "acceptable",
+        "biggest",
+        "boolean",
+        "boxed",
+        "constant",
+        "contained",
+        "current",
+        "double",
+        "enumerated",
+        "hashcode",
+        "highest",
+        "initial",
+        "largest",
+        "last",
+        "long",
+        "maximal",
+        "maximum",
+        "minimal",
+        "minimum",
+        "new",
+        "numeric",
+        "pixel",
+        "private",
+        "pseudorandom",
+        "public",
+        "recorded",
+        "same",
+        "smallest",
+        "tentative",
+        "None of the above"
+    ],
+    [
+        "between fromindex",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "specified",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "by creating all nonexistent parent directories first",
+        "using the given prefix to generate its name",
+        "None of the above"
+    ],
+    [
+        "on the url search path",
+        "None of the above"
+    ],
+    [
+        "to conflict row",
+        "to cursor position",
+        "to end of this resultset object",
+        "to front of this resultset object",
+        "to insert row",
+        "to row",
+        "to row number",
+        "None of the above"
+    ],
+    [
+        "returning a bufferedreader that may be used to read text from the file in an efficient manner",
+        "returning a bufferedreader to read text from the file in an efficient manner",
+        "returning a bufferedwriter that may be used to write text to the file in an efficient manner",
+        "returning a bufferedwriter to write text to the file in an efficient manner",
+        "returning a file channel to access the file",
+        "returning a seekable byte channel to access the file",
+        "returning an asynchronous file channel to access the file",
+        "returning an input stream to read from the file",
+        "returning an output stream that may be used to write bytes to the file"
+    ],
+    [
+        "as boolean",
+        "as byte",
+        "as decimal",
+        "as decimal byte",
+        "as integer",
+        "as long",
+        "as short",
+        "as signed"
+    ],
+    [
+        "as a stream",
+        "None of the above"
+    ],
+    [
+        "in file system",
+        "None of the above"
+    ],
+    [
+        "first",
+        "None of the above"
+    ],
+    [
+        "for annotation type",
+        "None of the above"
+    ],
+    [
+        "for decoding",
+        "for reading",
+        "None of the above"
+    ],
+    [
+        "for element",
+        "None of the above"
+    ],
+    [
+        "actual",
+        "adjustable",
+        "arbitrary",
+        "audioclip",
+        "byte",
+        "callable",
+        "charset",
+        "cipher",
+        "double",
+        "font",
+        "iiometadata",
+        "imagewriterspi",
+        "integer",
+        "interfacedef",
+        "iterator",
+        "jscrollbar",
+        "keyfactory",
+        "lock",
+        "long",
+        "marshalled",
+        "mbeanserver",
+        "new",
+        "responsible",
+        "scrollpaneadjustable",
+        "secretkeyfactory",
+        "securerandom",
+        "serversocketfactory",
+        "short",
+        "similar",
+        "soapheader",
+        "socketfactory",
+        "specialized",
+        "sslcontext",
+        "threadinfo",
+        "throwable",
+        "transferable",
+        "trustmanagerfactory",
+        "unique",
+        "None of the above"
+    ],
+    [
+        "digested",
+        "effectively unlimited",
+        "equivalent",
+        "input",
+        "ordered",
+        "parallel",
+        "populated",
+        "producing the given streamsize number of pseudorandom int values",
+        "sequential",
+        "unlimited",
+        "unordered",
+        "valued",
+        "None of the above"
+    ],
+    [
+        "if and only if this string contains the specified sequence of char values",
+        "if the string is empty or contains only white space codepoints,otherwise false."
+    ],
+    [
+        "internal",
+        "None of the above"
+    ],
+    [
+        "with input value",
+        "None of the above"
+    ],
+    [
+        "two",
+        "None of the above"
+    ],
+    [
+        "to end of this list",
+        "to end of this vector",
+        "None of the above"
+    ],
+    [
+        "as component",
+        "at end of this deque",
+        "at front of this deque",
+        "at front of this list",
+        "at position",
+        "at tail of this deque",
+        "at tail of this queue",
+        "into delay queue",
+        "into list",
+        "into priority queue",
+        "into queue",
+        "None of the above"
+    ],
+    [
+        "to directory",
+        "to target"
+    ],
+    [
+        "returning a bufferedreader that may be used to read text from the file in an efficient manner",
+        "returning a bufferedreader to read text from the file in an efficient manner",
+        "returning a bufferedwriter that may be used to write text to the file in an efficient manner",
+        "returning a bufferedwriter to write text to the file in an efficient manner",
+        "returning a file channel to access the file",
+        "returning a seekable byte channel to access the file",
+        "returning an asynchronous file channel to access the file",
+        "returning an input stream to read from the file",
+        "returning an output stream that may be used to write bytes to the file"
+    ],
+    [
+        "as a stream",
+        "None of the above"
+    ],
+    [
+        "in file system",
+        "None of the above"
+    ],
+    [
+        "current",
+        "deepest",
+        "double",
+        "first",
+        "greatest",
+        "innermost",
+        "last",
+        "least",
+        "next",
+        "previous",
+        "underlying",
+        "unknown",
+        "None of the above"
+    ],
+    [
+        "at row",
+        "for reading",
+        "for tabbedpane",
+        "into array of hyperlinks",
+        "into buttons",
+        "into input string of the position",
+        "into list of elements",
+        "within bank",
+        "within char sequence",
+        "within sequence",
+        "within string",
+        "within string of the first occurrence of the specified character",
+        "within string of the first occurrence of the specified substring",
+        "within string of the last occurrence of the specified character",
+        "within string of the last occurrence of the specified substring",
+        "within string of the rightmost occurrence of the specified substring",
+        "within subarray",
+        "None of the above"
+    ],
+    [
+        "boolean",
+        "byte",
+        "double",
+        "long",
+        "new",
+        "optional",
+        "optionaldouble",
+        "short",
+        "None of the above"
+    ],
+    [
+        "actual",
+        "adjustable",
+        "arbitrary",
+        "audioclip",
+        "byte",
+        "callable",
+        "charset",
+        "cipher",
+        "double",
+        "font",
+        "iiometadata",
+        "imagewriterspi",
+        "integer",
+        "interfacedef",
+        "iterator",
+        "jscrollbar",
+        "keyfactory",
+        "lock",
+        "long",
+        "marshalled",
+        "mbeanserver",
+        "new",
+        "responsible",
+        "scrollpaneadjustable",
+        "secretkeyfactory",
+        "securerandom",
+        "serversocketfactory",
+        "short",
+        "similar",
+        "soapheader",
+        "socketfactory",
+        "specialized",
+        "sslcontext",
+        "threadinfo",
+        "throwable",
+        "transferable",
+        "trustmanagerfactory",
+        "unique",
+        "None of the above"
+    ],
+    [
+        "formatted",
+        "independent",
+        "informative",
+        "line",
+        "new",
+        "readable",
+        "short",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "in base 2",
+        "in base 8",
+        "None of the above"
+    ],
+    [
+        "two",
+        "None of the above"
+    ],
+    [
+        "by creating all nonexistent parent directories first",
+        "using the given prefix to generate its name",
+        "None of the above"
+    ],
+    [
+        "atomically",
+        "using the given prefix and suffix strings to generate its name",
+        "None of the above"
+    ],
+    [
+        "in a separate process",
+        "in a separate process with the specified environment",
+        "in a separate process with the specified environment and working directory",
+        "None of the above"
+    ],
+    [
+        "with the specified environment and working directory",
+        "None of the above"
+    ],
+    [
+        "with time zone",
+        "None of the above"
+    ],
+    [
+        "from clock",
+        "from date time object",
+        "from system clock",
+        "in chronology"
+    ],
+    [
+        "from clock",
+        "from system clock"
+    ],
+    [
+        "returning a directorystream to iterate over all entries in the directory",
+        "returning a directorystream to iterate over the entries in the directory",
+        "returning a securedirectorystream to iterate over the entries in the directory"
+    ],
+    [
+        "first",
+        "None of the above"
+    ],
+    [
+        "absolute",
+        "canonical"
+    ],
+    [
+        "at row",
+        "for reading",
+        "for tabbedpane",
+        "into array of hyperlinks",
+        "into buttons",
+        "into input string of the position",
+        "into list of elements",
+        "within bank",
+        "within char sequence",
+        "within sequence",
+        "within string",
+        "within string of the first occurrence of the specified character",
+        "within string of the first occurrence of the specified substring",
+        "within string of the last occurrence of the specified character",
+        "within string of the last occurrence of the specified substring",
+        "within string of the rightmost occurrence of the specified substring",
+        "within subarray",
+        "None of the above"
+    ],
+    [
+        "for decoding",
+        "for reading",
+        "None of the above"
+    ],
+    [
+        "to render a particular row at",
+        "to resolve relative urls against",
+        "None of the above"
+    ],
+    [
+        "as a path object",
+        "None of the above"
+    ],
+    [
+        "absolute",
+        "None of the above"
+    ],
+    [
+        "digested",
+        "effectively unlimited",
+        "equivalent",
+        "input",
+        "ordered",
+        "parallel",
+        "populated",
+        "producing the given streamsize number of pseudorandom int values",
+        "sequential",
+        "unlimited",
+        "unordered",
+        "valued",
+        "None of the above"
+    ],
+    [
+        "approximate",
+        "current",
+        "last",
+        "None of the above"
+    ],
+    [
+        "using an arbitrary imagewriter that supports the given format to a file",
+        "using an arbitrary imagewriter that supports the given format to an outputstream",
+        "using the an arbitrary imagewriter that supports the given format to an imageoutputstream",
+        "None of the above"
+    ],
+    [
+        "based on accesscontrolcontext policy",
+        "based on security policy"
+    ],
+    [
+        "by creating all nonexistent parent directories first",
+        "using the given prefix to generate its name",
+        "None of the above"
+    ],
+    [
+        "atomically",
+        "using the given prefix and suffix strings to generate its name",
+        "None of the above"
+    ],
+    [
+        "if it exists",
+        "None of the above"
+    ],
+    [
+        "in a separate process",
+        "in a separate process with the specified environment",
+        "in a separate process with the specified environment and working directory",
+        "None of the above"
+    ],
+    [
+        "with the specified environment and working directory",
+        "None of the above"
+    ],
+    [
+        "returning a directorystream to iterate over all entries in the directory",
+        "returning a directorystream to iterate over the entries in the directory",
+        "returning a securedirectorystream to iterate over the entries in the directory"
+    ],
+    [
+        "returning a bufferedreader that may be used to read text from the file in an efficient manner",
+        "returning a bufferedreader to read text from the file in an efficient manner",
+        "returning a bufferedwriter that may be used to write text to the file in an efficient manner",
+        "returning a bufferedwriter to write text to the file in an efficient manner",
+        "returning a file channel to access the file",
+        "returning a seekable byte channel to access the file",
+        "returning an asynchronous file channel to access the file",
+        "returning an input stream to read from the file",
+        "returning an output stream that may be used to write bytes to the file"
+    ],
+    [
+        "against this path",
+        "None of the above"
+    ],
+    [
+        "for decoding",
+        "for reading",
+        "None of the above"
+    ],
+    [
+        "absolute",
+        "None of the above"
+    ],
+    [
+        "digested",
+        "effectively unlimited",
+        "equivalent",
+        "input",
+        "ordered",
+        "parallel",
+        "populated",
+        "producing the given streamsize number of pseudorandom int values",
+        "sequential",
+        "unlimited",
+        "unordered",
+        "valued",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "two",
+        "None of the above"
+    ],
+    [
+        "to end of this list",
+        "to end of this vector",
+        "None of the above"
+    ],
+    [
+        "on the url search path",
+        "None of the above"
+    ],
+    [
+        "as component",
+        "at end of this deque",
+        "at front of this deque",
+        "at front of this list",
+        "at position",
+        "at tail of this deque",
+        "at tail of this queue",
+        "into delay queue",
+        "into list",
+        "into priority queue",
+        "into queue",
+        "None of the above"
+    ],
+    [
+        "as boolean",
+        "as byte",
+        "as decimal",
+        "as decimal byte",
+        "as integer",
+        "as long",
+        "as short",
+        "as signed"
+    ],
+    [
+        "from file",
+        "from input stream",
+        "from stream",
+        "None of the above"
+    ],
+    [
+        "len",
+        "None of the above"
+    ],
+    [
+        "from file",
+        "from input stream",
+        "None of the above"
+    ],
+    [
+        "as a stream",
+        "None of the above"
+    ],
+    [
+        "byte",
+        "double",
+        "long",
+        "new",
+        "short",
+        "None of the above"
+    ],
+    [
+        "at row",
+        "for reading",
+        "for tabbedpane",
+        "into array of hyperlinks",
+        "into buttons",
+        "into input string of the position",
+        "into list of elements",
+        "within bank",
+        "within char sequence",
+        "within sequence",
+        "within string",
+        "within string of the first occurrence of the specified character",
+        "within string of the first occurrence of the specified substring",
+        "within string of the last occurrence of the specified character",
+        "within string of the last occurrence of the specified substring",
+        "within string of the rightmost occurrence of the specified substring",
+        "within subarray",
+        "None of the above"
+    ],
+    [
+        "boolean",
+        "byte",
+        "double",
+        "long",
+        "new",
+        "optional",
+        "optionaldouble",
+        "short",
+        "None of the above"
+    ],
+    [
+        "actual",
+        "adjustable",
+        "arbitrary",
+        "audioclip",
+        "byte",
+        "callable",
+        "charset",
+        "cipher",
+        "double",
+        "font",
+        "iiometadata",
+        "imagewriterspi",
+        "integer",
+        "interfacedef",
+        "iterator",
+        "jscrollbar",
+        "keyfactory",
+        "lock",
+        "long",
+        "marshalled",
+        "mbeanserver",
+        "new",
+        "responsible",
+        "scrollpaneadjustable",
+        "secretkeyfactory",
+        "securerandom",
+        "serversocketfactory",
+        "short",
+        "similar",
+        "soapheader",
+        "socketfactory",
+        "specialized",
+        "sslcontext",
+        "threadinfo",
+        "throwable",
+        "transferable",
+        "trustmanagerfactory",
+        "unique",
+        "None of the above"
+    ],
+    [
+        "digested",
+        "effectively unlimited",
+        "equivalent",
+        "input",
+        "ordered",
+        "parallel",
+        "populated",
+        "producing the given streamsize number of pseudorandom int values",
+        "sequential",
+        "unlimited",
+        "unordered",
+        "valued",
+        "None of the above"
+    ],
+    [
+        "formatted",
+        "independent",
+        "informative",
+        "line",
+        "new",
+        "readable",
+        "short",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "as bigdecimal",
+        "as biginteger",
+        "as byte",
+        "as double",
+        "as float",
+        "as int",
+        "as long",
+        "into value",
+        "None of the above"
+    ],
+    [
+        "specified",
+        "None of the above"
+    ],
+    [
+        "in jdbc date escape format",
+        "in jdbc time escape format",
+        "to character array",
+        "to int",
+        "to integer",
+        "None of the above"
+    ],
+    [
+        "as byte",
+        "into long",
+        "into short",
+        "to integer",
+        "None of the above"
+    ],
+    [
+        "using the named charset, storing the result into a new byte array.",
+        "using the platform's default charset, storing the result into a new byte array.",
+        "None of the above"
+    ],
+    [
+        "if length is 0",
+        "None of the above"
+    ],
+    [
+        "as boolean",
+        "as byte",
+        "as decimal",
+        "as decimal byte",
+        "as signed",
+        "into long",
+        "into short",
+        "to integer"
+    ],
+    [
+        "four",
+        "input",
+        "two",
+        "None of the above"
+    ],
+    [
+        "at position pos",
+        "None of the above"
+    ],
+    [
+        "for acl entry",
+        "for arraytype instance",
+        "for attribute",
+        "for bit",
+        "for code signer",
+        "for collection",
+        "for compositedata instance",
+        "for compositedatasupport instance",
+        "for compositetype instance",
+        "for curve",
+        "for curve point",
+        "for date time attribute",
+        "for descriptor",
+        "for entry",
+        "for enumeration value",
+        "for field",
+        "for instance",
+        "for jobattributes",
+        "for list",
+        "for map",
+        "for map entry",
+        "for method type",
+        "for object",
+        "for object identifier",
+        "for openmbeanattributeinfo instance",
+        "for openmbeanattributeinfosupport instance",
+        "for openmbeanconstructorinfo instance",
+        "for openmbeanconstructorinfosupport instance",
+        "for openmbeanoperationinfo instance",
+        "for openmbeanparameterinfo instance",
+        "for openmbeanparameterinfosupport instance",
+        "for pageattributes",
+        "for permission object",
+        "for redirect",
+        "for renderinghints",
+        "for resolution",
+        "for server name",
+        "for set",
+        "for set attribute",
+        "for simpledateformat object",
+        "for simpletype instance",
+        "for size attribute",
+        "for snihostname",
+        "for sslrmiclientsocketfactory",
+        "for sslrmiserversocketfactory",
+        "for stack trace element",
+        "for tabulardata instance",
+        "for tabulardatasupport instance",
+        "for tabulartype instance",
+        "for timestamp",
+        "for uid",
+        "for uri",
+        "for vector",
+        "None of the above"
+    ],
+    [
+        "formatted",
+        "independent",
+        "informative",
+        "line",
+        "new",
+        "readable",
+        "short",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "new",
+        "None of the above"
+    ],
+    [
+        "as an unsigned integer value in the radix specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "including dns hostname",
+        "None of the above"
+    ],
+    [
+        "decimal",
+        "None of the above"
+    ],
+    [
+        "then",
+        "None of the above"
+    ],
+    [
+        "byte",
+        "double",
+        "long",
+        "short"
+    ],
+    [
+        "to array output stream",
+        "to file",
+        "to file output stream",
+        "to output stream",
+        "to sqloutputimpl",
+        "to stream",
+        "None of the above"
+    ],
+    [
+        "two",
+        "None of the above"
+    ],
+    [
+        "in order",
+        "None of the above"
+    ],
+    [
+        "to clob value",
+        "to destination",
+        "to file",
+        "to output stream",
+        "to sqloutputimpl",
+        "to writer",
+        "None of the above"
+    ],
+    [
+        "blocking if necessary until available",
+        "blocking if necessary until available or the current thread is interrupted",
+        "if it is available within the given time and the current thread has not been interrupted",
+        "if it is free within the given waiting time and the current thread has not been interrupted",
+        "if it is immediately available",
+        "if it is not held by another thread within the given waiting time and the current thread has not been interrupted",
+        "only if it is free at the time of invocation",
+        "only if it is not held by another thread at the time of invocation",
+        "unless the current thread is interrupted",
+        "None of the above"
+    ],
+    [
+        "current",
+        "executing",
+        "subject"
+    ],
+    [
+        "by creating all nonexistent parent directories first",
+        "using the given prefix to generate its name",
+        "None of the above"
+    ],
+    [
+        "atomically",
+        "using the given prefix and suffix strings to generate its name",
+        "None of the above"
+    ],
+    [
+        "if it exists",
+        "None of the above"
+    ],
+    [
+        "for up to the specified waiting time",
+        "until the specified deadline",
+        "None of the above"
+    ],
+    [
+        "on the url search path",
+        "None of the above"
+    ],
+    [
+        "returning a bufferedreader that may be used to read text from the file in an efficient manner",
+        "returning a bufferedreader to read text from the file in an efficient manner",
+        "returning a bufferedwriter that may be used to write text to the file in an efficient manner",
+        "returning a bufferedwriter to write text to the file in an efficient manner",
+        "returning a file channel to access the file",
+        "returning a seekable byte channel to access the file",
+        "returning an asynchronous file channel to access the file",
+        "returning an input stream to read from the file",
+        "returning an output stream that may be used to write bytes to the file"
+    ],
+    [
+        "for decoding",
+        "for reading",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "two",
+        "None of the above"
+    ],
+    [
+        "to end of this list",
+        "to end of this vector",
+        "None of the above"
+    ],
+    [
+        "atomically",
+        "using the given prefix and suffix strings to generate its name",
+        "None of the above"
+    ],
+    [
+        "as component",
+        "at end of this deque",
+        "at front of this deque",
+        "at front of this list",
+        "at position",
+        "at tail of this deque",
+        "at tail of this queue",
+        "into delay queue",
+        "into list",
+        "into priority queue",
+        "into queue",
+        "None of the above"
+    ],
+    [
+        "as boolean",
+        "as byte",
+        "as decimal",
+        "as decimal byte",
+        "as integer",
+        "as long",
+        "as short",
+        "as signed"
+    ],
+    [
+        "from file",
+        "from input stream",
+        "None of the above"
+    ],
+    [
+        "as a stream",
+        "None of the above"
+    ],
+    [
+        "boolean",
+        "byte",
+        "double",
+        "long",
+        "new",
+        "optional",
+        "optionaldouble",
+        "short",
+        "None of the above"
+    ],
+    [
+        "actual",
+        "adjustable",
+        "arbitrary",
+        "audioclip",
+        "byte",
+        "callable",
+        "charset",
+        "cipher",
+        "double",
+        "font",
+        "iiometadata",
+        "imagewriterspi",
+        "integer",
+        "interfacedef",
+        "iterator",
+        "jscrollbar",
+        "keyfactory",
+        "lock",
+        "long",
+        "marshalled",
+        "mbeanserver",
+        "new",
+        "responsible",
+        "scrollpaneadjustable",
+        "secretkeyfactory",
+        "securerandom",
+        "serversocketfactory",
+        "short",
+        "similar",
+        "soapheader",
+        "socketfactory",
+        "specialized",
+        "sslcontext",
+        "threadinfo",
+        "throwable",
+        "transferable",
+        "trustmanagerfactory",
+        "unique",
+        "None of the above"
+    ],
+    [
+        "acceptable",
+        "biggest",
+        "boolean",
+        "boxed",
+        "constant",
+        "contained",
+        "current",
+        "double",
+        "enumerated",
+        "hashcode",
+        "highest",
+        "initial",
+        "largest",
+        "last",
+        "long",
+        "maximal",
+        "maximum",
+        "minimal",
+        "minimum",
+        "new",
+        "numeric",
+        "pixel",
+        "private",
+        "pseudorandom",
+        "public",
+        "recorded",
+        "same",
+        "smallest",
+        "tentative",
+        "None of the above"
+    ],
+    [
+        "on the url search path",
+        "None of the above"
+    ],
+    [
+        "in receiver",
+        "None of the above"
+    ],
+    [
+        "acceptable",
+        "biggest",
+        "boolean",
+        "boxed",
+        "constant",
+        "contained",
+        "current",
+        "double",
+        "enumerated",
+        "hashcode",
+        "highest",
+        "initial",
+        "largest",
+        "last",
+        "long",
+        "maximal",
+        "maximum",
+        "minimal",
+        "minimum",
+        "new",
+        "numeric",
+        "pixel",
+        "private",
+        "pseudorandom",
+        "public",
+        "recorded",
+        "same",
+        "smallest",
+        "tentative",
+        "None of the above"
+    ],
+    [
+        "typesafe",
+        "unmodifiable"
+    ],
+    [
+        "then",
+        "None of the above"
+    ],
+    [
+        "to array output stream",
+        "to file",
+        "to file output stream",
+        "to output stream",
+        "to sqloutputimpl",
+        "to stream",
+        "None of the above"
+    ],
+    [
+        "single",
+        "None of the above"
+    ],
+    [
+        "in order",
+        "None of the above"
+    ],
+    [
+        "to the buffer",
+        "None of the above"
+    ],
+    [
+        "to clob value",
+        "to destination",
+        "to file",
+        "to output stream",
+        "to sqloutputimpl",
+        "to writer",
+        "None of the above"
+    ],
+    [
+        "to connector server",
+        "to database url",
+        "with data source"
+    ],
+    [
+        "in a separate process",
+        "in a separate process with the specified environment",
+        "in a separate process with the specified environment and working directory",
+        "None of the above"
+    ],
+    [
+        "with the specified environment and working directory",
+        "None of the above"
+    ],
+    [
+        "for annotation type",
+        "None of the above"
+    ],
+    [
+        "given",
+        "None of the above"
+    ],
+    [
+        "designated",
+        "None of the above"
+    ],
+    [
+        "designated",
+        "None of the above"
+    ],
+    [
+        "designated",
+        "instant",
+        "None of the above"
+    ],
+    [
+        "create default preparedstatement object",
+        "create preparedstatement object",
+        "execute sql statement",
+        "make since commit rollback",
+        "retrieve catalog name",
+        "retrieve databasemetadata object",
+        "retrieve description of available table columns",
+        "retrieve description of the available tables",
+        "retrieve keys",
+        "retrieve user name",
+        "set value of the designated parameter",
+        "submit batch of commands",
+        "terminate connection"
+    ],
+    [
+        "on the url search path",
+        "None of the above"
+    ],
+    [
+        "either",
+        "without keeping an internal reference to this new object",
+        "None of the above"
+    ],
+    [
+        "add provider",
+        "encode string",
+        "finish part encryption operation",
+        "finish part operation",
+        "initialize cipher",
+        "return base64",
+        "return object",
+        "return string representation of the object"
+    ],
+    [
+        "as a dynany",
+        "None of the above"
+    ],
+    [
+        "after a narrowing primitive conversion",
+        "after a widening primitive conversion",
+        "as a long after a narrowing primitive conversion",
+        "None of the above"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "with sign",
+        "None of the above"
+    ],
+    [
+        "for certificate",
+        "for crl",
+        "for crl entry",
+        "for gsscredential",
+        "for gssname",
+        "for oid",
+        "to object"
+    ],
+    [
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance"
+    ],
+    [
+        "for variable",
+        "None of the above"
+    ],
+    [
+        "with bit",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "given array of normalized color alpha components",
+        "given array of unnormalized color alpha components"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "None of the above"
+    ],
+    [
+        "as hasmoretokens method",
+        "as method"
+    ],
+    [
+        "convert string argument",
+        "decode application",
+        "encode string",
+        "engage in data",
+        "generate certificate object",
+        "obtain clip",
+        "open connection",
+        "return base64",
+        "return value",
+        "terminate line",
+        "write byte",
+        "write len bytes"
+    ],
+    [
+        "using the named charset, storing the result into a new byte array.",
+        "using the platform's default charset, storing the result into a new byte array.",
+        "None of the above"
+    ],
+    [
+        "key",
+        "private",
+        "secretkey",
+        "None of the above"
+    ],
+    [
+        "if length is 0",
+        "None of the above"
+    ],
+    [
+        "as boolean",
+        "as byte",
+        "as decimal",
+        "as decimal byte",
+        "as integer",
+        "as long",
+        "as short",
+        "as signed"
+    ],
+    [
+        "as byte",
+        "as integer",
+        "as short",
+        "for bigdecimal",
+        "for biginteger",
+        "for calendar",
+        "for char value",
+        "for character",
+        "for colormodel",
+        "for dimension",
+        "for doc flavor object",
+        "for enum",
+        "for fieldposition",
+        "for float object",
+        "for float value",
+        "for imagetypespecifier",
+        "for insets",
+        "for instant",
+        "for int value",
+        "for jmxprincipal",
+        "for manifest",
+        "for marshalledobject",
+        "for mathcontext",
+        "for object",
+        "for object name",
+        "for objectimpl",
+        "for parseposition",
+        "for serialarray",
+        "for serialblob",
+        "for serialclob",
+        "for serialdatalink",
+        "for serialjavaobject",
+        "for serialref",
+        "for serialstruct",
+        "for shaper",
+        "for sortkey",
+        "for string",
+        "for uuid",
+        "for value",
+        "given definition",
+        "None of the above"
+    ],
+    [
+        "for acl entry",
+        "for arraytype instance",
+        "for attribute",
+        "for bit",
+        "for code signer",
+        "for collection",
+        "for compositedata instance",
+        "for compositedatasupport instance",
+        "for compositetype instance",
+        "for curve",
+        "for curve point",
+        "for date time attribute",
+        "for descriptor",
+        "for entry",
+        "for enumeration value",
+        "for field",
+        "for instance",
+        "for jobattributes",
+        "for list",
+        "for map",
+        "for map entry",
+        "for method type",
+        "for object",
+        "for object identifier",
+        "for openmbeanattributeinfo instance",
+        "for openmbeanattributeinfosupport instance",
+        "for openmbeanconstructorinfo instance",
+        "for openmbeanconstructorinfosupport instance",
+        "for openmbeanoperationinfo instance",
+        "for openmbeanparameterinfo instance",
+        "for openmbeanparameterinfosupport instance",
+        "for pageattributes",
+        "for permission object",
+        "for redirect",
+        "for renderinghints",
+        "for resolution",
+        "for server name",
+        "for set",
+        "for set attribute",
+        "for simpledateformat object",
+        "for simpletype instance",
+        "for size attribute",
+        "for snihostname",
+        "for sslrmiclientsocketfactory",
+        "for sslrmiserversocketfactory",
+        "for stack trace element",
+        "for tabulardata instance",
+        "for tabulardatasupport instance",
+        "for tabulartype instance",
+        "for timestamp",
+        "for uid",
+        "for uri",
+        "for vector",
+        "None of the above"
+    ],
+    [
+        "boolean",
+        "byte",
+        "double",
+        "long",
+        "new",
+        "optional",
+        "optionaldouble",
+        "short",
+        "None of the above"
+    ],
+    [
+        "actual",
+        "adjustable",
+        "arbitrary",
+        "audioclip",
+        "byte",
+        "callable",
+        "charset",
+        "cipher",
+        "double",
+        "font",
+        "iiometadata",
+        "imagewriterspi",
+        "integer",
+        "interfacedef",
+        "iterator",
+        "jscrollbar",
+        "keyfactory",
+        "lock",
+        "long",
+        "marshalled",
+        "mbeanserver",
+        "new",
+        "responsible",
+        "scrollpaneadjustable",
+        "secretkeyfactory",
+        "securerandom",
+        "serversocketfactory",
+        "short",
+        "similar",
+        "soapheader",
+        "socketfactory",
+        "specialized",
+        "sslcontext",
+        "threadinfo",
+        "throwable",
+        "transferable",
+        "trustmanagerfactory",
+        "unique",
+        "None of the above"
+    ],
+    [
+        "preserving not - a - number values",
+        "None of the above"
+    ],
+    [
+        "formatted",
+        "independent",
+        "informative",
+        "line",
+        "new",
+        "readable",
+        "short",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "new",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "as an unsigned integer value in the radix specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "hexadecimal",
+        "None of the above"
+    ],
+    [
+        "in base 2",
+        "in base 8",
+        "None of the above"
+    ],
+    [
+        "including dns hostname",
+        "None of the above"
+    ],
+    [
+        "decimal",
+        "None of the above"
+    ],
+    [
+        "set",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "new",
+        "None of the above"
+    ],
+    [
+        "into array of bytes",
+        "into bigdecimal value",
+        "into biginteger value",
+        "into calendar value",
+        "into float value",
+        "into int value",
+        "into qname value",
+        "into string",
+        "into value"
+    ],
+    [
+        "using the named charset, storing the result into a new byte array.",
+        "using the platform's default charset, storing the result into a new byte array.",
+        "None of the above"
+    ],
+    [
+        "key",
+        "private",
+        "secretkey",
+        "None of the above"
+    ],
+    [
+        "from file",
+        "from input stream",
+        "from stream",
+        "None of the above"
+    ],
+    [
+        "from input stream",
+        "from stream"
+    ],
+    [
+        "for bigdecimal",
+        "for biginteger",
+        "for byte",
+        "for calendar",
+        "for char value",
+        "for character",
+        "for colormodel",
+        "for dimension",
+        "for doc flavor object",
+        "for enum",
+        "for fieldposition",
+        "for float object",
+        "for imagetypespecifier",
+        "for insets",
+        "for instant",
+        "for integer",
+        "for jmxprincipal",
+        "for manifest",
+        "for marshalledobject",
+        "for mathcontext",
+        "for object",
+        "for object name",
+        "for objectimpl",
+        "for parseposition",
+        "for serialarray",
+        "for serialblob",
+        "for serialclob",
+        "for serialdatalink",
+        "for serialjavaobject",
+        "for serialref",
+        "for serialstruct",
+        "for shaper",
+        "for short",
+        "for sortkey",
+        "for uuid",
+        "given definition",
+        "into float value",
+        "into int value",
+        "into string",
+        "into value",
+        "None of the above"
+    ],
+    [
+        "for acl entry",
+        "for arraytype instance",
+        "for attribute",
+        "for bit",
+        "for code signer",
+        "for collection",
+        "for compositedata instance",
+        "for compositedatasupport instance",
+        "for compositetype instance",
+        "for curve",
+        "for curve point",
+        "for date time attribute",
+        "for descriptor",
+        "for entry",
+        "for enumeration value",
+        "for field",
+        "for instance",
+        "for jobattributes",
+        "for list",
+        "for map",
+        "for map entry",
+        "for method type",
+        "for object",
+        "for object identifier",
+        "for openmbeanattributeinfo instance",
+        "for openmbeanattributeinfosupport instance",
+        "for openmbeanconstructorinfo instance",
+        "for openmbeanconstructorinfosupport instance",
+        "for openmbeanoperationinfo instance",
+        "for openmbeanparameterinfo instance",
+        "for openmbeanparameterinfosupport instance",
+        "for pageattributes",
+        "for permission object",
+        "for redirect",
+        "for renderinghints",
+        "for resolution",
+        "for server name",
+        "for set",
+        "for set attribute",
+        "for simpledateformat object",
+        "for simpletype instance",
+        "for size attribute",
+        "for snihostname",
+        "for sslrmiclientsocketfactory",
+        "for sslrmiserversocketfactory",
+        "for stack trace element",
+        "for tabulardata instance",
+        "for tabulardatasupport instance",
+        "for tabulartype instance",
+        "for timestamp",
+        "for uid",
+        "for uri",
+        "for vector",
+        "None of the above"
+    ],
+    [
+        "actual",
+        "adjustable",
+        "arbitrary",
+        "audioclip",
+        "byte",
+        "callable",
+        "charset",
+        "cipher",
+        "double",
+        "font",
+        "iiometadata",
+        "imagewriterspi",
+        "integer",
+        "interfacedef",
+        "iterator",
+        "jscrollbar",
+        "keyfactory",
+        "lock",
+        "long",
+        "marshalled",
+        "mbeanserver",
+        "new",
+        "responsible",
+        "scrollpaneadjustable",
+        "secretkeyfactory",
+        "securerandom",
+        "serversocketfactory",
+        "short",
+        "similar",
+        "soapheader",
+        "socketfactory",
+        "specialized",
+        "sslcontext",
+        "threadinfo",
+        "throwable",
+        "transferable",
+        "trustmanagerfactory",
+        "unique",
+        "None of the above"
+    ],
+    [
+        "formatted",
+        "independent",
+        "informative",
+        "line",
+        "new",
+        "readable",
+        "short",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "decimal",
+        "None of the above"
+    ],
+    [
+        "set",
+        "None of the above"
+    ],
+    [
+        "specified",
+        "None of the above"
+    ],
+    [
+        "as defined by the toascii operation of rfc 3490",
+        "as defined by the tounicode operation of rfc 3490",
+        "using a specific encoding scheme",
+        "None of the above"
+    ],
+    [
+        "current",
+        "executing",
+        "subject"
+    ],
+    [
+        "to days",
+        "to leap second",
+        "to stack trace information"
+    ],
+    [
+        "byte",
+        "double",
+        "long",
+        "new",
+        "short",
+        "None of the above"
+    ],
+    [
+        "using the given class loader",
+        "None of the above"
+    ],
+    [
+        "for object",
+        "to array",
+        "to component of this key pair",
+        "to default socket factory",
+        "to dom node",
+        "to editor component",
+        "to filesystem",
+        "to object registry",
+        "to orb",
+        "to parameter block",
+        "to policy object",
+        "to servant",
+        "to thread object",
+        "to uridereferencer",
+        "None of the above"
+    ],
+    [
+        "between fromindex",
+        "None of the above"
+    ],
+    [
+        "current",
+        "executing",
+        "subject"
+    ],
+    [
+        "in a separate process",
+        "in a separate process with the specified environment",
+        "in a separate process with the specified environment and working directory",
+        "None of the above"
+    ],
+    [
+        "with the specified environment and working directory",
+        "None of the above"
+    ],
+    [
+        "possibly",
+        "returning a list of futures holding their status and results when all complete",
+        "returning a list of futures holding their status and results when all complete or the timeout expires , whichever happens first",
+        "returning the result of one that has completed successfully ( i.",
+        "None of the above"
+    ],
+    [
+        "possibly",
+        "None of the above"
+    ],
+    [
+        "current",
+        "None of the above"
+    ],
+    [
+        "from socket",
+        "None of the above"
+    ],
+    [
+        "for object",
+        "to array",
+        "to component of this key pair",
+        "to default socket factory",
+        "to dom node",
+        "to editor component",
+        "to filesystem",
+        "to object registry",
+        "to orb",
+        "to parameter block",
+        "to policy object",
+        "to servant",
+        "to thread object",
+        "to uridereferencer",
+        "None of the above"
+    ],
+    [
+        "approximate",
+        "current",
+        "last",
+        "None of the above"
+    ],
+    [
+        "by initiating its shutdown sequence",
+        "forcibly",
+        "None of the above"
+    ],
+    [
+        "at tab index",
+        "in list of components",
+        "to container",
+        "to end of remaining name",
+        "to end of this composite name",
+        "to end of this compound name",
+        "to end of this container",
+        "to end of this ldap name",
+        "to end of this list",
+        "to end of this name",
+        "to end of this vector",
+        "to layout",
+        "to pane",
+        "to scroll pane container",
+        "to table of names",
+        "with name",
+        "with tab title",
+        "None of the above"
+    ],
+    [
+        "in a separate process",
+        "in a separate process with the specified environment",
+        "in a separate process with the specified environment and working directory",
+        "None of the above"
+    ],
+    [
+        "with the specified environment and working directory",
+        "None of the above"
+    ],
+    [
+        "current",
+        "None of the above"
+    ],
+    [
+        "ensurefileisvisible",
+        "getapprovebuttontext",
+        "geteditingpath",
+        "geteditorkit",
+        "getpopup",
+        "getrowcount",
+        "isediting",
+        "isfocustraversable",
+        "ispopupvisible",
+        "notificationreceived",
+        "rescancurrentdirectory",
+        "setpopupvisible",
+        "underlying",
+        "None of the above"
+    ],
+    [
+        "from clock",
+        "from date time object",
+        "from epoch day",
+        "from era",
+        "from proleptic year fields",
+        "from proleptic year month day fields",
+        "from system clock",
+        "in buddhist calendar system",
+        "in calendar system",
+        "in chronology",
+        "in hijrah calendar system"
+    ],
+    [
+        "in receiver",
+        "None of the above"
+    ],
+    [
+        "for class",
+        "for executable",
+        "for field",
+        "for member"
+    ],
+    [
+        "for element",
+        "None of the above"
+    ],
+    [
+        "for object",
+        "to array",
+        "to component of this key pair",
+        "to default socket factory",
+        "to dom node",
+        "to editor component",
+        "to filesystem",
+        "to object registry",
+        "to orb",
+        "to parameter block",
+        "to policy object",
+        "to servant",
+        "to thread object",
+        "to uridereferencer",
+        "None of the above"
+    ],
+    [
+        "approximate",
+        "current",
+        "last",
+        "None of the above"
+    ],
+    [
+        "current",
+        "executing",
+        "subject"
+    ],
+    [
+        "threaded",
+        "None of the above"
+    ],
+    [
+        "possibly",
+        "returning a list of futures holding their status and results when all complete",
+        "returning a list of futures holding their status and results when all complete or the timeout expires , whichever happens first",
+        "returning the result of one that has completed successfully ( i.",
+        "None of the above"
+    ],
+    [
+        "current",
+        "None of the above"
+    ],
+    [
+        "instead of waiting for them to be automatically released",
+        "instead of waiting for this to happen when it is automatically closed"
+    ],
+    [
+        "for object",
+        "to array",
+        "to component of this key pair",
+        "to default socket factory",
+        "to dom node",
+        "to editor component",
+        "to filesystem",
+        "to object registry",
+        "to orb",
+        "to parameter block",
+        "to policy object",
+        "to servant",
+        "to thread object",
+        "to uridereferencer",
+        "None of the above"
+    ],
+    [
+        "approximate",
+        "current",
+        "last",
+        "None of the above"
+    ],
+    [
+        "returning",
+        "runnable"
+    ],
+    [
+        "by initiating its shutdown sequence",
+        "forcibly",
+        "None of the above"
+    ],
+    [
+        "current",
+        "executing",
+        "subject"
+    ],
+    [
+        "disabled",
+        "volatile",
+        "None of the above"
+    ],
+    [
+        "using the default time zone and locale",
+        "None of the above"
+    ],
+    [
+        "if length is 0",
+        "None of the above"
+    ],
+    [
+        "randomly permute the specified list using the specified source of randomness",
+        "randomly permutes the specified list using a default source of randomness"
+    ],
+    [
+        "for acl entry",
+        "for arraytype instance",
+        "for attribute",
+        "for code signer",
+        "for collection",
+        "for compositedata instance",
+        "for compositedatasupport instance",
+        "for compositetype instance",
+        "for curve",
+        "for curve point",
+        "for date time attribute",
+        "for descriptor",
+        "for entry",
+        "for enumeration value",
+        "for field",
+        "for instance",
+        "for jobattributes",
+        "for list",
+        "for map",
+        "for map entry",
+        "for method type",
+        "for object",
+        "for object identifier",
+        "for openmbeanattributeinfo instance",
+        "for openmbeanattributeinfosupport instance",
+        "for openmbeanconstructorinfo instance",
+        "for openmbeanconstructorinfosupport instance",
+        "for openmbeanoperationinfo instance",
+        "for openmbeanparameterinfo instance",
+        "for openmbeanparameterinfosupport instance",
+        "for pageattributes",
+        "for permission object",
+        "for redirect",
+        "for renderinghints",
+        "for resolution",
+        "for server name",
+        "for set",
+        "for set attribute",
+        "for simpledateformat object",
+        "for simpletype instance",
+        "for size attribute",
+        "for snihostname",
+        "for sslrmiclientsocketfactory",
+        "for sslrmiserversocketfactory",
+        "for stack trace element",
+        "for tabulardata instance",
+        "for tabulardatasupport instance",
+        "for tabulartype instance",
+        "for timestamp",
+        "for uid",
+        "for uri",
+        "for vector",
+        "with bit",
+        "None of the above"
+    ],
+    [
+        "current",
+        "graphic",
+        "None of the above"
+    ],
+    [
+        "approximate",
+        "current",
+        "last",
+        "None of the above"
+    ],
+    [
+        "acceptable",
+        "biggest",
+        "boolean",
+        "boxed",
+        "constant",
+        "contained",
+        "current",
+        "double",
+        "enumerated",
+        "hashcode",
+        "highest",
+        "initial",
+        "largest",
+        "last",
+        "long",
+        "maximal",
+        "maximum",
+        "minimal",
+        "minimum",
+        "new",
+        "numeric",
+        "pixel",
+        "private",
+        "pseudorandom",
+        "public",
+        "recorded",
+        "same",
+        "smallest",
+        "tentative",
+        "None of the above"
+    ],
+    [
+        "after the specified delay",
+        "at the specified time.",
+        "beginning after the specified delay.",
+        "beginning at the specified time.",
+        "None of the above"
+    ],
+    [
+        "for container",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "specified",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "current",
+        "executing",
+        "subject"
+    ],
+    [
+        "threaded",
+        "None of the above"
+    ],
+    [
+        "stealing",
+        "None of the above"
+    ],
+    [
+        "current",
+        "None of the above"
+    ],
+    [
+        "ensurefileisvisible",
+        "getapprovebuttontext",
+        "geteditingpath",
+        "geteditorkit",
+        "getpopup",
+        "getrowcount",
+        "isediting",
+        "isfocustraversable",
+        "ispopupvisible",
+        "notificationreceived",
+        "rescancurrentdirectory",
+        "setpopupvisible",
+        "underlying",
+        "None of the above"
+    ],
+    [
+        "for each",
+        "for each element of the iterable",
+        "for each element of this stream",
+        "for each entry in this map",
+        "for each non - null transformation of each",
+        "for each remaining element",
+        "None of the above"
+    ],
+    [
+        "to days",
+        "to leap second",
+        "to stack trace information"
+    ],
+    [
+        "for the compilation system of the java virtual machine",
+        "for the runtime system of the java virtual machine",
+        "None of the above"
+    ],
+    [
+        "to render a particular row at",
+        "to resolve relative urls against",
+        "None of the above"
+    ],
+    [
+        "with capabilities",
+        "None of the above"
+    ],
+    [
+        "absolute",
+        "None of the above"
+    ],
+    [
+        "for object",
+        "to array",
+        "to component of this key pair",
+        "to default socket factory",
+        "to dom node",
+        "to editor component",
+        "to filesystem",
+        "to object registry",
+        "to orb",
+        "to parameter block",
+        "to policy object",
+        "to servant",
+        "to thread object",
+        "to uridereferencer",
+        "None of the above"
+    ],
+    [
+        "including dns hostname",
+        "None of the above"
+    ],
+    [
+        "using the default time zone and locale",
+        "None of the above"
+    ],
+    [
+        "for zoneid",
+        "None of the above"
+    ],
+    [
+        "from clock",
+        "from date time object",
+        "from epoch day",
+        "from era",
+        "from proleptic year fields",
+        "from proleptic year month day fields",
+        "from system clock",
+        "in buddhist calendar system",
+        "in calendar system",
+        "in chronology",
+        "in hijrah calendar system"
+    ],
+    [
+        "from clock",
+        "from date time object",
+        "from system clock",
+        "in chronology"
+    ],
+    [
+        "from date",
+        "from instant",
+        "from text string",
+        "from year",
+        "None of the above"
+    ],
+    [
+        "from date",
+        "from date time",
+        "from instant",
+        "from object",
+        "from text string",
+        "from year",
+        "None of the above"
+    ],
+    [
+        "current",
+        "None of the above"
+    ],
+    [
+        "in the specified time - zone",
+        "None of the above"
+    ],
+    [
+        "with decimalstyle",
+        "with locale",
+        "with override chronology",
+        "with override zone",
+        "with resolver style",
+        "None of the above"
+    ],
+    [
+        "next",
+        "previous",
+        "None of the above"
+    ],
+    [
+        "since january",
+        "None of the above"
+    ],
+    [
+        "formatted",
+        "independent",
+        "informative",
+        "line",
+        "new",
+        "readable",
+        "short",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "including dns hostname",
+        "None of the above"
+    ],
+    [
+        "approximate",
+        "current",
+        "last",
+        "None of the above"
+    ],
+    [
+        "for sequence",
+        "None of the above"
+    ],
+    [
+        "for calendar fields",
+        "for fields year"
+    ],
+    [
+        "for equality",
+        "for ordering"
+    ],
+    [
+        "to date object",
+        "to object",
+        "to timestamp object",
+        "with acl entry",
+        "with attribute",
+        "with collection",
+        "with entry",
+        "with jmxprincipal",
+        "with kerberoskey",
+        "with kerberosticket",
+        "with keytab",
+        "with list",
+        "with map",
+        "with objid",
+        "with principal",
+        "with rdn",
+        "with redirect",
+        "with renderinghints",
+        "with set",
+        "with simpledateformat",
+        "with subject",
+        "with type",
+        "with uid",
+        "with vector",
+        "with x500principal"
+    ],
+    [
+        "to charsequence",
+        "to object",
+        "to string",
+        "to stringbuffer"
+    ],
+    [
+        "if length is 0",
+        "None of the above"
+    ],
+    [
+        "from clock",
+        "from date time object",
+        "from epoch day",
+        "from era",
+        "from proleptic year fields",
+        "from proleptic year month day fields",
+        "from system clock",
+        "in buddhist calendar system",
+        "in calendar system",
+        "in chronology",
+        "in hijrah calendar system"
+    ],
+    [
+        "in milliseconds",
+        "None of the above"
+    ],
+    [
+        "for bcp47 language code",
+        "for bcp47 region code",
+        "for bcp47 script code",
+        "for code",
+        "for country",
+        "for currency",
+        "for data format",
+        "for dataflavor",
+        "for default locale",
+        "for design axis",
+        "for language",
+        "for locale",
+        "for script",
+        "for time zone",
+        "in style of this timezone",
+        "with sequence of characters",
+        "None of the above"
+    ],
+    [
+        "since january",
+        "None of the above"
+    ],
+    [
+        "approximate",
+        "current",
+        "last",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "specified",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "given",
+        "None of the above"
+    ],
+    [
+        "with default style",
+        "with style"
+    ],
+    [
+        "from clock",
+        "from date time object",
+        "from epoch day",
+        "from era",
+        "from proleptic year fields",
+        "from proleptic year month day fields",
+        "from system clock",
+        "in buddhist calendar system",
+        "in calendar system",
+        "in chronology",
+        "in hijrah calendar system"
+    ],
+    [
+        "using milliseconds",
+        "using seconds",
+        "using seconds from the epoch of 1970 - 01 - 01t00:00:00z and nanosecond fraction of second",
+        "None of the above"
+    ],
+    [
+        "from epoch day",
+        "from object",
+        "from text string",
+        "from year"
+    ],
+    [
+        "as boolean",
+        "as byte",
+        "as decimal",
+        "as decimal byte",
+        "as integer",
+        "as long",
+        "as short",
+        "as signed"
+    ],
+    [
+        "with number of days",
+        "with number of hours",
+        "with number of minutes",
+        "with number of months",
+        "with number of nanoseconds",
+        "with number of seconds",
+        "with number of weeks",
+        "with number of years",
+        "with time",
+        "None of the above"
+    ],
+    [
+        "from clock",
+        "from date time object",
+        "from epoch day",
+        "from era",
+        "from proleptic year fields",
+        "from proleptic year month day fields",
+        "from system clock",
+        "in buddhist calendar system",
+        "in calendar system",
+        "in chronology",
+        "in hijrah calendar system"
+    ],
+    [
+        "using milliseconds",
+        "using seconds",
+        "using seconds from the epoch of 1970 - 01 - 01t00:00:00z and nanosecond fraction of second",
+        "None of the above"
+    ],
+    [
+        "from epoch day",
+        "from object",
+        "from text string",
+        "with year"
+    ],
+    [
+        "from date",
+        "from instant",
+        "from text string",
+        "with year",
+        "None of the above"
+    ],
+    [
+        "from object",
+        "from text string",
+        "None of the above"
+    ],
+    [
+        "from object",
+        "from text string",
+        "with year"
+    ],
+    [
+        "ensuring that the i d is valid and available for use",
+        "None of the above"
+    ],
+    [
+        "current",
+        "None of the above"
+    ],
+    [
+        "with altered",
+        "with month altered",
+        "with number of days",
+        "with number of months",
+        "with number of weeks",
+        "with number of years",
+        "with year"
+    ],
+    [
+        "next",
+        "previous",
+        "None of the above"
+    ],
+    [
+        "taking account of the year",
+        "None of the above"
+    ],
+    [
+        "since january",
+        "None of the above"
+    ],
+    [
+        "approximate",
+        "current",
+        "last",
+        "None of the above"
+    ],
+    [
+        "as unit",
+        "from date",
+        "in seconds",
+        "None of the above"
+    ],
+    [
+        "for calendar fields",
+        "for fields year"
+    ],
+    [
+        "at tab index",
+        "in list of components",
+        "to container",
+        "to end of remaining name",
+        "to end of this composite name",
+        "to end of this compound name",
+        "to end of this container",
+        "to end of this ldap name",
+        "to end of this list",
+        "to end of this name",
+        "to end of this vector",
+        "to layout",
+        "to pane",
+        "to scroll pane container",
+        "to table of names",
+        "with name",
+        "with tab title",
+        "None of the above"
+    ],
+    [
+        "in jdbc date escape format",
+        "in jdbc time escape format",
+        "to character array",
+        "to int",
+        "to integer",
+        "None of the above"
+    ],
+    [
+        "ensurefileisvisible",
+        "getapprovebuttontext",
+        "geteditingpath",
+        "geteditorkit",
+        "getpopup",
+        "getrowcount",
+        "isediting",
+        "isfocustraversable",
+        "ispopupvisible",
+        "notificationreceived",
+        "rescancurrentdirectory",
+        "setpopupvisible",
+        "underlying",
+        "None of the above"
+    ],
+    [
+        "using the given class loader",
+        "None of the above"
+    ],
+    [
+        "for element",
+        "None of the above"
+    ],
+    [
+        "for object",
+        "to array",
+        "to component of this key pair",
+        "to default socket factory",
+        "to dom node",
+        "to editor component",
+        "to filesystem",
+        "to object registry",
+        "to orb",
+        "to parameter block",
+        "to policy object",
+        "to servant",
+        "to thread object",
+        "to uridereferencer",
+        "None of the above"
+    ],
+    [
+        "derived",
+        "initial"
+    ],
+    [
+        "current",
+        "None of the above"
+    ],
+    [
+        "ensurefileisvisible",
+        "getapprovebuttontext",
+        "geteditingpath",
+        "geteditorkit",
+        "getpopup",
+        "getrowcount",
+        "isediting",
+        "isfocustraversable",
+        "ispopupvisible",
+        "notificationreceived",
+        "rescancurrentdirectory",
+        "setpopupvisible",
+        "underlying",
+        "None of the above"
+    ],
+    [
+        "using the given class loader",
+        "None of the above"
+    ],
+    [
+        "with capabilities",
+        "None of the above"
+    ],
+    [
+        "for element",
+        "None of the above"
+    ],
+    [
+        "as a string",
+        "None of the above"
+    ],
+    [
+        "canonical",
+        "simple"
+    ],
+    [
+        "for object",
+        "to array",
+        "to component of this key pair",
+        "to default socket factory",
+        "to dom node",
+        "to editor component",
+        "to filesystem",
+        "to object registry",
+        "to orb",
+        "to parameter block",
+        "to policy object",
+        "to servant",
+        "to thread object",
+        "to uridereferencer",
+        "None of the above"
+    ],
+    [
+        "current",
+        "executing",
+        "subject"
+    ],
+    [
+        "in a separate process",
+        "in a separate process with the specified environment",
+        "in a separate process with the specified environment and working directory",
+        "None of the above"
+    ],
+    [
+        "with the specified environment and working directory",
+        "None of the above"
+    ],
+    [
+        "at position",
+        "from document",
+        "from format",
+        "from set",
+        "None of the above"
+    ],
+    [
+        "if such an annotation is directly present , else null",
+        "if such an annotation is present",
+        "if such annotations are either directly present or indirectly present"
+    ],
+    [
+        "for the compilation system of the java virtual machine",
+        "for the runtime system of the java virtual machine",
+        "None of the above"
+    ],
+    [
+        "for bigdecimal",
+        "for biginteger",
+        "for byte",
+        "for calendar",
+        "for char value",
+        "for character",
+        "for colormodel",
+        "for dimension",
+        "for doc flavor object",
+        "for enum",
+        "for fieldposition",
+        "for float object",
+        "for float value",
+        "for imagetypespecifier",
+        "for insets",
+        "for instant",
+        "for int value",
+        "for integer",
+        "for jmxprincipal",
+        "for manifest",
+        "for marshalledobject",
+        "for mathcontext",
+        "for object",
+        "for object name",
+        "for objectimpl",
+        "for parseposition",
+        "for serialarray",
+        "for serialblob",
+        "for serialclob",
+        "for serialdatalink",
+        "for serialjavaobject",
+        "for serialref",
+        "for serialstruct",
+        "for shaper",
+        "for short",
+        "for sortkey",
+        "for string",
+        "for uuid",
+        "for value",
+        "given definition",
+        "None of the above"
+    ],
+    [
+        "for acl entry",
+        "for arraytype instance",
+        "for attribute",
+        "for bit",
+        "for code signer",
+        "for collection",
+        "for compositedata instance",
+        "for compositedatasupport instance",
+        "for compositetype instance",
+        "for curve",
+        "for curve point",
+        "for date time attribute",
+        "for descriptor",
+        "for entry",
+        "for enumeration value",
+        "for field",
+        "for instance",
+        "for jobattributes",
+        "for list",
+        "for map",
+        "for map entry",
+        "for method type",
+        "for object",
+        "for object identifier",
+        "for openmbeanattributeinfo instance",
+        "for openmbeanattributeinfosupport instance",
+        "for openmbeanconstructorinfo instance",
+        "for openmbeanconstructorinfosupport instance",
+        "for openmbeanoperationinfo instance",
+        "for openmbeanparameterinfo instance",
+        "for openmbeanparameterinfosupport instance",
+        "for pageattributes",
+        "for permission object",
+        "for redirect",
+        "for renderinghints",
+        "for resolution",
+        "for server name",
+        "for set attribute",
+        "for simpledateformat object",
+        "for simpletype instance",
+        "for size attribute",
+        "for snihostname",
+        "for sslrmiclientsocketfactory",
+        "for sslrmiserversocketfactory",
+        "for stack trace element",
+        "for tabulardata instance",
+        "for tabulardatasupport instance",
+        "for tabulartype instance",
+        "for timestamp",
+        "for uid",
+        "for uri",
+        "for vector",
+        "from set",
+        "None of the above"
+    ],
+    [
+        "for object",
+        "to array",
+        "to component of this key pair",
+        "to default socket factory",
+        "to dom node",
+        "to editor component",
+        "to filesystem",
+        "to object registry",
+        "to orb",
+        "to parameter block",
+        "to policy object",
+        "to servant",
+        "to thread object",
+        "to uridereferencer",
+        "None of the above"
+    ],
+    [
+        "by initiating its shutdown sequence",
+        "forcibly",
+        "None of the above"
+    ],
+    [
+        "truncating or padding with false (if necessary) so the copy has the specified length.",
+        "truncating or padding with null characters (if necessary) so the copy has the specified length.",
+        "truncating or padding with nulls (if necessary) so the copy has the specified length.",
+        "truncating or padding with zeros (if necessary) so the copy has the specified length.",
+        "None of the above"
+    ],
+    [
+        "using the named charset, storing the result into a new byte array.",
+        "using the platform's default charset, storing the result into a new byte array.",
+        "None of the above"
+    ],
+    [
+        "returning a bufferedreader that may be used to read text from the file in an efficient manner",
+        "returning a bufferedreader to read text from the file in an efficient manner",
+        "returning a bufferedwriter that may be used to write text to the file in an efficient manner",
+        "returning a bufferedwriter to write text to the file in an efficient manner",
+        "returning a file channel to access the file",
+        "returning a seekable byte channel to access the file",
+        "returning an asynchronous file channel to access the file",
+        "returning an input stream to read from the file",
+        "returning an output stream that may be used to write bytes to the file"
+    ],
+    [
+        "at index",
+        "from file",
+        "None of the above"
+    ],
+    [
+        "into a portion of an array",
+        "into an array",
+        "None of the above"
+    ],
+    [
+        "at index",
+        "within sequence"
+    ],
+    [
+        "at index of the char array",
+        "at index of the charsequence",
+        "None of the above"
+    ],
+    [
+        "at row",
+        "for reading",
+        "for tabbedpane",
+        "into array of hyperlinks",
+        "into buttons",
+        "into input string of the position",
+        "into list of elements",
+        "within bank",
+        "within char sequence",
+        "within sequence",
+        "within string",
+        "within string of the first occurrence of the specified character",
+        "within string of the first occurrence of the specified substring",
+        "within string of the last occurrence of the specified character",
+        "within string of the last occurrence of the specified substring",
+        "within string of the rightmost occurrence of the specified substring",
+        "within subarray",
+        "None of the above"
+    ],
+    [
+        "if non - null",
+        "None of the above"
+    ],
+    [
+        "formatted",
+        "independent",
+        "informative",
+        "line",
+        "new",
+        "readable",
+        "short",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "two",
+        "None of the above"
+    ],
+    [
+        "to end of the menu",
+        "None of the above"
+    ],
+    [
+        "using brighter shades of the component 's current background color for highlighting , and darker shading for shadows",
+        "using the component 's current background color",
+        "using the specified highlighting and shading colors",
+        "None of the above"
+    ],
+    [
+        "invisible",
+        "None of the above"
+    ],
+    [
+        "horizontal",
+        "invisible",
+        "vertical"
+    ],
+    [
+        "horizontal",
+        "vertical"
+    ],
+    [
+        "first",
+        "None of the above"
+    ],
+    [
+        "as result of decoding",
+        "with data layout",
+        "None of the above"
+    ],
+    [
+        "horizontal",
+        "vertical"
+    ],
+    [
+        "for view component",
+        "None of the above"
+    ],
+    [
+        "formatted",
+        "independent",
+        "informative",
+        "line",
+        "new",
+        "readable",
+        "short",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "horizontal",
+        "vertical"
+    ],
+    [
+        "blockincrement",
+        "borderpainted",
+        "borderpaintedflat",
+        "contentareafilled",
+        "defaultcapable",
+        "dragenabled",
+        "floatable",
+        "iconable",
+        "lightweightpopupenabled",
+        "maximizable",
+        "maximum",
+        "minimum",
+        "particular",
+        "prototypecellvalue",
+        "rolloverenabled",
+        "specified",
+        "unitincrement",
+        "valueisadjusting",
+        "wantsinput",
+        "None of the above"
+    ],
+    [
+        "using an arbitrary imagewriter that supports the given format to a file",
+        "using an arbitrary imagewriter that supports the given format to an outputstream",
+        "using the an arbitrary imagewriter that supports the given format to an imageoutputstream",
+        "None of the above"
+    ],
+    [
+        "as a dynany",
+        "None of the above"
+    ],
+    [
+        "after a narrowing primitive conversion",
+        "after a widening primitive conversion",
+        "as a long after a narrowing primitive conversion",
+        "None of the above"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "with sign",
+        "None of the above"
+    ],
+    [
+        "for certificate",
+        "for crl",
+        "for crl entry",
+        "for gsscredential",
+        "for gssname",
+        "for object",
+        "for oid"
+    ],
+    [
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance"
+    ],
+    [
+        "for variable",
+        "None of the above"
+    ],
+    [
+        "with bit",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "given array of normalized color alpha components",
+        "given array of unnormalized color alpha components"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "None of the above"
+    ],
+    [
+        "as hasmoretokens method",
+        "as method"
+    ],
+    [
+        "as double",
+        "as float",
+        "as int",
+        "as value",
+        "at index",
+        "at unit of granularity",
+        "for cell",
+        "for cell index",
+        "for certificate",
+        "for class",
+        "for field name",
+        "for key",
+        "for nth header field",
+        "for trailer field",
+        "in copy of this local variable",
+        "None of the above"
+    ],
+    [
+        "on the url search path",
+        "None of the above"
+    ],
+    [
+        "according to the look and feel",
+        "appropriately",
+        "None of the above"
+    ],
+    [
+        "current",
+        "graphic",
+        "None of the above"
+    ],
+    [
+        "using an arbitrary imagewriter that supports the given format to a file",
+        "using an arbitrary imagewriter that supports the given format to an outputstream",
+        "using the an arbitrary imagewriter that supports the given format to an imageoutputstream",
+        "None of the above"
+    ],
+    [
+        "to object",
+        "to url"
+    ],
+    [
+        "as boolean",
+        "as byte",
+        "as decimal",
+        "as decimal byte",
+        "as integer",
+        "as long",
+        "as short",
+        "as signed"
+    ],
+    [
+        "new",
+        "None of the above"
+    ],
+    [
+        "current",
+        "executing",
+        "subject"
+    ],
+    [
+        "to address",
+        "to port",
+        "to port number",
+        "to server",
+        "to socket address",
+        "None of the above"
+    ],
+    [
+        "for this channel binding",
+        "None of the above"
+    ],
+    [
+        "as to direction",
+        "as to number of rows"
+    ],
+    [
+        "from file",
+        "from input stream",
+        "None of the above"
+    ],
+    [
+        "new",
+        "None of the above"
+    ],
+    [
+        "instead of waiting for them to be automatically released",
+        "instead of waiting for this to happen when it is automatically closed"
+    ],
+    [
+        "binding",
+        "closed"
+    ],
+    [
+        "then",
+        "None of the above"
+    ],
+    [
+        "by initiating its shutdown sequence",
+        "forcibly",
+        "None of the above"
+    ],
+    [
+        "with the given flags",
+        "None of the above"
+    ],
+    [
+        "to address",
+        "to port",
+        "to port number",
+        "to server",
+        "to socket address",
+        "None of the above"
+    ],
+    [
+        "in a separate process",
+        "in a separate process with the specified environment",
+        "in a separate process with the specified environment and working directory",
+        "None of the above"
+    ],
+    [
+        "with the specified environment and working directory",
+        "None of the above"
+    ],
+    [
+        "local",
+        "remote",
+        "None of the above"
+    ],
+    [
+        "for bigdecimal",
+        "for biginteger",
+        "for byte",
+        "for calendar",
+        "for char value",
+        "for character",
+        "for colormodel",
+        "for dimension",
+        "for doc flavor object",
+        "for enum",
+        "for fieldposition",
+        "for float object",
+        "for float value",
+        "for imagetypespecifier",
+        "for insets",
+        "for instant",
+        "for int value",
+        "for integer",
+        "for jmxprincipal",
+        "for manifest",
+        "for marshalledobject",
+        "for mathcontext",
+        "for object",
+        "for object name",
+        "for objectimpl",
+        "for parseposition",
+        "for serialarray",
+        "for serialblob",
+        "for serialclob",
+        "for serialdatalink",
+        "for serialjavaobject",
+        "for serialref",
+        "for serialstruct",
+        "for shaper",
+        "for short",
+        "for sortkey",
+        "for string",
+        "for uuid",
+        "for value",
+        "given definition",
+        "None of the above"
+    ],
+    [
+        "in textual presentation form",
+        "None of the above"
+    ],
+    [
+        "for object",
+        "to array",
+        "to component of this key pair",
+        "to default socket factory",
+        "to dom node",
+        "to editor component",
+        "to filesystem",
+        "to object registry",
+        "to orb",
+        "to parameter block",
+        "to policy object",
+        "to servant",
+        "to thread object",
+        "to uridereferencer",
+        "None of the above"
+    ],
+    [
+        "approximate",
+        "current",
+        "last",
+        "None of the above"
+    ],
+    [
+        "specified",
+        "None of the above"
+    ]
+]

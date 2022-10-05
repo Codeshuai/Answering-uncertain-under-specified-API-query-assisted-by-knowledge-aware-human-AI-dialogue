@@ -1,0 +1,4592 @@
+[
+    {
+        "description": "prints an object and then terminates the line.",
+        "action": "terminate",
+        "direct_object": "line",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "then terminate the line"
+        }
+    },
+    {
+        "description": "renders a renderableimage, applying a transform from image space into user space before drawing.",
+        "action": "render",
+        "direct_object": "renderableimage",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "applying a transform from image space into user space before drawing"
+        }
+    },
+    {
+        "description": "adds a propertychangelistener to the listener list for a specific property.",
+        "action": "add",
+        "direct_object": "",
+        "direct_object_modifiers": [],
+        "preposition_object": "listener list",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "for a specific property"
+        }
+    },
+    {
+        "description": "returns the value of this byte as a float after a widening primitive conversion.",
+        "action": "return",
+        "direct_object": "value of this byte",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "after a widening primitive conversion",
+            "ARGM-PRD": "as a float"
+        }
+    },
+    {
+        "description": "removes the specified component listener so that it no longer receives component events from this component.",
+        "action": "remove",
+        "direct_object": "component listener",
+        "direct_object_modifiers": [
+            "specified"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "so that it no longer receives component events from this component"
+        }
+    },
+    {
+        "description": "repaints the component when the image has changed.",
+        "action": "repaint",
+        "direct_object": "component",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "when the image has changed"
+        }
+    },
+    {
+        "description": "calculates the preferred size dimensions for the specified container, given the components it contains.",
+        "action": "calculate",
+        "direct_object": "size dimensions",
+        "direct_object_modifiers": [],
+        "preposition_object": "container",
+        "preposition_object_modifiers": [
+            "specified"
+        ],
+        "argm": {
+            "ARGM-ADV": "given the components it contains"
+        }
+    },
+    {
+        "description": "removes the specified adjustment listener so that it no longer receives instances of adjustmentevent from this scroll bar.",
+        "action": "remove",
+        "direct_object": "adjustment listener",
+        "direct_object_modifiers": [
+            "specified"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "so that it no longer receives instances of adjustmentevent from this scroll bar"
+        }
+    },
+    {
+        "description": "prints a boolean and then terminate the line.",
+        "action": "terminate",
+        "direct_object": "line",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "then terminate the line"
+        }
+    },
+    {
+        "description": "returns the metrics of the glyph at the specified index into this glyphvector.",
+        "action": "return",
+        "direct_object": "metrics of the glyph",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "into this glyphvector",
+            "ARGM-TMP": "at the specified index"
+        }
+    },
+    {
+        "description": "enables or disables this component, depending on the value of the parameter b.",
+        "action": "disable",
+        "direct_object": "component",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "depending on the value of the parameter b."
+        }
+    },
+    {
+        "description": "performs the given action for each element of the iterable until all elements have been processed or the action throws an exception.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [
+            "given"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each element of the iterable",
+            "ARGM-TMP": "until all elements have been processed or the action throws an exception"
+        }
+    },
+    {
+        "description": "handles the mousepressed event by invoking the mousepressed methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "mousepressed"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the mousepressed methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "returns the table as an array of bytes for a specified tag.",
+        "action": "return",
+        "direct_object": "table",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRD": "as an array of bytes for a specified tag"
+        }
+    },
+    {
+        "description": "invalidates the layout, indicating that if the layout manager has cached information it should be discarded.",
+        "action": "invalidate",
+        "direct_object": "layout",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "indicating that if the layout manager has cached information it should be discarded"
+        }
+    },
+    {
+        "description": "renders a renderedimage, applying a transform from image space into user space before drawing.",
+        "action": "render",
+        "direct_object": "renderedimage",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "applying a transform from image space into user space before drawing"
+        }
+    },
+    {
+        "description": "renders an image, applying a transform from image space into user space before drawing.",
+        "action": "render",
+        "direct_object": "image",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "applying a transform from image space into user space before drawing"
+        }
+    },
+    {
+        "description": "reads characters into a portion of an array.",
+        "action": "read",
+        "direct_object": "characters",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "into a portion of an array"
+        }
+    },
+    {
+        "description": "handles the componentmoved event by invoking the componentmoved methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "componentmoved"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the componentmoved methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "performs an action for each element of this stream.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each element of this stream"
+        }
+    },
+    {
+        "description": "performs an action for each element of this stream.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each element of this stream"
+        }
+    },
+    {
+        "description": "moves the focus down one focus traversal cycle from the current focus owner, if and only if the current focus owner is a container that is a focus cycle root.",
+        "action": "move",
+        "direct_object": "focus traversal cycle",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "if and only if the current focus owner is a container that is a focus cycle root",
+            "ARGM-DIR": "down one focus traversal cycle from the current focus owner"
+        }
+    },
+    {
+        "description": "fully parses the text producing an object of the specified type.",
+        "action": "parse",
+        "direct_object": "text",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-EXT": "fully"
+        }
+    },
+    {
+        "description": "returns the line join style.",
+        "action": "return",
+        "direct_object": "line",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "join style"
+        }
+    },
+    {
+        "description": "calculates the maximum size dimensions for the specified container, given the components it contains.",
+        "action": "calculate",
+        "direct_object": "size dimensions",
+        "direct_object_modifiers": [],
+        "preposition_object": "container",
+        "preposition_object_modifiers": [
+            "specified"
+        ],
+        "argm": {
+            "ARGM-ADV": "given the components it contains"
+        }
+    },
+    {
+        "description": "sets the paint attribute for the graphics2d context.",
+        "action": "set",
+        "direct_object": "paint attribute",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "for the graphics2d context"
+        }
+    },
+    {
+        "description": "updates the textmeasurer after a single character has been inserted into the paragraph currently represented by this textmeasurer.",
+        "action": "update",
+        "direct_object": "textmeasurer",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "after a single character has been inserted into the paragraph currently represented by this textmeasurer"
+        }
+    },
+    {
+        "description": "returns the current stroke in the graphics2d context.",
+        "action": "return",
+        "direct_object": "stroke",
+        "direct_object_modifiers": [
+            "current"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "in the graphics2d context"
+        }
+    },
+    {
+        "description": "returns the active window, even if the calling thread is in a different context than the active window.",
+        "action": "return",
+        "direct_object": "window",
+        "direct_object_modifiers": [
+            "active"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "even if the calling thread is in a different context than the active window"
+        }
+    },
+    {
+        "description": "performs the given action for each remaining element, in the order elements occur when iterating, until all elements have been processed or the action throws an exception.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [
+            "given"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each remaining element"
+        }
+    },
+    {
+        "description": "returns the pixel bounds of this glyphvector when rendered in a graphics with the given fontrendercontext at the given location.",
+        "action": "return",
+        "direct_object": "bounds of this glyphvector",
+        "direct_object_modifiers": [
+            "pixel"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "when rendered in a graphics with the given fontrendercontext at the given location"
+        }
+    },
+    {
+        "description": "performs the given action for each remaining element until all elements have been processed or the action throws an exception.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [
+            "given"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each remaining element",
+            "ARGM-TMP": "until all elements have been processed or the action throws an exception"
+        }
+    },
+    {
+        "description": "writes a double value, which is comprised of eight bytes, to the output stream.",
+        "action": "write",
+        "direct_object": "value",
+        "direct_object_modifiers": [
+            "double"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "to the output stream"
+        }
+    },
+    {
+        "description": "returns debugging information for this textlayout.",
+        "action": "debug",
+        "direct_object": "information",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for this textlayout"
+        }
+    },
+    {
+        "description": "handles the mousedragged event by invoking the mousedragged methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "mousedragged"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the mousedragged methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "resizes this component so that it has width width and height height.",
+        "action": "resize",
+        "direct_object": "component",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "so that it has width width and height height"
+        }
+    },
+    {
+        "description": "ends this print job once it is no longer referenced.",
+        "action": "end",
+        "direct_object": "print job",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "once it is no longer referenced"
+        }
+    },
+    {
+        "description": "copies pixels from raster srcraster to this writableraster.",
+        "action": "pixel",
+        "direct_object": "",
+        "direct_object_modifiers": [],
+        "preposition_object": "writableraster",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "from raster srcraster"
+        }
+    },
+    {
+        "description": "performs the given action for each non-null transformation of each (key, value).",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [
+            "given"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each non - null transformation of each"
+        }
+    },
+    {
+        "description": "prints an object and then terminates the line.",
+        "action": "terminate",
+        "direct_object": "line",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "then terminates the line"
+        }
+    },
+    {
+        "description": "this method returns a the currently available dataflavors of the transferable operand as a java.",
+        "action": "return",
+        "direct_object": "dataflavors of the transferable operand",
+        "direct_object_modifiers": [
+            "available"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRD": "as a java"
+        }
+    },
+    {
+        "description": "removes the specified key listener so that it no longer receives key events from this component.",
+        "action": "remove",
+        "direct_object": "listener",
+        "direct_object_modifiers": [
+            "specified",
+            "key"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "so that it no longer receives key events from this component"
+        }
+    },
+    {
+        "description": "writes a character to the buffer.",
+        "action": "write",
+        "direct_object": "character",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "to the buffer"
+        }
+    },
+    {
+        "description": "performs an action for each element of this stream, in the encounter order of the stream if the stream has a defined encounter order.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "if the stream has a defined encounter order",
+            "ARGM-GOL": "for each element of this stream",
+            "ARGM-MNR": "in the encounter order of the stream"
+        }
+    },
+    {
+        "description": "returns the pixel bounds of this textlayout when rendered in a graphics with the given fontrendercontext at the given location.",
+        "action": "return",
+        "direct_object": "bounds of this textlayout",
+        "direct_object_modifiers": [
+            "pixel"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "when rendered in a graphics with the given fontrendercontext at the given location"
+        }
+    },
+    {
+        "description": "gets the locale object that is associated with this window, if the locale has been set.",
+        "action": "get",
+        "direct_object": "object",
+        "direct_object_modifiers": [
+            "locale"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "if the locale has been set"
+        }
+    },
+    {
+        "description": "concatenates the specified string to the end of this string.",
+        "action": "concatenate",
+        "direct_object": "string",
+        "direct_object_modifiers": [
+            "specified"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-EXT": "to the end of this string"
+        }
+    },
+    {
+        "description": "obtains the current volume level for the line.",
+        "action": "obtain",
+        "direct_object": "volume level",
+        "direct_object_modifiers": [
+            "current"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for the line"
+        }
+    },
+    {
+        "description": "sets the requested data array element in the specified bank from the given float.",
+        "action": "set",
+        "direct_object": "data array element",
+        "direct_object_modifiers": [
+            "requested"
+        ],
+        "preposition_object": "bank",
+        "preposition_object_modifiers": [
+            "specified"
+        ],
+        "argm": {
+            "ARGM-DIR": "from the given float"
+        }
+    },
+    {
+        "description": "gets the locale object that is associated with this window, if the locale has been set.",
+        "action": "get",
+        "direct_object": "object",
+        "direct_object_modifiers": [
+            "locale"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "if the locale has been set"
+        }
+    },
+    {
+        "description": "prints an array of characters and then terminates the line.",
+        "action": "terminate",
+        "direct_object": "line",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "then terminate the line"
+        }
+    },
+    {
+        "description": "writes a character to the buffer.",
+        "action": "write",
+        "direct_object": "character",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "to the buffer"
+        }
+    },
+    {
+        "description": "performs an action for each element of this stream, guaranteeing that each element is processed in encounter order for streams that have a defined encounter order.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "guaranteeing that each element is processed in encounter order for streams that have a defined encounter order",
+            "ARGM-GOL": "for each element of this stream"
+        }
+    },
+    {
+        "description": "performs the given action for each element of the iterable until all elements have been processed or the action throws an exception.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [
+            "given"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each element of the iterable",
+            "ARGM-TMP": "until all elements have been processed or the action throws an exception"
+        }
+    },
+    {
+        "description": "removes the specified item listener so that it no longer receives item events from this choice menu.",
+        "action": "remove",
+        "direct_object": "item listener",
+        "direct_object_modifiers": [
+            "specified"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "so that it no longer receives item events from this choice menu"
+        }
+    },
+    {
+        "description": "sets the paint attribute for the graphics2d context.",
+        "action": "set",
+        "direct_object": "paint attribute",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "for the graphics2d context"
+        }
+    },
+    {
+        "description": "handles the componentremoved container event by invoking the componentremoved methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "container event",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the componentremoved methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "creates this toolkit's implementation of the desktop using the specified peer interface.",
+        "action": "create",
+        "direct_object": "implementation of the desktop",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "using the specified peer interface"
+        }
+    },
+    {
+        "description": "adds the specified component to the layout, using the specified constraint object.",
+        "action": "add",
+        "direct_object": "component",
+        "direct_object_modifiers": [
+            "specified"
+        ],
+        "preposition_object": "layout",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "using the specified constraint object"
+        }
+    },
+    {
+        "description": "removes the specified window listener so that it no longer receives window events from this window.",
+        "action": "remove",
+        "direct_object": "window listener",
+        "direct_object_modifiers": [
+            "specified"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "so that it no longer receives window events from this window"
+        }
+    },
+    {
+        "description": "returns a volatileimage with a data layout and color model compatible with this graphicsconfiguration, using the specified image capabilities.",
+        "action": "return",
+        "direct_object": "volatileimage",
+        "direct_object_modifiers": [],
+        "preposition_object": "data layout",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRD": "using the specified image capabilities"
+        }
+    },
+    {
+        "description": "handles the focuslost event by invoking the focuslost methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "focuslost"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the focuslost methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "handles the windowclosing event by invoking the windowclosing methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "windowclosing"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the windowclosing methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "returns the number of tiles in the y direction.",
+        "action": "return",
+        "direct_object": "number of tiles",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "in the y direction"
+        }
+    },
+    {
+        "description": "returns the pixel bounds of this textlayout when rendered in a graphics with the given fontrendercontext at the given location.",
+        "action": "return",
+        "direct_object": "bounds of this textlayout",
+        "direct_object_modifiers": [
+            "pixel"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "when rendered in a graphics with the given fontrendercontext at the given location"
+        }
+    },
+    {
+        "description": "returns the table as an array of bytes for a specified tag.",
+        "action": "return",
+        "direct_object": "table",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRD": "as an array of bytes for a specified tag"
+        }
+    },
+    {
+        "description": "performs the given action for each remaining element, sequentially in the current thread, until all elements have been processed or the action throws an exception.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [
+            "given"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each remaining element",
+            "ARGM-LOC": "in the current thread",
+            "ARGM-MNR": "sequentially",
+            "ARGM-TMP": "until all elements have been processed or the action throws an exception"
+        }
+    },
+    {
+        "description": "this method initiates a focus traversal operation if and only if the keyevent represents a focus traversal key for the specified focusedcomponent.",
+        "action": "initiate",
+        "direct_object": "focus traversal operation",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "if and only if the keyevent represents a focus traversal key for the specified focusedcomponent"
+        }
+    },
+    {
+        "description": "returns the requested data array element from the specified bank.",
+        "action": "return",
+        "direct_object": "data array element",
+        "direct_object_modifiers": [
+            "requested"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "from the specified bank"
+        }
+    },
+    {
+        "description": "handles the focusgained event by invoking the focusgained methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "focusgained"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the focusgained methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "returns the requested data array element from the specified bank as a float.",
+        "action": "return",
+        "direct_object": "data array element",
+        "direct_object_modifiers": [
+            "requested"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "from the specified bank",
+            "ARGM-PRD": "as a float"
+        }
+    },
+    {
+        "description": "determines the minimum size of the target container using this layout manager.",
+        "action": "determine",
+        "direct_object": "size of the target container",
+        "direct_object_modifiers": [
+            "minimum"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "using this layout manager"
+        }
+    },
+    {
+        "description": "decodes a string native for use as a java mime type.",
+        "action": "decode",
+        "direct_object": "string",
+        "direct_object_modifiers": [
+            "native"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "for use as a java mime type"
+        }
+    },
+    {
+        "description": "invalidates the layout, indicating that if the layout manager has cached information it should be discarded.",
+        "action": "invalidate",
+        "direct_object": "layout",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "indicating that if the layout manager has cached information it should be discarded"
+        }
+    },
+    {
+        "description": "finds a color in the system properties.",
+        "action": "find",
+        "direct_object": "color",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "in the system properties"
+        }
+    },
+    {
+        "description": "returns the bounds of the specified string in the specified graphics context.",
+        "action": "return",
+        "direct_object": "bounds of the specified string",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "in the specified graphics context"
+        }
+    },
+    {
+        "description": "writes a char value, which is comprised of two bytes, to the output stream.",
+        "action": "write",
+        "direct_object": "char value",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "to the output stream"
+        }
+    },
+    {
+        "description": "handles the componentadded container event by invoking the componentadded methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "container event",
+        "direct_object_modifiers": [
+            "componentadded"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the componentadded methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "copies pixels from raster srcraster to this writableraster.",
+        "action": "pixel",
+        "direct_object": "",
+        "direct_object_modifiers": [],
+        "preposition_object": "writableraster",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "from raster srcraster"
+        }
+    },
+    {
+        "description": "returns the image as one large tile.",
+        "action": "return",
+        "direct_object": "image",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRD": "as one large tile"
+        }
+    },
+    {
+        "description": "performs an action for each element of this stream, guaranteeing that each element is processed in encounter order for streams that have a defined encounter order.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "guaranteeing that each element is processed in encounter order for streams that have a defined encounter order",
+            "ARGM-GOL": "for each element of this stream"
+        }
+    },
+    {
+        "description": "obtains the current volume level for the line.",
+        "action": "obtain",
+        "direct_object": "volume level",
+        "direct_object_modifiers": [
+            "current"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for the line"
+        }
+    },
+    {
+        "description": "handles the caretpositionchanged event by invoking the caretpositionchanged methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "caretpositionchanged"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the caretpositionchanged methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "creates this toolkit's implementation of the desktop using the specified peer interface.",
+        "action": "create",
+        "direct_object": "implementation of the desktop",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "using the specified peer interface"
+        }
+    },
+    {
+        "description": "returns the requested data array element from the specified bank.",
+        "action": "return",
+        "direct_object": "data array element",
+        "direct_object_modifiers": [
+            "requested"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "from the specified bank"
+        }
+    },
+    {
+        "description": "returns the linemetrics object for the specified string in the specified graphics context.",
+        "action": "return",
+        "direct_object": "linemetrics object",
+        "direct_object_modifiers": [],
+        "preposition_object": "string",
+        "preposition_object_modifiers": [
+            "specified"
+        ],
+        "argm": {
+            "ARGM-LOC": "in the specified graphics context"
+        }
+    },
+    {
+        "description": "returns the focus owner, if the focus owner is in the same context as the calling thread.",
+        "action": "return",
+        "direct_object": "focus owner",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "if the focus owner is in the same context as the calling thread"
+        }
+    },
+    {
+        "description": "returns a data element array representation of a pixel in this colormodel, given an integer pixel representation in the default rgb color model.",
+        "action": "return",
+        "direct_object": "data element array representation of a pixel",
+        "direct_object_modifiers": [],
+        "preposition_object": "colormodel",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRD": "given an integer pixel representation in the default rgb color model"
+        }
+    },
+    {
+        "description": "moves the focus down one focus traversal cycle.",
+        "action": "move",
+        "direct_object": "focus",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "down one focus traversal cycle"
+        }
+    },
+    {
+        "description": "clears the global focus owner at both the java and native levels.",
+        "action": "clear",
+        "direct_object": "focus owner",
+        "direct_object_modifiers": [
+            "global"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "at both the java and native levels"
+        }
+    },
+    {
+        "description": "prints a character and then terminates the line.",
+        "action": "terminate",
+        "direct_object": "line",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "then terminate the line"
+        }
+    },
+    {
+        "description": "returns the bounds of the specified string in the specified graphics context.",
+        "action": "return",
+        "direct_object": "bounds of the specified string",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "in the specified graphics context"
+        }
+    },
+    {
+        "description": "shows or hides this dialog depending on the value of parameter b.",
+        "action": "hide",
+        "direct_object": "dialog",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "depending on the value of parameter b."
+        }
+    },
+    {
+        "description": "gets the singleton instance of the system selection as a clipboard object.",
+        "action": "get",
+        "direct_object": "singleton instance of the system selection",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRD": "as a clipboard object"
+        }
+    },
+    {
+        "description": "adds a propertychangelistener to the listener list for a specific property.",
+        "action": "add",
+        "direct_object": "",
+        "direct_object_modifiers": [],
+        "preposition_object": "listener list",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "for a specific property"
+        }
+    },
+    {
+        "description": "adds the specified component to this container at the specified index.",
+        "action": "add",
+        "direct_object": "component",
+        "direct_object_modifiers": [
+            "specified"
+        ],
+        "preposition_object": "container",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "at the specified index"
+        }
+    },
+    {
+        "description": "removes the specified mouse motion listener so that it no longer receives mouse motion events from this component.",
+        "action": "remove",
+        "direct_object": "mouse motion listener",
+        "direct_object_modifiers": [
+            "specified"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "so that it no longer receives mouse motion events from this component"
+        }
+    },
+    {
+        "description": "returns the current focus cycle root, if the current focus cycle root is in the same context as the calling thread.",
+        "action": "return",
+        "direct_object": "focus cycle root",
+        "direct_object_modifiers": [
+            "current"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "if the current focus cycle root is in the same context as the calling thread"
+        }
+    },
+    {
+        "description": "invalidates the layout, indicating that if the layout manager has cached information it should be discarded.",
+        "action": "invalidate",
+        "direct_object": "layout",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "indicating that if the layout manager has cached information it should be discarded"
+        }
+    },
+    {
+        "description": "handles the mousemoved event by invoking the mousemoved methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "mousemoved"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the mousemoved methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "returns the value of this byte as a double after a widening primitive conversion.",
+        "action": "return",
+        "direct_object": "value of this byte",
+        "direct_object_modifiers": [],
+        "preposition_object": "double",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "after a widening primitive conversion"
+        }
+    },
+    {
+        "description": "adds a separator line, or a hypen, to the menu at the current position.",
+        "action": "add",
+        "direct_object": "separator line",
+        "direct_object_modifiers": [],
+        "preposition_object": "menu",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "at the current position"
+        }
+    },
+    {
+        "description": "this method initiates a focus traversal operation if and only if the keyevent represents a focus traversal key for the specified focusedcomponent.",
+        "action": "initiate",
+        "direct_object": "focus traversal operation",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "if and only if the keyevent represents a focus traversal key for the specified focusedcomponent"
+        }
+    },
+    {
+        "description": "returns the alpha component for the specified pixel, scaled from 0 to 255.",
+        "action": "return",
+        "direct_object": "component",
+        "direct_object_modifiers": [
+            "alpha"
+        ],
+        "preposition_object": "pixel",
+        "preposition_object_modifiers": [
+            "specified"
+        ],
+        "argm": {
+            "ARGM-PRD": "scaled from 0 to 255"
+        }
+    },
+    {
+        "description": "handles the mouseexited event by invoking the mouseexited methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "mouseexited"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the mouseexited methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "launches the mail composing window of the user default mail client, filling the message fields specified by a mailto: uri.",
+        "action": "launch",
+        "direct_object": "window of the user default mail client",
+        "direct_object_modifiers": [
+            "composing"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "filling the message fields specified by a mailto : uri"
+        }
+    },
+    {
+        "description": "writes a float value, which is comprised of four bytes, to the output stream.",
+        "action": "write",
+        "direct_object": "float value",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "to the output stream"
+        }
+    },
+    {
+        "description": "copies pixels from raster srcraster to this writableraster.",
+        "action": "pixel",
+        "direct_object": "",
+        "direct_object_modifiers": [],
+        "preposition_object": "writableraster",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "from raster srcraster"
+        }
+    },
+    {
+        "description": "sets descriptors in the info array of type indescriptortype for the modelmbean.",
+        "action": "set",
+        "direct_object": "descriptors",
+        "direct_object_modifiers": [],
+        "preposition_object": "info array of type indescriptortype",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for the modelmbean"
+        }
+    },
+    {
+        "description": "reads characters into a portion of an array.",
+        "action": "read",
+        "direct_object": "characters",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "into a portion of an array"
+        }
+    },
+    {
+        "description": "moves the focus down one focus traversal cycle.",
+        "action": "move",
+        "direct_object": "focus",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "down one focus traversal cycle"
+        }
+    },
+    {
+        "description": "returns the requested data array element from the specified bank.",
+        "action": "return",
+        "direct_object": "data array element",
+        "direct_object_modifiers": [
+            "requested"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "from the specified bank"
+        }
+    },
+    {
+        "description": "performs an action for each element of this stream.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each element of this stream"
+        }
+    },
+    {
+        "description": "returns the resulting multicast listener after removing the old listener from listener-l.",
+        "action": "return",
+        "direct_object": "multicast listener",
+        "direct_object_modifiers": [
+            "resulting"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "after removing the old listener from listener - l."
+        }
+    },
+    {
+        "description": "returns the requested data array element from the first (default) bank as a float.",
+        "action": "return",
+        "direct_object": "data array element",
+        "direct_object_modifiers": [
+            "requested"
+        ],
+        "preposition_object": "bank",
+        "preposition_object_modifiers": [
+            "first"
+        ],
+        "argm": {
+            "ARGM-PRD": "as a float"
+        }
+    },
+    {
+        "description": "removes the specified action listener so that it no longer receives action events from this text field.",
+        "action": "remove",
+        "direct_object": "action listener",
+        "direct_object_modifiers": [
+            "specified"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "so that it no longer receives action events from this text field"
+        }
+    },
+    {
+        "description": "determines the preferred size of the target container using this layout manager, based on the components in the container.",
+        "action": "determine",
+        "direct_object": "size of the target container",
+        "direct_object_modifiers": [
+            "preferred"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "using this layout manager , based on the components in the container"
+        }
+    },
+    {
+        "description": "implements execution conventions for countedcompleters.",
+        "action": "implement",
+        "direct_object": "execution conventions",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for countedcompleters"
+        }
+    },
+    {
+        "description": "returns the requested data array element from the specified bank.",
+        "action": "return",
+        "direct_object": "data array element",
+        "direct_object_modifiers": [
+            "requested"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "from the specified bank"
+        }
+    },
+    {
+        "description": "returns the bounds of the specified string in the specified graphics context.",
+        "action": "return",
+        "direct_object": "bounds of the specified string",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "in the specified graphics context"
+        }
+    },
+    {
+        "description": "prints an array of characters and then terminates the line.",
+        "action": "terminate",
+        "direct_object": "line",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "then terminate the line"
+        }
+    },
+    {
+        "description": "handles the itemstatechanged event by invoking the itemstatechanged methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "itemstatechanged"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the itemstatechanged methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "removes the specified container listener so it no longer receives container events from this container.",
+        "action": "remove",
+        "direct_object": "container listener",
+        "direct_object_modifiers": [
+            "specified"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "so it no longer receives container events from this container"
+        }
+    },
+    {
+        "description": "resizes this component so that it has width width and height height.",
+        "action": "resize",
+        "direct_object": "component",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "so that it has width width and height height"
+        }
+    },
+    {
+        "description": "gets the locale object that is associated with this window, if the locale has been set.",
+        "action": "get",
+        "direct_object": "object",
+        "direct_object_modifiers": [
+            "locale"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "if the locale has been set"
+        }
+    },
+    {
+        "description": "handles the focuslost event by invoking the focuslost methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "focuslost"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the focuslost methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "shows or hides this dialog depending on the value of parameter b.",
+        "action": "hide",
+        "direct_object": "dialog",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "depending on the value of parameter b."
+        }
+    },
+    {
+        "description": "moves the focus up one focus traversal cycle from the current focus owner.",
+        "action": "move",
+        "direct_object": "focus",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "up one focus traversal cycle from the current focus owner"
+        }
+    },
+    {
+        "description": "sets the paint attribute for the graphics2d context.",
+        "action": "set",
+        "direct_object": "paint attribute",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "for the graphics2d context"
+        }
+    },
+    {
+        "description": "handles the componentremoved container event by invoking the componentremoved methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "container event",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the componentremoved methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "adds a propertychangelistener to the listener list for a specific property.",
+        "action": "add",
+        "direct_object": "",
+        "direct_object_modifiers": [],
+        "preposition_object": "listener list",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "for a specific property"
+        }
+    },
+    {
+        "description": "returns the requested data array element from the specified bank as a float.",
+        "action": "return",
+        "direct_object": "data array element",
+        "direct_object_modifiers": [
+            "requested"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "from the specified bank",
+            "ARGM-PRD": "as a float"
+        }
+    },
+    {
+        "description": "launches the associated application to open the file.",
+        "action": "launch",
+        "direct_object": "application",
+        "direct_object_modifiers": [
+            "associated"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "to open the file"
+        }
+    },
+    {
+        "description": "adds a propertychangelistener to the listener list for a specific property.",
+        "action": "add",
+        "direct_object": "",
+        "direct_object_modifiers": [],
+        "preposition_object": "listener list",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "for a specific property"
+        }
+    },
+    {
+        "description": "performs the given action for each remaining element, sequentially in the current thread, until all elements have been processed or the action throws an exception.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [
+            "given"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each remaining element",
+            "ARGM-LOC": "in the current thread",
+            "ARGM-MNR": "sequentially",
+            "ARGM-TMP": "until all elements have been processed or the action throws an exception"
+        }
+    },
+    {
+        "description": "returns the bounds of the specified array of characters in the specified graphics context.",
+        "action": "return",
+        "direct_object": "bounds of the specified array of characters",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "in the specified graphics context"
+        }
+    },
+    {
+        "description": "handles the mouseexited event by invoking the mouseexited methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "mouseexited"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the mouseexited methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "performs the given action for each non-null transformation of each (key, value).",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [
+            "given"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each non - null transformation of each"
+        }
+    },
+    {
+        "description": "returns a volatileimage with a data layout and color model compatible with this graphicsconfiguration, using the specified image capabilities and transparency value.",
+        "action": "return",
+        "direct_object": "volatileimage",
+        "direct_object_modifiers": [],
+        "preposition_object": "data layout",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRD": "using the specified image capabilities and transparency value"
+        }
+    },
+    {
+        "description": "moves the focus up one focus traversal cycle from the current focus owner.",
+        "action": "move",
+        "direct_object": "focus",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "up one focus traversal cycle from the current focus owner"
+        }
+    },
+    {
+        "description": "returns the an array (length 1) containing the checkbox menu item label or null if the checkbox is not selected.",
+        "action": "return",
+        "direct_object": "array",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "if the checkbox is not selected"
+        }
+    },
+    {
+        "description": "processes events on this scroll bar.",
+        "action": "process",
+        "direct_object": "events",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "on this scroll bar"
+        }
+    },
+    {
+        "description": "fully parses the text producing an object of one of the specified types.",
+        "action": "parse",
+        "direct_object": "text",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-EXT": "fully"
+        }
+    },
+    {
+        "description": "performs the given action for each remaining element, in the order elements occur when iterating, until all elements have been processed or the action throws an exception.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [
+            "given"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each remaining element"
+        }
+    },
+    {
+        "description": "returns the current focus cycle root, if the current focus cycle root is in the same context as the calling thread.",
+        "action": "return",
+        "direct_object": "focus cycle root",
+        "direct_object_modifiers": [
+            "current"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "if the current focus cycle root is in the same context as the calling thread"
+        }
+    },
+    {
+        "description": "moves the focus down one focus traversal cycle from the current focus owner, if and only if the current focus owner is a container that is a focus cycle root.",
+        "action": "move",
+        "direct_object": "focus traversal cycle",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "if and only if the current focus owner is a container that is a focus cycle root",
+            "ARGM-DIR": "down one focus traversal cycle from the current focus owner"
+        }
+    },
+    {
+        "description": "returns the table as an array of bytes for a specified tag.",
+        "action": "return",
+        "direct_object": "table",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRD": "as an array of bytes for a specified tag"
+        }
+    },
+    {
+        "description": "performs the given action for each entry in this map until all entries have been processed or the action throws an exception.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [
+            "given"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each entry in this map",
+            "ARGM-TMP": "until all entries have been processed or the action throws an exception"
+        }
+    },
+    {
+        "description": "returns the requested data array element from the first (default) bank as a float.",
+        "action": "return",
+        "direct_object": "data array element",
+        "direct_object_modifiers": [
+            "requested"
+        ],
+        "preposition_object": "bank",
+        "preposition_object_modifiers": [
+            "first"
+        ],
+        "argm": {
+            "ARGM-PRD": "as a float"
+        }
+    },
+    {
+        "description": "obtains the current volume level for the line.",
+        "action": "obtain",
+        "direct_object": "volume level",
+        "direct_object_modifiers": [
+            "current"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for the line"
+        }
+    },
+    {
+        "description": "adds the specified component to the layout, using the specified constraint object.",
+        "action": "add",
+        "direct_object": "component",
+        "direct_object_modifiers": [
+            "specified"
+        ],
+        "preposition_object": "layout",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "using the specified constraint object"
+        }
+    },
+    {
+        "description": "returns the linemetrics object for the specified string in the specified graphics context.",
+        "action": "return",
+        "direct_object": "linemetrics object",
+        "direct_object_modifiers": [],
+        "preposition_object": "string",
+        "preposition_object_modifiers": [
+            "specified"
+        ],
+        "argm": {
+            "ARGM-LOC": "in the specified graphics context"
+        }
+    },
+    {
+        "description": "prints a string and then terminate the line.",
+        "action": "terminate",
+        "direct_object": "line",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "then terminate the line"
+        }
+    },
+    {
+        "description": "removes the specified flavorlistener so that it no longer receives flavorevents from this clipboard.",
+        "action": "remove",
+        "direct_object": "flavorlistener",
+        "direct_object_modifiers": [
+            "specified"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "so that it no longer receives flavorevents from this clipboard"
+        }
+    },
+    {
+        "description": "this method initiates a focus traversal operation if and only if the keyevent represents a focus traversal key for the specified focusedcomponent.",
+        "action": "initiate",
+        "direct_object": "focus traversal operation",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "if and only if the keyevent represents a focus traversal key for the specified focusedcomponent"
+        }
+    },
+    {
+        "description": "returns the requested data array element from the first (default) bank as a float.",
+        "action": "return",
+        "direct_object": "data array element",
+        "direct_object_modifiers": [
+            "requested"
+        ],
+        "preposition_object": "bank",
+        "preposition_object_modifiers": [
+            "first"
+        ],
+        "argm": {
+            "ARGM-PRD": "as a float"
+        }
+    },
+    {
+        "description": "sets the echo character for this text field.",
+        "action": "set",
+        "direct_object": "echo character",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "for this text field"
+        }
+    },
+    {
+        "description": "return the default filetypemap for the system.",
+        "action": "return",
+        "direct_object": "default filetypemap",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for the system"
+        }
+    },
+    {
+        "description": "gets the singleton instance of the system selection as a clipboard object.",
+        "action": "get",
+        "direct_object": "singleton instance of the system selection",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRD": "as a clipboard object"
+        }
+    },
+    {
+        "description": "returns the number of tiles in the x direction.",
+        "action": "return",
+        "direct_object": "number of tiles",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "in the x direction"
+        }
+    },
+    {
+        "description": "performs the given action for each value.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [
+            "given"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-EXT": "for each value"
+        }
+    },
+    {
+        "description": "performs the given action for each entry in this map until all entries have been processed or the action throws an exception.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [
+            "given"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each entry in this map",
+            "ARGM-TMP": "until all entries have been processed or the action throws an exception"
+        }
+    },
+    {
+        "description": "returns the focused window, even if the calling thread is in a different context than the focused window.",
+        "action": "return",
+        "direct_object": "window",
+        "direct_object_modifiers": [
+            "focused"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "even if the calling thread is in a different context than the focused window"
+        }
+    },
+    {
+        "description": "adds the specified component to the layout, using the specified constraint object.",
+        "action": "add",
+        "direct_object": "component",
+        "direct_object_modifiers": [
+            "specified"
+        ],
+        "preposition_object": "layout",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "using the specified constraint object"
+        }
+    },
+    {
+        "description": "handles the windowstatechanged event by invoking the windowstatechanged methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "windowstatechanged"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the windowstatechanged methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "adds the specified item to the the scrolling list at the position indicated by the index.",
+        "action": "add",
+        "direct_object": "item",
+        "direct_object_modifiers": [
+            "specified"
+        ],
+        "preposition_object": "list",
+        "preposition_object_modifiers": [
+            "scrolling"
+        ],
+        "argm": {
+            "ARGM-LOC": "at the position indicated by the index"
+        }
+    },
+    {
+        "description": "handles the hierarchychanged event by invoking the hierarchychanged methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "hierarchychanged"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the hierarchychanged methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "returns the position of the mouse pointer in this component's coordinate space if the component is directly under the mouse pointer, otherwise returns null.",
+        "action": "return",
+        "direct_object": "position of the mouse pointer",
+        "direct_object_modifiers": [],
+        "preposition_object": "coordinate space",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "if the component is directly under the mouse pointer"
+        }
+    },
+    {
+        "description": "processes events on this scroll bar.",
+        "action": "process",
+        "direct_object": "events",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "on this scroll bar"
+        }
+    },
+    {
+        "description": "updates this linebreakmeasurer after a single character is deleted from the text, and sets the current position to the beginning of the paragraph.",
+        "action": "update",
+        "direct_object": "linebreakmeasurer",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "after a single character is deleted from the text , and sets the current position to the beginning of the paragraph"
+        }
+    },
+    {
+        "description": "returns the current focus cycle root, if the current focus cycle root is in the same context as the calling thread.",
+        "action": "return",
+        "direct_object": "focus cycle root",
+        "direct_object_modifiers": [
+            "current"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "if the current focus cycle root is in the same context as the calling thread"
+        }
+    },
+    {
+        "description": "handles the keytyped event by invoking the keytyped methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "keytyped"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the keytyped methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "enables or disables verbose output for the memory system.",
+        "action": "disable",
+        "direct_object": "output",
+        "direct_object_modifiers": [
+            "verbose"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for the memory system"
+        }
+    },
+    {
+        "description": "this method returns a the currently available dataflavors of the transferable operand as a java.",
+        "action": "return",
+        "direct_object": "dataflavors of the transferable operand",
+        "direct_object_modifiers": [
+            "available"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRD": "as a java"
+        }
+    },
+    {
+        "description": "handles the mousemoved event by invoking the mousemoved methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "mousemoved"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the mousemoved methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "gets the singleton instance of the system selection as a clipboard object.",
+        "action": "get",
+        "direct_object": "singleton instance of the system selection",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRD": "as a clipboard object"
+        }
+    },
+    {
+        "description": "prints a float and then terminate the line.",
+        "action": "terminate",
+        "direct_object": "line",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "then terminate the line"
+        }
+    },
+    {
+        "description": "performs a lookup operation on a raster.",
+        "action": "perform",
+        "direct_object": "lookup operation",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "on a raster"
+        }
+    },
+    {
+        "description": "returns the number of tiles in the y direction.",
+        "action": "return",
+        "direct_object": "number of tiles",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "in the y direction"
+        }
+    },
+    {
+        "description": "sets the bounding rectangle of this rectangle to match the specified rectangle.",
+        "action": "set",
+        "direct_object": "rectangle of this rectangle",
+        "direct_object_modifiers": [
+            "bounding"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "to match the specified rectangle"
+        }
+    },
+    {
+        "description": "returns the window object representing the full-screen window if the device is in full-screen mode.",
+        "action": "return",
+        "direct_object": "window object",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "if the device is in full - screen mode"
+        }
+    },
+    {
+        "description": "returns the focus owner, even if the calling thread is in a different context than the focus owner.",
+        "action": "return",
+        "direct_object": "focus owner",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "even if the calling thread is in a different context than the focus owner"
+        }
+    },
+    {
+        "description": "prints a boolean and then terminate the line.",
+        "action": "terminate",
+        "direct_object": "line",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "then terminate the line"
+        }
+    },
+    {
+        "description": "handles the windowclosing event by invoking the windowclosing methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "windowclosing"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the windowclosing methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "moves the focus up one focus traversal cycle from the current focus owner.",
+        "action": "move",
+        "direct_object": "focus",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "up one focus traversal cycle from the current focus owner"
+        }
+    },
+    {
+        "description": "sets the requested data array element in the specified bank from the given float.",
+        "action": "set",
+        "direct_object": "data array element",
+        "direct_object_modifiers": [
+            "requested"
+        ],
+        "preposition_object": "bank",
+        "preposition_object_modifiers": [
+            "specified"
+        ],
+        "argm": {
+            "ARGM-DIR": "from the given float"
+        }
+    },
+    {
+        "description": "reads characters into a portion of an array.",
+        "action": "read",
+        "direct_object": "characters",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "into a portion of an array"
+        }
+    },
+    {
+        "description": "returns the requested data array element from the specified bank as a float.",
+        "action": "return",
+        "direct_object": "data array element",
+        "direct_object_modifiers": [
+            "requested"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "from the specified bank",
+            "ARGM-PRD": "as a float"
+        }
+    },
+    {
+        "description": "performs the given action for each remaining element, sequentially in the current thread, until all elements have been processed or the action throws an exception.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [
+            "given"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each remaining element",
+            "ARGM-LOC": "in the current thread",
+            "ARGM-MNR": "sequentially",
+            "ARGM-TMP": "until all elements have been processed or the action throws an exception"
+        }
+    },
+    {
+        "description": "returns the table as an array of bytes for a specified tag.",
+        "action": "return",
+        "direct_object": "table",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRD": "as an array of bytes for a specified tag"
+        }
+    },
+    {
+        "description": "moves and resizes this component to conform to the new bounding rectangle r.",
+        "action": "resize",
+        "direct_object": "component",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "to conform to the new bounding rectangle r."
+        }
+    },
+    {
+        "description": "determines the minimum size of the target container using this layout manager.",
+        "action": "determine",
+        "direct_object": "size of the target container",
+        "direct_object_modifiers": [
+            "minimum"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "using this layout manager"
+        }
+    },
+    {
+        "description": "removes the specified window state listener so that it no longer receives window events from this window.",
+        "action": "remove",
+        "direct_object": "window state listener",
+        "direct_object_modifiers": [
+            "specified"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "so that it no longer receives window events from this window"
+        }
+    },
+    {
+        "description": "adds a propertychangelistener to the listener list for a specific property.",
+        "action": "add",
+        "direct_object": "",
+        "direct_object_modifiers": [],
+        "preposition_object": "listener list",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "for a specific property"
+        }
+    },
+    {
+        "description": "performs an action for each element of this stream, in the encounter order of the stream if the stream has a defined encounter order.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "if the stream has a defined encounter order",
+            "ARGM-GOL": "for each element of this stream",
+            "ARGM-MNR": "in the encounter order of the stream"
+        }
+    },
+    {
+        "description": "prints an object and then terminates the line.",
+        "action": "terminate",
+        "direct_object": "line",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "then terminates the line"
+        }
+    },
+    {
+        "description": "writes a character to the buffer.",
+        "action": "write",
+        "direct_object": "character",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "to the buffer"
+        }
+    },
+    {
+        "description": "performs an action for each element of this stream, guaranteeing that each element is processed in encounter order for streams that have a defined encounter order.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "guaranteeing that each element is processed in encounter order for streams that have a defined encounter order",
+            "ARGM-GOL": "for each element of this stream"
+        }
+    },
+    {
+        "description": "returns the data array for all banks.",
+        "action": "return",
+        "direct_object": "data array",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for all banks"
+        }
+    },
+    {
+        "description": "adds the specified component to this container at the specified index.",
+        "action": "add",
+        "direct_object": "component",
+        "direct_object_modifiers": [
+            "specified"
+        ],
+        "preposition_object": "container",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "at the specified index"
+        }
+    },
+    {
+        "description": "handles the ancestorresized event by invoking the ancestorresized methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "ancestorresized"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the ancestorresized methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "renders a renderedimage, applying a transform from image space into user space before drawing.",
+        "action": "render",
+        "direct_object": "renderedimage",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "applying a transform from image space into user space before drawing"
+        }
+    },
+    {
+        "description": "retrieves a description of the given attribute of the given type for a user-defined type (udt) that is available in the given schema and catalog.",
+        "action": "retrieve",
+        "direct_object": "description of the given attribute of the given type",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for a user - defined type that is available in the given schema and catalog"
+        }
+    },
+    {
+        "description": "performs the given action for each remaining element, sequentially in the current thread, until all elements have been processed or the action throws an exception.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [
+            "given"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each remaining element",
+            "ARGM-LOC": "in the current thread",
+            "ARGM-MNR": "sequentially",
+            "ARGM-TMP": "until all elements have been processed or the action throws an exception"
+        }
+    },
+    {
+        "description": "performs the given action for each remaining element until all elements have been processed or the action throws an exception.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [
+            "given"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each remaining element",
+            "ARGM-TMP": "until all elements have been processed or the action throws an exception"
+        }
+    },
+    {
+        "description": "writes a long value, which is comprised of eight bytes, to the output stream.",
+        "action": "write",
+        "direct_object": "value",
+        "direct_object_modifiers": [
+            "long"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "to the output stream"
+        }
+    },
+    {
+        "description": "calculates the preferred size dimensions for the specified container, given the components it contains.",
+        "action": "calculate",
+        "direct_object": "size dimensions",
+        "direct_object_modifiers": [],
+        "preposition_object": "container",
+        "preposition_object_modifiers": [
+            "specified"
+        ],
+        "argm": {
+            "ARGM-ADV": "given the components it contains"
+        }
+    },
+    {
+        "description": "sets the requested data array element in the specified bank from the given integer.",
+        "action": "set",
+        "direct_object": "data array element",
+        "direct_object_modifiers": [
+            "requested"
+        ],
+        "preposition_object": "bank",
+        "preposition_object_modifiers": [
+            "specified"
+        ],
+        "argm": {
+            "ARGM-DIR": "from the given integer"
+        }
+    },
+    {
+        "description": "adds a separator line, or a hypen, to the menu at the current position.",
+        "action": "add",
+        "direct_object": "separator line",
+        "direct_object_modifiers": [],
+        "preposition_object": "menu",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "at the current position"
+        }
+    },
+    {
+        "description": "finds all the keys of the streams in this applet context.",
+        "action": "find",
+        "direct_object": "keys of the streams",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "in this applet context"
+        }
+    },
+    {
+        "description": "returns a volatileimage with a data layout and color model compatible with this graphicsconfiguration, using the specified image capabilities and transparency value.",
+        "action": "return",
+        "direct_object": "volatileimage",
+        "direct_object_modifiers": [],
+        "preposition_object": "data layout",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRD": "using the specified image capabilities and transparency value"
+        }
+    },
+    {
+        "description": "returns the requested data array element from the specified bank.",
+        "action": "return",
+        "direct_object": "data array element",
+        "direct_object_modifiers": [
+            "requested"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "from the specified bank"
+        }
+    },
+    {
+        "description": "translates this point, at location (x,y), by dx along the x axis and dy along the y axis so that it now represents the point (x+dx,y+dy).",
+        "action": "translate",
+        "direct_object": "point",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "at location",
+            "ARGM-PRP": "so that it now represents the point"
+        }
+    },
+    {
+        "description": "sets the bounding rectangle of this rectangle to match the specified rectangle.",
+        "action": "set",
+        "direct_object": "rectangle of this rectangle",
+        "direct_object_modifiers": [
+            "bounding"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "to match the specified rectangle"
+        }
+    },
+    {
+        "description": "returns an array of all of the color/alpha components in normalized form, given an unnormalized component array.",
+        "action": "return",
+        "direct_object": "array",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRD": "given an unnormalized component array"
+        }
+    },
+    {
+        "description": "returns the data array for all banks.",
+        "action": "return",
+        "direct_object": "data array",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for all banks"
+        }
+    },
+    {
+        "description": "returns the alpha component for the specified pixel, scaled from 0 to 255.",
+        "action": "return",
+        "direct_object": "component",
+        "direct_object_modifiers": [
+            "alpha"
+        ],
+        "preposition_object": "pixel",
+        "preposition_object_modifiers": [
+            "specified"
+        ],
+        "argm": {
+            "ARGM-PRD": "scaled from 0 to 255"
+        }
+    },
+    {
+        "description": "sets the size of this rectangle to match the specified dimension.",
+        "action": "set",
+        "direct_object": "size of this rectangle",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "to match the specified dimension"
+        }
+    },
+    {
+        "description": "passes the properties from the source object along after adding a property indicating the stream of filters it has been run through.",
+        "action": "pass",
+        "direct_object": "properties",
+        "direct_object_modifiers": [],
+        "preposition_object": "source object",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "along",
+            "ARGM-TMP": "after adding a property indicating the stream of filters it has been run through"
+        }
+    },
+    {
+        "description": "focuses the component after the current focus owner.",
+        "action": "focus",
+        "direct_object": "component",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "after the current focus owner"
+        }
+    },
+    {
+        "description": "handles the caretpositionchanged event by invoking the caretpositionchanged methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "caretpositionchanged"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the caretpositionchanged methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "removes the specified action listener so that it no longer receives action events from this button.",
+        "action": "remove",
+        "direct_object": "action listener",
+        "direct_object_modifiers": [
+            "specified"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "so that it no longer receives action events from this button"
+        }
+    },
+    {
+        "description": "handles the itemstatechanged event by invoking the itemstatechanged methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "itemstatechanged"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the itemstatechanged methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "writes a float value, which is comprised of four bytes, to the output stream.",
+        "action": "write",
+        "direct_object": "float value",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "to the output stream"
+        }
+    },
+    {
+        "description": "returns the linemetrics object for the specified string in the specified graphics context.",
+        "action": "return",
+        "direct_object": "linemetrics object",
+        "direct_object_modifiers": [],
+        "preposition_object": "string",
+        "preposition_object_modifiers": [
+            "specified"
+        ],
+        "argm": {
+            "ARGM-LOC": "in the specified graphics context"
+        }
+    },
+    {
+        "description": "returns a data element array representation of a pixel in this colormodel, given an integer pixel representation in the default rgb color model.",
+        "action": "return",
+        "direct_object": "data element array representation of a pixel",
+        "direct_object_modifiers": [],
+        "preposition_object": "colormodel",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRD": "given an integer pixel representation in the default rgb color model"
+        }
+    },
+    {
+        "description": "returns the image as one large tile.",
+        "action": "return",
+        "direct_object": "image",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRD": "as one large tile"
+        }
+    },
+    {
+        "description": "passes along the properties from the source object after adding a property indicating the scale applied.",
+        "action": "pass",
+        "direct_object": "properties",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "along the properties from the source object",
+            "ARGM-TMP": "after adding a property indicating the scale applied"
+        }
+    },
+    {
+        "description": "reads characters into a portion of an array.",
+        "action": "read",
+        "direct_object": "characters",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "into a portion of an array"
+        }
+    },
+    {
+        "description": "returns the number of tiles in the y direction.",
+        "action": "return",
+        "direct_object": "number of tiles",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "in the y direction"
+        }
+    },
+    {
+        "description": "reads characters into a portion of an array.",
+        "action": "read",
+        "direct_object": "characters",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "into a portion of an array"
+        }
+    },
+    {
+        "description": "passes the properties from the source object along after adding a property indicating the stream of filters it has been run through.",
+        "action": "pass",
+        "direct_object": "properties",
+        "direct_object_modifiers": [],
+        "preposition_object": "source object",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "along",
+            "ARGM-TMP": "after adding a property indicating the stream of filters it has been run through"
+        }
+    },
+    {
+        "description": "draws a line, using the current color, between the points (x1, y1) and (x2, y2) in this graphics context's coordinate system.",
+        "action": "draw",
+        "direct_object": "line",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "between the points and in this graphics context 's coordinate system",
+            "ARGM-MNR": "using the current color"
+        }
+    },
+    {
+        "description": "determines the preferred size of the target container using this layout manager, based on the components in the container.",
+        "action": "determine",
+        "direct_object": "size of the target container",
+        "direct_object_modifiers": [
+            "preferred"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "using this layout manager , based on the components in the container"
+        }
+    },
+    {
+        "description": "prints a double and then terminate the line.",
+        "action": "terminate",
+        "direct_object": "line",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "then terminate the line"
+        }
+    },
+    {
+        "description": "adds the specified component to the layout, using the specified constraint object.",
+        "action": "add",
+        "direct_object": "component",
+        "direct_object_modifiers": [
+            "specified"
+        ],
+        "preposition_object": "layout",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "using the specified constraint object"
+        }
+    },
+    {
+        "description": "returns the requested data array element from the specified bank as a float.",
+        "action": "return",
+        "direct_object": "data array element",
+        "direct_object_modifiers": [
+            "requested"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "from the specified bank",
+            "ARGM-PRD": "as a float"
+        }
+    },
+    {
+        "description": "prints a float and then terminate the line.",
+        "action": "terminate",
+        "direct_object": "line",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "then terminate the line"
+        }
+    },
+    {
+        "description": "adds the specified item to the the scrolling list at the position indicated by the index.",
+        "action": "add",
+        "direct_object": "item",
+        "direct_object_modifiers": [
+            "specified"
+        ],
+        "preposition_object": "list",
+        "preposition_object_modifiers": [
+            "scrolling"
+        ],
+        "argm": {
+            "ARGM-LOC": "at the position indicated by the index"
+        }
+    },
+    {
+        "description": "reads characters into a portion of an array.",
+        "action": "read",
+        "direct_object": "characters",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "into a portion of an array"
+        }
+    },
+    {
+        "description": "performs the given action for each remaining element until all elements have been processed or the action throws an exception.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [
+            "given"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each remaining element",
+            "ARGM-TMP": "until all elements have been processed or the action throws an exception"
+        }
+    },
+    {
+        "description": "returns the current value in the adjustment event.",
+        "action": "return",
+        "direct_object": "value",
+        "direct_object_modifiers": [
+            "current"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "in the adjustment event"
+        }
+    },
+    {
+        "description": "gets the end position of the selected text in this text component.",
+        "action": "get",
+        "direct_object": "end position of the selected text",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "in this text component"
+        }
+    },
+    {
+        "description": "returns the bounds of the specified string in the specified graphics context.",
+        "action": "return",
+        "direct_object": "bounds of the specified string",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "in the specified graphics context"
+        }
+    },
+    {
+        "description": "sets the paint mode of this graphics context to overwrite the destination with this graphics context's current color.",
+        "action": "set",
+        "direct_object": "paint mode of this graphics context",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "to overwrite the destination with this graphics context 's current color"
+        }
+    },
+    {
+        "description": "gets a representation of the current choice as a string.",
+        "action": "get",
+        "direct_object": "representation of the current choice",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRD": "as a string"
+        }
+    },
+    {
+        "description": "handles the hierarchychanged event by invoking the hierarchychanged methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "hierarchychanged"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the hierarchychanged methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "performs the given action for each element of the iterable until all elements have been processed or the action throws an exception.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [
+            "given"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each element of the iterable",
+            "ARGM-TMP": "until all elements have been processed or the action throws an exception"
+        }
+    },
+    {
+        "description": "invalidates the layout, indicating that if the layout manager has cached information it should be discarded.",
+        "action": "invalidate",
+        "direct_object": "layout",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "indicating that if the layout manager has cached information it should be discarded"
+        }
+    },
+    {
+        "description": "gets the start position of the selected text in this text component.",
+        "action": "get",
+        "direct_object": "start position of the selected text",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "in this text component"
+        }
+    },
+    {
+        "description": "enables or disables verbose output for the memory system.",
+        "action": "disable",
+        "direct_object": "output",
+        "direct_object_modifiers": [
+            "verbose"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for the memory system"
+        }
+    },
+    {
+        "description": "handles the ancestorresized event by invoking the ancestorresized methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "ancestorresized"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the ancestorresized methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "handles the windowclosed event by invoking the windowclosed methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "windowclosed"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the windowclosed methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "returns the image as one large tile (for tile based images this will require fetching the whole image and copying the image data over).",
+        "action": "return",
+        "direct_object": "image",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRD": "as one large tile"
+        }
+    },
+    {
+        "description": "handles the keypressed event by invoking the keypressed methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "keypressed"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the keypressed methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "partially resolves a name.",
+        "action": "resolve",
+        "direct_object": "name",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-EXT": "partially"
+        }
+    },
+    {
+        "description": "retrieves a description of the given attribute of the given type for a user-defined type (udt) that is available in the given schema and catalog.",
+        "action": "retrieve",
+        "direct_object": "description of the given attribute of the given type",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for a user - defined type that is available in the given schema and catalog"
+        }
+    },
+    {
+        "description": "returns the requested data array element from the specified bank as a float.",
+        "action": "return",
+        "direct_object": "data array element",
+        "direct_object_modifiers": [
+            "requested"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "from the specified bank",
+            "ARGM-PRD": "as a float"
+        }
+    },
+    {
+        "description": "processes events on this container.",
+        "action": "process",
+        "direct_object": "events",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "on this container"
+        }
+    },
+    {
+        "description": "translates this point, at location (x,y), by dx along the x axis and dy along the y axis so that it now represents the point (x+dx,y+dy).",
+        "action": "translate",
+        "direct_object": "point",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "at location",
+            "ARGM-PRP": "so that it now represents the point"
+        }
+    },
+    {
+        "description": "executes the runnable's run() method and notifies the notifier (if any) when run() has returned or thrown an exception.",
+        "action": "execute",
+        "direct_object": "run",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "when run"
+        }
+    },
+    {
+        "description": "performs the given action for each remaining element until all elements have been processed or the action throws an exception.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [
+            "given"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each remaining element",
+            "ARGM-TMP": "until all elements have been processed or the action throws an exception"
+        }
+    },
+    {
+        "description": "displays a popup message near the tray icon.",
+        "action": "display",
+        "direct_object": "message",
+        "direct_object_modifiers": [
+            "popup"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "near the tray icon"
+        }
+    },
+    {
+        "description": "returns the focused window, if the focused window is in the same context as the calling thread.",
+        "action": "return",
+        "direct_object": "window",
+        "direct_object_modifiers": [
+            "focused"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "if the focused window is in the same context as the calling thread"
+        }
+    },
+    {
+        "description": "lays out the container argument using this border layout.",
+        "action": "lay",
+        "direct_object": "container argument",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "using this border layout"
+        }
+    },
+    {
+        "description": "handles the windowclosed event by invoking the windowclosed methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "windowclosed"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the windowclosed methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "returns the number of key-value mappings in this renderinghints.",
+        "action": "return",
+        "direct_object": "number of value mappings",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "in this renderinghints"
+        }
+    },
+    {
+        "description": "repaints the component when the image has changed.",
+        "action": "repaint",
+        "direct_object": "component",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "when the image has changed"
+        }
+    },
+    {
+        "description": "returns the requested data array element from the specified bank.",
+        "action": "return",
+        "direct_object": "data array element",
+        "direct_object_modifiers": [
+            "requested"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "from the specified bank"
+        }
+    },
+    {
+        "description": "returns the pixel bounds of this textlayout when rendered in a graphics with the given fontrendercontext at the given location.",
+        "action": "return",
+        "direct_object": "bounds of this textlayout",
+        "direct_object_modifiers": [
+            "pixel"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "when rendered in a graphics with the given fontrendercontext at the given location"
+        }
+    },
+    {
+        "description": "copies pixels from raster srcraster to this writableraster.",
+        "action": "pixel",
+        "direct_object": "",
+        "direct_object_modifiers": [],
+        "preposition_object": "writableraster",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "from raster srcraster"
+        }
+    },
+    {
+        "description": "passes the properties from the source object along after adding a property indicating the stream of filters it has been run through.",
+        "action": "pass",
+        "direct_object": "properties",
+        "direct_object_modifiers": [],
+        "preposition_object": "source object",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "along",
+            "ARGM-TMP": "after adding a property indicating the stream of filters it has been run through"
+        }
+    },
+    {
+        "description": "returns the active window, even if the calling thread is in a different context than the active window.",
+        "action": "return",
+        "direct_object": "window",
+        "direct_object_modifiers": [
+            "active"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "even if the calling thread is in a different context than the active window"
+        }
+    },
+    {
+        "description": "sets the print quality for pages using these attributes to the default.",
+        "action": "set",
+        "direct_object": "print quality",
+        "direct_object_modifiers": [],
+        "preposition_object": "pages",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "using these attributes"
+        }
+    },
+    {
+        "description": "moves the focus down one focus traversal cycle from the current focus owner, if and only if the current focus owner is a container that is a focus cycle root.",
+        "action": "move",
+        "direct_object": "focus traversal cycle",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "if and only if the current focus owner is a container that is a focus cycle root",
+            "ARGM-DIR": "down one focus traversal cycle from the current focus owner"
+        }
+    },
+    {
+        "description": "executes the runnable's run() method and notifies the notifier (if any) when run() has returned or thrown an exception.",
+        "action": "execute",
+        "direct_object": "run",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "when run"
+        }
+    },
+    {
+        "description": "performs the given action for each remaining element until all elements have been processed or the action throws an exception.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [
+            "given"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each remaining element",
+            "ARGM-TMP": "until all elements have been processed or the action throws an exception"
+        }
+    },
+    {
+        "description": "invalidates the layout, indicating that if the layout manager has cached information it should be discarded.",
+        "action": "invalidate",
+        "direct_object": "layout",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "indicating that if the layout manager has cached information it should be discarded"
+        }
+    },
+    {
+        "description": "returns the alpha component for the specified pixel, scaled from 0 to 255.",
+        "action": "return",
+        "direct_object": "component",
+        "direct_object_modifiers": [
+            "alpha"
+        ],
+        "preposition_object": "pixel",
+        "preposition_object_modifiers": [
+            "specified"
+        ],
+        "argm": {
+            "ARGM-PRD": "scaled from 0 to 255"
+        }
+    },
+    {
+        "description": "gets the start position of the selected text in this text component.",
+        "action": "get",
+        "direct_object": "start position of the selected text",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "in this text component"
+        }
+    },
+    {
+        "description": "removes the specified action listener so that it no longer receives action events from this button.",
+        "action": "remove",
+        "direct_object": "action listener",
+        "direct_object_modifiers": [
+            "specified"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "so that it no longer receives action events from this button"
+        }
+    },
+    {
+        "description": "copies pixels from raster srcraster to this writableraster.",
+        "action": "pixel",
+        "direct_object": "",
+        "direct_object_modifiers": [],
+        "preposition_object": "writableraster",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "from raster srcraster"
+        }
+    },
+    {
+        "description": "rotates the scroll wheel on wheel-equipped mice.",
+        "action": "rotate",
+        "direct_object": "scroll wheel",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "on wheel - equipped mice"
+        }
+    },
+    {
+        "description": "handles the windowclosed event by invoking the windowclosed methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "windowclosed"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the windowclosed methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "finds all the keys of the streams in this applet context.",
+        "action": "find",
+        "direct_object": "keys of the streams",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "in this applet context"
+        }
+    },
+    {
+        "description": "sets descriptors in the info array of type indescriptortype for the modelmbean.",
+        "action": "set",
+        "direct_object": "descriptors",
+        "direct_object_modifiers": [],
+        "preposition_object": "info array of type indescriptortype",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for the modelmbean"
+        }
+    },
+    {
+        "description": "translates this point, at location (x,y), by dx along the x axis and dy along the y axis so that it now represents the point (x+dx,y+dy).",
+        "action": "translate",
+        "direct_object": "point",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "at location",
+            "ARGM-PRP": "so that it now represents the point"
+        }
+    },
+    {
+        "description": "returns the requested data array element from the specified bank.",
+        "action": "return",
+        "direct_object": "data array element",
+        "direct_object_modifiers": [
+            "requested"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "from the specified bank"
+        }
+    },
+    {
+        "description": "decodes a string native for use as a java mime type.",
+        "action": "decode",
+        "direct_object": "string",
+        "direct_object_modifiers": [
+            "native"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "for use as a java mime type"
+        }
+    },
+    {
+        "description": "lays out the container argument using this border layout.",
+        "action": "lay",
+        "direct_object": "container argument",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "using this border layout"
+        }
+    },
+    {
+        "description": "returns the position of the mouse pointer in this container's coordinate space if the container is under the mouse pointer, otherwise returns null.",
+        "action": "return",
+        "direct_object": "position of the mouse pointer",
+        "direct_object_modifiers": [],
+        "preposition_object": "space",
+        "preposition_object_modifiers": [
+            "coordinate"
+        ],
+        "argm": {
+            "ARGM-ADV": "if the container is under the mouse pointer"
+        }
+    },
+    {
+        "description": "returns the number of tiles in the x direction.",
+        "action": "return",
+        "direct_object": "number of tiles",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "in the x direction"
+        }
+    },
+    {
+        "description": "writes len characters of str, starting at character offset, to the clob value that this clob represents.",
+        "action": "write",
+        "direct_object": "len characters of str",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "to the clob value that this clob represents",
+            "ARGM-PRD": "starting at character offset"
+        }
+    },
+    {
+        "description": "handles the ancestorresized event by invoking the ancestorresized methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "ancestorresized"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the ancestorresized methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "finds and returns the applet in the document represented by this applet context with the given name.",
+        "action": "find",
+        "direct_object": "applet",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "in the document represented by this applet context with the given name"
+        }
+    },
+    {
+        "description": "handles the mousewheelmoved event by invoking the mousewheelmoved methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "mousewheelmoved"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the mousewheelmoved methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "inserts a menu item with the specified label into this menu at the specified position.",
+        "action": "insert",
+        "direct_object": "menu item",
+        "direct_object_modifiers": [],
+        "preposition_object": "label",
+        "preposition_object_modifiers": [
+            "specified"
+        ],
+        "argm": {
+            "ARGM-LOC": "at the specified position"
+        }
+    },
+    {
+        "description": "inserts a menu item with the specified label into this menu at the specified position.",
+        "action": "insert",
+        "direct_object": "menu item",
+        "direct_object_modifiers": [],
+        "preposition_object": "label",
+        "preposition_object_modifiers": [
+            "specified"
+        ],
+        "argm": {
+            "ARGM-LOC": "at the specified position"
+        }
+    },
+    {
+        "description": "fully parses the text producing an object of one of the specified types.",
+        "action": "parse",
+        "direct_object": "text",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-EXT": "fully"
+        }
+    },
+    {
+        "description": "returns a subset of the table as an array of bytes for a specified tag.",
+        "action": "return",
+        "direct_object": "subset of the table",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRD": "as an array of bytes for a specified tag"
+        }
+    },
+    {
+        "description": "prints an array of characters and then terminates the line.",
+        "action": "terminate",
+        "direct_object": "line",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "then terminate the line"
+        }
+    },
+    {
+        "description": "resizes this component so that it has width width and height height.",
+        "action": "resize",
+        "direct_object": "component",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "so that it has width width and height height"
+        }
+    },
+    {
+        "description": "returns the requested data array element from the specified bank as a float.",
+        "action": "return",
+        "direct_object": "data array element",
+        "direct_object_modifiers": [
+            "requested"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "from the specified bank",
+            "ARGM-PRD": "as a float"
+        }
+    },
+    {
+        "description": "performs the given action for each element of the iterable until all elements have been processed or the action throws an exception.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [
+            "given"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each element of the iterable",
+            "ARGM-TMP": "until all elements have been processed or the action throws an exception"
+        }
+    },
+    {
+        "description": "decodes a string native for use as a dataflavor.",
+        "action": "decode",
+        "direct_object": "string",
+        "direct_object_modifiers": [
+            "native"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "for use as a dataflavor"
+        }
+    },
+    {
+        "description": "finds all the applets in the document represented by this applet context.",
+        "action": "find",
+        "direct_object": "applets",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "in the document represented by this applet context"
+        }
+    },
+    {
+        "description": "returns the alpha component for the specified pixel, scaled from 0 to 255.",
+        "action": "return",
+        "direct_object": "component",
+        "direct_object_modifiers": [
+            "alpha"
+        ],
+        "preposition_object": "pixel",
+        "preposition_object_modifiers": [
+            "specified"
+        ],
+        "argm": {
+            "ARGM-PRD": "scaled from 0 to 255"
+        }
+    },
+    {
+        "description": "handles the inputmethodtextchanged event by invoking the inputmethodtextchanged methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "inputmethodtextchanged"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the inputmethodtextchanged methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "prints a boolean and then terminate the line.",
+        "action": "terminate",
+        "direct_object": "line",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "then terminate the line"
+        }
+    },
+    {
+        "description": "sets the requested data array element in the specified bank from the given float.",
+        "action": "set",
+        "direct_object": "data array element",
+        "direct_object_modifiers": [
+            "requested"
+        ],
+        "preposition_object": "bank",
+        "preposition_object_modifiers": [
+            "specified"
+        ],
+        "argm": {
+            "ARGM-DIR": "from the given float"
+        }
+    },
+    {
+        "description": "flips to the component that was added to this layout with the specified name, using addlayoutcomponent.",
+        "action": "flip",
+        "direct_object": "",
+        "direct_object_modifiers": [],
+        "preposition_object": "component",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "using addlayoutcomponent"
+        }
+    },
+    {
+        "description": "handles the mousemoved event by invoking the mousemoved methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "mousemoved"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the mousemoved methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "returns the requested data array element from the specified bank as a float.",
+        "action": "return",
+        "direct_object": "data array element",
+        "direct_object_modifiers": [
+            "requested"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "from the specified bank",
+            "ARGM-PRD": "as a float"
+        }
+    },
+    {
+        "description": "passes along the properties from the source object after adding a property indicating the cropped region.",
+        "action": "pass",
+        "direct_object": "properties",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "along the properties from the source object",
+            "ARGM-TMP": "after adding a property indicating the cropped region"
+        }
+    },
+    {
+        "description": "performs the given action for each (key, value).",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [
+            "given"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each"
+        }
+    },
+    {
+        "description": "performs the given action for each remaining element, sequentially in the current thread, until all elements have been processed or the action throws an exception.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [
+            "given"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each remaining element",
+            "ARGM-LOC": "in the current thread",
+            "ARGM-MNR": "sequentially",
+            "ARGM-TMP": "until all elements have been processed or the action throws an exception"
+        }
+    },
+    {
+        "description": "moves the focus down one focus traversal cycle.",
+        "action": "move",
+        "direct_object": "focus",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "down one focus traversal cycle"
+        }
+    },
+    {
+        "description": "performs a lookup operation on a raster.",
+        "action": "perform",
+        "direct_object": "lookup operation",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "on a raster"
+        }
+    },
+    {
+        "description": "finds all the applets in the document represented by this applet context.",
+        "action": "find",
+        "direct_object": "applets",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "in the document represented by this applet context"
+        }
+    },
+    {
+        "description": "retrieves a description of the given attribute of the given type for a user-defined type (udt) that is available in the given schema and catalog.",
+        "action": "retrieve",
+        "direct_object": "description of the given attribute of the given type",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for a user - defined type that is available in the given schema and catalog"
+        }
+    },
+    {
+        "description": "prints a boolean value and then terminates the line.",
+        "action": "terminate",
+        "direct_object": "line",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "then terminate the line"
+        }
+    },
+    {
+        "description": "obtains the upward or downward pitch offset for this channel.",
+        "action": "obtain",
+        "direct_object": "pitch",
+        "direct_object_modifiers": [
+            "upward"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for this channel"
+        }
+    },
+    {
+        "description": "writes len characters of str, starting at character offset, to the clob value that this clob represents.",
+        "action": "write",
+        "direct_object": "len characters of str",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "to the clob value that this clob represents",
+            "ARGM-PRD": "starting at character offset"
+        }
+    },
+    {
+        "description": "partially resolves a name.",
+        "action": "resolve",
+        "direct_object": "name",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-EXT": "partially"
+        }
+    },
+    {
+        "description": "returns the data array for all banks.",
+        "action": "return",
+        "direct_object": "data array",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for all banks"
+        }
+    },
+    {
+        "description": "performs the given action for each element of the iterable until all elements have been processed or the action throws an exception.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [
+            "given"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each element of the iterable",
+            "ARGM-TMP": "until all elements have been processed or the action throws an exception"
+        }
+    },
+    {
+        "description": "handles the mousepressed event by invoking the mousepressed methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "mousepressed"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the mousepressed methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "performs the given action for each remaining element, sequentially in the current thread, until all elements have been processed or the action throws an exception.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [
+            "given"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each remaining element",
+            "ARGM-LOC": "in the current thread",
+            "ARGM-MNR": "sequentially",
+            "ARGM-TMP": "until all elements have been processed or the action throws an exception"
+        }
+    },
+    {
+        "description": "removes all occurrences of a substring from within the source string.",
+        "action": "remove",
+        "direct_object": "occurrences",
+        "direct_object_modifiers": [
+            "all"
+        ],
+        "preposition_object": "substring",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "from within the source string"
+        }
+    },
+    {
+        "description": "fires a property change event to listeners that have been registered to track updates of all properties or a property with the specified name.",
+        "action": "fire",
+        "direct_object": "property change event",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "to listeners that have been registered to track updates of all properties or a property with the specified name"
+        }
+    },
+    {
+        "description": "processes text events occurring on this text component by dispatching them to any registered textlistener objects.",
+        "action": "occur",
+        "direct_object": "text events",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "on this text component"
+        }
+    },
+    {
+        "description": "handles the focuslost event by invoking the focuslost methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "focuslost"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the focuslost methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "returns the current value in the adjustment event.",
+        "action": "return",
+        "direct_object": "value",
+        "direct_object_modifiers": [
+            "current"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "in the adjustment event"
+        }
+    },
+    {
+        "description": "returns the position of the mouse pointer in this component's coordinate space if the component is directly under the mouse pointer, otherwise returns null.",
+        "action": "return",
+        "direct_object": "position of the mouse pointer",
+        "direct_object_modifiers": [],
+        "preposition_object": "coordinate space",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "if the component is directly under the mouse pointer"
+        }
+    },
+    {
+        "description": "returns the selected items or null if no items are selected.",
+        "action": "return",
+        "direct_object": "items",
+        "direct_object_modifiers": [
+            "selected"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "if no items are selected"
+        }
+    },
+    {
+        "description": "handles the mousewheelmoved event by invoking the mousewheelmoved methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "mousewheelmoved"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the mousewheelmoved methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "moves the focus up one focus traversal cycle.",
+        "action": "move",
+        "direct_object": "focus",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "up one focus traversal cycle"
+        }
+    },
+    {
+        "description": "flips to the component that was added to this layout with the specified name, using addlayoutcomponent.",
+        "action": "flip",
+        "direct_object": "",
+        "direct_object_modifiers": [],
+        "preposition_object": "component",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "using addlayoutcomponent"
+        }
+    },
+    {
+        "description": "adds a propertychangelistener to the listener list for a specific property.",
+        "action": "add",
+        "direct_object": "",
+        "direct_object_modifiers": [],
+        "preposition_object": "listener list",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "for a specific property"
+        }
+    },
+    {
+        "description": "sets the requested data array element in the specified bank from the given integer.",
+        "action": "set",
+        "direct_object": "data array element",
+        "direct_object_modifiers": [
+            "requested"
+        ],
+        "preposition_object": "bank",
+        "preposition_object_modifiers": [
+            "specified"
+        ],
+        "argm": {
+            "ARGM-DIR": "from the given integer"
+        }
+    },
+    {
+        "description": "reads characters into a portion of an array.",
+        "action": "read",
+        "direct_object": "characters",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "into a portion of an array"
+        }
+    },
+    {
+        "description": "fires a property change event to listeners that have been registered to track updates of all properties or a property with the specified name.",
+        "action": "fire",
+        "direct_object": "property change event",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "to listeners that have been registered to track updates of all properties or a property with the specified name"
+        }
+    },
+    {
+        "description": "implements execution conventions for countedcompleters.",
+        "action": "implement",
+        "direct_object": "execution conventions",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for countedcompleters"
+        }
+    },
+    {
+        "description": "invalidates the layout, indicating that if the layout manager has cached information it should be discarded.",
+        "action": "invalidate",
+        "direct_object": "layout",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "indicating that if the layout manager has cached information it should be discarded"
+        }
+    },
+    {
+        "description": "prints a long and then terminate the line.",
+        "action": "terminate",
+        "direct_object": "line",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "then terminate the line"
+        }
+    },
+    {
+        "description": "returns the linemetrics object for the specified characteriterator in the specified graphics context.",
+        "action": "return",
+        "direct_object": "linemetrics object",
+        "direct_object_modifiers": [],
+        "preposition_object": "characteriterator",
+        "preposition_object_modifiers": [
+            "specified"
+        ],
+        "argm": {
+            "ARGM-LOC": "in the specified graphics context"
+        }
+    },
+    {
+        "description": "performs the given action for each remaining element, in the order elements occur when iterating, until all elements have been processed or the action throws an exception.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [
+            "given"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each remaining element"
+        }
+    },
+    {
+        "description": "returns the permanent focus owner, even if the calling thread is in a different context than the permanent focus owner.",
+        "action": "return",
+        "direct_object": "focus owner",
+        "direct_object_modifiers": [
+            "permanent"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "even if the calling thread is in a different context than the permanent focus owner"
+        }
+    },
+    {
+        "description": "focuses the component after acomponent, typically based on a focustraversalpolicy.",
+        "action": "focus",
+        "direct_object": "component",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "typically based on a focustraversalpolicy",
+            "ARGM-TMP": "after acomponent"
+        }
+    },
+    {
+        "description": "fires a property change event to listeners that have been registered to track updates of all properties or a property with the specified name.",
+        "action": "fire",
+        "direct_object": "property change event",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "to listeners that have been registered to track updates of all properties or a property with the specified name"
+        }
+    },
+    {
+        "description": "returns the bounds of the specified string in the specified graphics context.",
+        "action": "return",
+        "direct_object": "bounds of the specified string",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "in the specified graphics context"
+        }
+    },
+    {
+        "description": "fires a property change event to listeners that have been registered to track updates of all properties or a property with the specified name.",
+        "action": "fire",
+        "direct_object": "property change event",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "to listeners that have been registered to track updates of all properties or a property with the specified name"
+        }
+    },
+    {
+        "description": "returns the bounds of the specified string in the specified graphics context.",
+        "action": "return",
+        "direct_object": "bounds of the specified string",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "in the specified graphics context"
+        }
+    },
+    {
+        "description": "handles the inputmethodtextchanged event by invoking the inputmethodtextchanged methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "inputmethodtextchanged"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the inputmethodtextchanged methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "handles the mouseexited event by invoking the mouseexited methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "mouseexited"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the mouseexited methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "removes the specified window focus listener so that it no longer receives window events from this window.",
+        "action": "remove",
+        "direct_object": "window focus listener",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "so that it no longer receives window events from this window"
+        }
+    },
+    {
+        "description": "focuses the component after acomponent, typically based on a focustraversalpolicy.",
+        "action": "focus",
+        "direct_object": "component",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "typically based on a focustraversalpolicy",
+            "ARGM-TMP": "after acomponent"
+        }
+    },
+    {
+        "description": "gets the instance of menuitem associated with the specified menushortcut object, or null if none of the menu items being managed by this menu bar is associated with the specified menu shortcut.",
+        "action": "get",
+        "direct_object": "instance of menuitem",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "if none of the menu items being managed by this menu bar is associated with the specified menu shortcut"
+        }
+    },
+    {
+        "description": "moves and resizes this component to conform to the new bounding rectangle r.",
+        "action": "resize",
+        "direct_object": "component",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "to conform to the new bounding rectangle r."
+        }
+    },
+    {
+        "description": "prints a float and then terminate the line.",
+        "action": "terminate",
+        "direct_object": "line",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "then terminate the line"
+        }
+    },
+    {
+        "description": "sets the requested data array element in the specified bank from the given float.",
+        "action": "set",
+        "direct_object": "data array element",
+        "direct_object_modifiers": [
+            "requested"
+        ],
+        "preposition_object": "bank",
+        "preposition_object_modifiers": [
+            "specified"
+        ],
+        "argm": {
+            "ARGM-DIR": "from the given float"
+        }
+    },
+    {
+        "description": "performs the given action for each entry in this map until all entries have been processed or the action throws an exception.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [
+            "given"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each entry in this map",
+            "ARGM-TMP": "until all entries have been processed or the action throws an exception"
+        }
+    },
+    {
+        "description": "rotates the scroll wheel on wheel-equipped mice.",
+        "action": "rotate",
+        "direct_object": "scroll wheel",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-LOC": "on wheel - equipped mice"
+        }
+    },
+    {
+        "description": "returns the requested data array element from the specified bank as a float.",
+        "action": "return",
+        "direct_object": "data array element",
+        "direct_object_modifiers": [
+            "requested"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "from the specified bank",
+            "ARGM-PRD": "as a float"
+        }
+    },
+    {
+        "description": "returns the pixel bounds of this textlayout when rendered in a graphics with the given fontrendercontext at the given location.",
+        "action": "return",
+        "direct_object": "bounds of this textlayout",
+        "direct_object_modifiers": [
+            "pixel"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "when rendered in a graphics with the given fontrendercontext at the given location"
+        }
+    },
+    {
+        "description": "handles the actionperformed event by invoking the actionperformed methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "actionperformed"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the actionperformed methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "prints a boolean value and then terminates the line.",
+        "action": "terminate",
+        "direct_object": "line",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "then terminate the line"
+        }
+    },
+    {
+        "description": "moves the focus up one focus traversal cycle.",
+        "action": "move",
+        "direct_object": "focus",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-DIR": "up one focus traversal cycle"
+        }
+    },
+    {
+        "description": "prints a character and then terminate the line.",
+        "action": "terminate",
+        "direct_object": "line",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "then terminate the line"
+        }
+    },
+    {
+        "description": "performs the given action for each entry in this map until all entries have been processed or the action throws an exception.",
+        "action": "perform",
+        "direct_object": "action",
+        "direct_object_modifiers": [
+            "given"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-GOL": "for each entry in this map",
+            "ARGM-TMP": "until all entries have been processed or the action throws an exception"
+        }
+    },
+    {
+        "description": "processes action events occurring on this button by dispatching them to any registered actionlistener objects.",
+        "action": "process",
+        "direct_object": "action events",
+        "direct_object_modifiers": [],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by dispatching them to any registered actionlistener objects"
+        }
+    },
+    {
+        "description": "removes the specified action listener so that it no longer receives action events from this list.",
+        "action": "remove",
+        "direct_object": "action listener",
+        "direct_object_modifiers": [
+            "specified"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "so that it no longer receives action events from this list"
+        }
+    },
+    {
+        "description": "sets the requested data array element in the specified bank from the given integer.",
+        "action": "set",
+        "direct_object": "data array element",
+        "direct_object_modifiers": [
+            "requested"
+        ],
+        "preposition_object": "bank",
+        "preposition_object_modifiers": [
+            "specified"
+        ],
+        "argm": {
+            "ARGM-DIR": "from the given integer"
+        }
+    },
+    {
+        "description": "removes the specified key listener so that it no longer receives key events from this component.",
+        "action": "remove",
+        "direct_object": "listener",
+        "direct_object_modifiers": [
+            "specified",
+            "key"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-PRP": "so that it no longer receives key events from this component"
+        }
+    },
+    {
+        "description": "removes an item from the choice menu at the specified position.",
+        "action": "remove",
+        "direct_object": "item",
+        "direct_object_modifiers": [],
+        "preposition_object": "choice menu",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-TMP": "at the specified position"
+        }
+    },
+    {
+        "description": "handles the windowclosing event by invoking the windowclosing methods on listener-a and listener-b.",
+        "action": "handle",
+        "direct_object": "event",
+        "direct_object_modifiers": [
+            "windowclosing"
+        ],
+        "preposition_object": "",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-MNR": "by invoking the windowclosing methods on listener - a and listener - b."
+        }
+    },
+    {
+        "description": "sets the print quality for pages using these attributes to the default.",
+        "action": "set",
+        "direct_object": "print quality",
+        "direct_object_modifiers": [],
+        "preposition_object": "pages",
+        "preposition_object_modifiers": [],
+        "argm": {
+            "ARGM-ADV": "using these attributes"
+        }
+    }
+]

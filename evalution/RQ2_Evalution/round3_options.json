@@ -1,0 +1,4349 @@
+[
+    [
+        "into pattern",
+        "None of the above"
+    ],
+    [
+        "returning a default value if the conversion fails",
+        "returning zero if the conversion fails"
+    ],
+    [
+        "from spliterator",
+        "from supplier of spliterator"
+    ],
+    [
+        "around matches of this pattern",
+        "None of the above"
+    ],
+    [
+        "for annotation type",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "None of the above"
+    ],
+    [
+        "with bit",
+        "None of the above"
+    ],
+    [
+        "empty",
+        "sequential",
+        "None of the above"
+    ],
+    [
+        "from startinclusive",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "with handler",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with collection",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "according to object",
+        "by searching",
+        "for socket",
+        "of int values",
+        "None of the above"
+    ],
+    [
+        "along with alignment",
+        "as sequence",
+        "at index",
+        "for button",
+        "for role value",
+        "from defaults",
+        "including indications of run state",
+        "including information",
+        "including type",
+        "with name",
+        "None of the above"
+    ],
+    [
+        "at the given index",
+        "None of the above"
+    ],
+    [
+        "from source array",
+        "None of the above"
+    ],
+    [
+        "starting the search at the specified index",
+        "None of the above"
+    ],
+    [
+        "searching backward starting at the specified index",
+        "None of the above"
+    ],
+    [
+        "searching backward starting at the specified index",
+        "None of the above"
+    ],
+    [
+        "current",
+        "selected",
+        "None of the above"
+    ],
+    [
+        "either",
+        "without keeping an internal reference to this new object",
+        "None of the above"
+    ],
+    [
+        "as appropriate",
+        "for reading",
+        "from defaults",
+        "in interface repository",
+        "in sequence",
+        "None of the above"
+    ],
+    [
+        "for traversal operation",
+        "None of the above"
+    ],
+    [
+        "along with alignment",
+        "at index",
+        "for button",
+        "for role value",
+        "from defaults",
+        "in sequence",
+        "including indications of run state",
+        "including information",
+        "including type",
+        "with name",
+        "None of the above"
+    ],
+    [
+        "returning a default value if the conversion fails",
+        "returning zero if the conversion fails"
+    ],
+    [
+        "in the radix specified by the second argument",
+        "specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "using the given class loader",
+        "None of the above"
+    ],
+    [
+        "with amount",
+        "with element",
+        "None of the above"
+    ],
+    [
+        "either",
+        "without keeping an internal reference to this new object",
+        "None of the above"
+    ],
+    [
+        "as appropriate",
+        "for reading",
+        "from defaults",
+        "in interface repository",
+        "in sequence",
+        "None of the above"
+    ],
+    [
+        "along with alignment",
+        "at index",
+        "for button",
+        "for role value",
+        "from defaults",
+        "in sequence",
+        "including indications of run state",
+        "including information",
+        "including type",
+        "with name",
+        "None of the above"
+    ],
+    [
+        "in base 2",
+        "in base 8"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "in the radix specified by the second argument",
+        "specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "in row of this resultset",
+        "in row of this resultset object"
+    ],
+    [
+        "as a boolean in the java programming language",
+        "as a byte",
+        "as a double",
+        "as a float",
+        "as an int",
+        "None of the above"
+    ],
+    [
+        "with amount",
+        "with element",
+        "None of the above"
+    ],
+    [
+        "either",
+        "without keeping an internal reference to this new object",
+        "None of the above"
+    ],
+    [
+        "as appropriate",
+        "for reading",
+        "from defaults",
+        "in interface repository",
+        "in sequence",
+        "None of the above"
+    ],
+    [
+        "as value",
+        "None of the above"
+    ],
+    [
+        "with handler",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with collection",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "according to object",
+        "by searching",
+        "for socket",
+        "of int values",
+        "None of the above"
+    ],
+    [
+        "in base 2",
+        "in base 8"
+    ],
+    [
+        "as a dynany",
+        "None of the above"
+    ],
+    [
+        "after a narrowing primitive conversion",
+        "after a widening primitive conversion",
+        "as a long after a narrowing primitive conversion",
+        "None of the above"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "with sign",
+        "None of the above"
+    ],
+    [
+        "according to object",
+        "for certificate",
+        "for crl",
+        "for crl entry",
+        "for gsscredential",
+        "for gssname",
+        "for oid"
+    ],
+    [
+        "minimum",
+        "None of the above"
+    ],
+    [
+        "for variable",
+        "None of the above"
+    ],
+    [
+        "long",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "given array of normalized color alpha components",
+        "given array of unnormalized color alpha components"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "None of the above"
+    ],
+    [
+        "except that its declared return value is object rather than string",
+        "None of the above"
+    ],
+    [
+        "as double",
+        "as float",
+        "as int",
+        "as value",
+        "at index",
+        "at unit of granularity",
+        "for cell",
+        "for cell index",
+        "for certificate",
+        "for class",
+        "for field name",
+        "for key",
+        "for nth header field",
+        "for trailer field",
+        "in copy of this local variable",
+        "None of the above"
+    ],
+    [
+        "returning a default value if the conversion fails",
+        "returning zero if the conversion fails"
+    ],
+    [
+        "from source array",
+        "None of the above"
+    ],
+    [
+        "starting the search at the specified index",
+        "None of the above"
+    ],
+    [
+        "searching backward starting at the specified index",
+        "None of the above"
+    ],
+    [
+        "searching backward starting at the specified index",
+        "None of the above"
+    ],
+    [
+        "current",
+        "selected",
+        "None of the above"
+    ],
+    [
+        "for traversal operation",
+        "None of the above"
+    ],
+    [
+        "along with alignment",
+        "at index",
+        "for button",
+        "for role value",
+        "from defaults",
+        "in sequence",
+        "including indications of run state",
+        "including information",
+        "including type",
+        "with name",
+        "None of the above"
+    ],
+    [
+        "as an unsigned integer in base 16",
+        "None of the above"
+    ],
+    [
+        "into instance of class class",
+        "into string"
+    ],
+    [
+        "returning a default value if the conversion fails",
+        "returning zero if the conversion fails"
+    ],
+    [
+        "from source array",
+        "None of the above"
+    ],
+    [
+        "for use as a dataflavor",
+        "for use as a java mime type"
+    ],
+    [
+        "in the radix specified by the second argument",
+        "specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "in increasing order",
+        "in proper sequence",
+        "using the provided generator function to allocate the returned array",
+        "None of the above"
+    ],
+    [
+        "using the given class loader",
+        "None of the above"
+    ],
+    [
+        "for element",
+        "with amount",
+        "None of the above"
+    ],
+    [
+        "either",
+        "without keeping an internal reference to this new object",
+        "None of the above"
+    ],
+    [
+        "as appropriate",
+        "for reading",
+        "from defaults",
+        "in interface repository",
+        "in sequence",
+        "None of the above"
+    ],
+    [
+        "along with alignment",
+        "at index",
+        "for button",
+        "for role value",
+        "from defaults",
+        "in sequence",
+        "including indications of run state",
+        "including information",
+        "including type",
+        "with name",
+        "None of the above"
+    ],
+    [
+        "at the given index",
+        "None of the above"
+    ],
+    [
+        "in base 2",
+        "in base 8"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "from source array",
+        "None of the above"
+    ],
+    [
+        "for use as a dataflavor",
+        "for use as a java mime type"
+    ],
+    [
+        "in the radix specified by the second argument",
+        "specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "in increasing order",
+        "in proper sequence",
+        "using the provided generator function to allocate the returned array",
+        "None of the above"
+    ],
+    [
+        "using the given class loader",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "same",
+        "None of the above"
+    ],
+    [
+        "consistent",
+        "standard",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "for element",
+        "with amount",
+        "None of the above"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "None of the above"
+    ],
+    [
+        "with bit",
+        "None of the above"
+    ],
+    [
+        "empty",
+        "sequential",
+        "None of the above"
+    ],
+    [
+        "from startinclusive",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "either",
+        "without keeping an internal reference to this new object",
+        "None of the above"
+    ],
+    [
+        "as appropriate",
+        "for reading",
+        "from defaults",
+        "in interface repository",
+        "in sequence",
+        "None of the above"
+    ],
+    [
+        "with handler",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with collection",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "by searching",
+        "for object",
+        "for socket",
+        "of int values",
+        "None of the above"
+    ],
+    [
+        "at the given index",
+        "None of the above"
+    ],
+    [
+        "in base 2",
+        "in base 8"
+    ],
+    [
+        "as a dynany",
+        "None of the above"
+    ],
+    [
+        "after a narrowing primitive conversion",
+        "after a widening primitive conversion",
+        "as a long after a narrowing primitive conversion",
+        "None of the above"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "with sign",
+        "None of the above"
+    ],
+    [
+        "for certificate",
+        "for crl",
+        "for crl entry",
+        "for gsscredential",
+        "for gssname",
+        "for object",
+        "for oid"
+    ],
+    [
+        "minimum",
+        "None of the above"
+    ],
+    [
+        "for variable",
+        "None of the above"
+    ],
+    [
+        "long",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "given array of normalized color alpha components",
+        "given array of unnormalized color alpha components"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "None of the above"
+    ],
+    [
+        "except that its declared return value is object rather than string",
+        "None of the above"
+    ],
+    [
+        "as double",
+        "as float",
+        "as int",
+        "as value",
+        "at index",
+        "at unit of granularity",
+        "for cell",
+        "for cell index",
+        "for certificate",
+        "for class",
+        "for field name",
+        "for key",
+        "for nth header field",
+        "for trailer field",
+        "in copy of this local variable",
+        "None of the above"
+    ],
+    [
+        "starting the search at the specified index",
+        "None of the above"
+    ],
+    [
+        "searching backward starting at the specified index",
+        "None of the above"
+    ],
+    [
+        "searching backward starting at the specified index",
+        "None of the above"
+    ],
+    [
+        "current",
+        "selected",
+        "None of the above"
+    ],
+    [
+        "along with alignment",
+        "at index",
+        "for button",
+        "for role value",
+        "from defaults",
+        "in sequence",
+        "including indications of run state",
+        "including information",
+        "including type",
+        "with name",
+        "None of the above"
+    ],
+    [
+        "as an unsigned integer in base 16",
+        "None of the above"
+    ],
+    [
+        "returning a default value if the conversion fails",
+        "returning zero if the conversion fails"
+    ],
+    [
+        "in the radix specified by the second argument",
+        "specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "friendly",
+        "None of the above"
+    ],
+    [
+        "same",
+        "None of the above"
+    ],
+    [
+        "consistent",
+        "standard",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "starting the search at the specified index",
+        "None of the above"
+    ],
+    [
+        "searching backward starting at the specified index",
+        "None of the above"
+    ],
+    [
+        "searching backward starting at the specified index",
+        "None of the above"
+    ],
+    [
+        "current",
+        "selected",
+        "None of the above"
+    ],
+    [
+        "preserving not - a - number values",
+        "None of the above"
+    ],
+    [
+        "preserving not - a - number values",
+        "None of the above"
+    ],
+    [
+        "with handler",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with collection",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "by searching",
+        "for object",
+        "for socket",
+        "of int values",
+        "None of the above"
+    ],
+    [
+        "along with alignment",
+        "at index",
+        "for button",
+        "for role value",
+        "from defaults",
+        "in sequence",
+        "including indications of run state",
+        "including information",
+        "including type",
+        "with name",
+        "None of the above"
+    ],
+    [
+        "as a dynany",
+        "None of the above"
+    ],
+    [
+        "after a narrowing primitive conversion",
+        "after a widening primitive conversion",
+        "as a long after a narrowing primitive conversion",
+        "None of the above"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "with sign",
+        "None of the above"
+    ],
+    [
+        "for certificate",
+        "for crl",
+        "for crl entry",
+        "for gsscredential",
+        "for gssname",
+        "for object",
+        "for oid"
+    ],
+    [
+        "minimum",
+        "None of the above"
+    ],
+    [
+        "for variable",
+        "None of the above"
+    ],
+    [
+        "long",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "given array of normalized color alpha components",
+        "given array of unnormalized color alpha components"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "None of the above"
+    ],
+    [
+        "except that its declared return value is object rather than string",
+        "None of the above"
+    ],
+    [
+        "as double",
+        "as float",
+        "as int",
+        "at index",
+        "at unit of granularity",
+        "for cell",
+        "for cell index",
+        "for certificate",
+        "for class",
+        "for field name",
+        "for key",
+        "for nth header field",
+        "for trailer field",
+        "for value",
+        "in copy of this local variable",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "from source array",
+        "None of the above"
+    ],
+    [
+        "from spliterator",
+        "from supplier of spliterator"
+    ],
+    [
+        "around matches of this pattern",
+        "None of the above"
+    ],
+    [
+        "in the radix specified by the second argument",
+        "specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "in increasing order",
+        "in proper sequence",
+        "using the provided generator function to allocate the returned array",
+        "None of the above"
+    ],
+    [
+        "using the given class loader",
+        "None of the above"
+    ],
+    [
+        "with handler",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with collection",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "according to object",
+        "by searching",
+        "for socket",
+        "of int values",
+        "None of the above"
+    ],
+    [
+        "along with alignment",
+        "as sequence",
+        "at index",
+        "for button",
+        "for role value",
+        "from defaults",
+        "including indications of run state",
+        "including information",
+        "including type",
+        "with name",
+        "None of the above"
+    ],
+    [
+        "in base 2",
+        "in base 8"
+    ],
+    [
+        "for use as a dataflavor",
+        "for use as a java mime type"
+    ],
+    [
+        "in the radix specified by the second argument",
+        "specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "with amount",
+        "with element",
+        "None of the above"
+    ],
+    [
+        "either",
+        "without keeping an internal reference to this new object",
+        "None of the above"
+    ],
+    [
+        "as appropriate",
+        "for reading",
+        "from defaults",
+        "in interface repository",
+        "in sequence",
+        "None of the above"
+    ],
+    [
+        "along with alignment",
+        "at index",
+        "for button",
+        "for role value",
+        "from defaults",
+        "in sequence",
+        "including indications of run state",
+        "including information",
+        "on type",
+        "with name",
+        "None of the above"
+    ],
+    [
+        "at the given index",
+        "None of the above"
+    ],
+    [
+        "as an unsigned integer in base 16",
+        "None of the above"
+    ],
+    [
+        "at the position pos",
+        "None of the above"
+    ],
+    [
+        "as a sequence of bytes",
+        "using modified utf-8 encoding in a machine - independent manner",
+        "None of the above"
+    ],
+    [
+        "as a sequence of bytes",
+        "as a sequence of characters",
+        "using modified utf-8 encoding in a machine - independent manner",
+        "using the specified format string and arguments",
+        "None of the above"
+    ],
+    [
+        "a convenience method to write a formatted string to this writer using the specified format string and arguments",
+        "as a sequence of bytes",
+        "as a sequence of chars",
+        "using the specified format string and arguments",
+        "using the specified locale , format string , and arguments",
+        "None of the above"
+    ],
+    [
+        "in the radix specified by the second argument",
+        "specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "with amount",
+        "with element",
+        "None of the above"
+    ],
+    [
+        "either",
+        "without keeping an internal reference to this new object",
+        "None of the above"
+    ],
+    [
+        "as appropriate",
+        "for reading",
+        "from defaults",
+        "in interface repository",
+        "in sequence",
+        "None of the above"
+    ],
+    [
+        "along with alignment",
+        "at index",
+        "for button",
+        "for role value",
+        "from defaults",
+        "in sequence",
+        "including indications of run state",
+        "including information",
+        "including type",
+        "with name",
+        "None of the above"
+    ],
+    [
+        "as an unsigned integer in base 16",
+        "None of the above"
+    ],
+    [
+        "as a dynany",
+        "None of the above"
+    ],
+    [
+        "after a narrowing primitive conversion",
+        "after a widening primitive conversion",
+        "as a long after a narrowing primitive conversion",
+        "None of the above"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "with sign",
+        "None of the above"
+    ],
+    [
+        "for certificate",
+        "for crl",
+        "for crl entry",
+        "for gsscredential",
+        "for gssname",
+        "for object",
+        "for oid"
+    ],
+    [
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance"
+    ],
+    [
+        "for variable",
+        "None of the above"
+    ],
+    [
+        "with bit",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "given array of normalized color alpha components",
+        "given array of unnormalized color alpha components"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "None of the above"
+    ],
+    [
+        "as hasmoretokens method",
+        "as method"
+    ],
+    [
+        "as double",
+        "as float",
+        "as int",
+        "as value",
+        "at index",
+        "at unit of granularity",
+        "for cell",
+        "for cell index",
+        "for certificate",
+        "for class",
+        "for field name",
+        "for key",
+        "for nth header field",
+        "for trailer field",
+        "in copy of this local variable",
+        "None of the above"
+    ],
+    [
+        "in this vector",
+        "None of the above"
+    ],
+    [
+        "such that",
+        "None of the above"
+    ],
+    [
+        "uniformly distributed long value from this random number generator 's sequence",
+        "None of the above"
+    ],
+    [
+        "with handler",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with collection",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "by searching",
+        "for object",
+        "for socket",
+        "of int values",
+        "None of the above"
+    ],
+    [
+        "along with alignment",
+        "at index",
+        "for button",
+        "for role value",
+        "from defaults",
+        "from sequence",
+        "including indications of run state",
+        "including information",
+        "including type",
+        "with name",
+        "None of the above"
+    ],
+    [
+        "as a dynany",
+        "None of the above"
+    ],
+    [
+        "after a narrowing primitive conversion",
+        "after a widening primitive conversion",
+        "as a long after a narrowing primitive conversion",
+        "None of the above"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "with sign",
+        "None of the above"
+    ],
+    [
+        "for certificate",
+        "for crl",
+        "for crl entry",
+        "for gsscredential",
+        "for gssname",
+        "for object",
+        "for oid"
+    ],
+    [
+        "minimum",
+        "None of the above"
+    ],
+    [
+        "for variable",
+        "None of the above"
+    ],
+    [
+        "long",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "given array of normalized color alpha components",
+        "given array of unnormalized color alpha components"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "None of the above"
+    ],
+    [
+        "except that its declared return value is object rather than string",
+        "None of the above"
+    ],
+    [
+        "as double",
+        "as float",
+        "as int",
+        "as value",
+        "at index",
+        "at unit of granularity",
+        "for cell",
+        "for cell index",
+        "for certificate",
+        "for class",
+        "for field name",
+        "for key",
+        "for nth header field",
+        "for trailer field",
+        "in copy of this local variable",
+        "None of the above"
+    ],
+    [
+        "at the position pos",
+        "None of the above"
+    ],
+    [
+        "as a sequence of bytes",
+        "using modified utf-8 encoding in a machine - independent manner",
+        "None of the above"
+    ],
+    [
+        "as a sequence of bytes",
+        "as a sequence of characters",
+        "using modified utf-8 encoding in a machine - independent manner",
+        "using the specified format string and arguments",
+        "None of the above"
+    ],
+    [
+        "a convenience method to write a formatted string to this writer using the specified format string and arguments",
+        "as a sequence of bytes",
+        "as a sequence of chars",
+        "using the specified format string and arguments",
+        "using the specified locale , format string , and arguments",
+        "None of the above"
+    ],
+    [
+        "for equality",
+        "for value equality",
+        "None of the above"
+    ],
+    [
+        "with the given flags",
+        "None of the above"
+    ],
+    [
+        "from source array",
+        "None of the above"
+    ],
+    [
+        "in directory",
+        "None of the above"
+    ],
+    [
+        "in the radix specified by the second argument",
+        "specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "in this vector",
+        "None of the above"
+    ],
+    [
+        "such that",
+        "None of the above"
+    ],
+    [
+        "if it is present",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "with amount",
+        "with element",
+        "None of the above"
+    ],
+    [
+        "empty",
+        "sequential",
+        "None of the above"
+    ],
+    [
+        "from startinclusive",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "either",
+        "without keeping an internal reference to this new object",
+        "None of the above"
+    ],
+    [
+        "as appropriate",
+        "as sequence",
+        "for reading",
+        "from defaults",
+        "in interface repository",
+        "None of the above"
+    ],
+    [
+        "with handler",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with collection",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "according to object",
+        "by searching",
+        "for socket",
+        "of int values",
+        "None of the above"
+    ],
+    [
+        "along with alignment",
+        "as sequence",
+        "at index",
+        "for button",
+        "for role value",
+        "from defaults",
+        "including indications of run state",
+        "including information",
+        "including type",
+        "with name",
+        "None of the above"
+    ],
+    [
+        "from source array",
+        "None of the above"
+    ],
+    [
+        "in the radix specified by the second argument",
+        "specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "in increasing order",
+        "in proper sequence",
+        "using the provided generator function to allocate the returned array",
+        "None of the above"
+    ],
+    [
+        "along with alignment",
+        "as sequence",
+        "at index",
+        "for button",
+        "for role value",
+        "from defaults",
+        "including indications of run state",
+        "including information",
+        "on type",
+        "with name",
+        "None of the above"
+    ],
+    [
+        "at the given index",
+        "None of the above"
+    ],
+    [
+        "as an unsigned integer in base 16",
+        "None of the above"
+    ],
+    [
+        "using the given common mapped value for any additions ( i.",
+        "None of the above"
+    ],
+    [
+        "for equality",
+        "for value equality",
+        "None of the above"
+    ],
+    [
+        "numerically",
+        "None of the above"
+    ],
+    [
+        "from source array",
+        "None of the above"
+    ],
+    [
+        "if it is possible to do so immediately without violating capacity restrictions , returning true upon success and false if no space is currently available",
+        "if it is possible to do so immediately without violating capacity restrictions , throwing an illegalstateexception if no space is currently available",
+        "unless it would violate capacity restrictions",
+        "waiting if necessary for space to become available",
+        "None of the above"
+    ],
+    [
+        "in this list",
+        "None of the above"
+    ],
+    [
+        "if it is possible to do so immediately without exceeding the queue 's capacity , returning true upon success and false if this queue is full",
+        "if it is possible to do so immediately without exceeding the queue 's capacity , returning true upon success and throwing an illegalstateexception if this queue is full",
+        "waiting if necessary for space to become available",
+        "waiting if necessary up to the specified wait time for space to become available",
+        "None of the above"
+    ],
+    [
+        "if another thread is waiting to receive it",
+        "if it is possible to do so immediately without violating capacity restrictions",
+        "if it is possible to do so immediately without violating capacity restrictions , returning true upon success and false if no space is currently available",
+        "if it is possible to do so immediately without violating capacity restrictions , returning true upon success and throwing an illegalstateexception if no space is currently available",
+        "waiting if necessary for space to become available",
+        "waiting if necessary up to the specified wait time for another thread to receive it",
+        "waiting up to the specified wait time if necessary for space to become available",
+        "None of the above"
+    ],
+    [
+        "if it is possible to do so immediately without violating capacity restrictions , returning true upon success and false if no space is currently available",
+        "unless it would violate capacity restrictions",
+        "None of the above"
+    ],
+    [
+        "in the radix specified by the second argument",
+        "specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "for annotation type",
+        "None of the above"
+    ],
+    [
+        "friendly",
+        "None of the above"
+    ],
+    [
+        "same",
+        "None of the above"
+    ],
+    [
+        "consistent",
+        "standard",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "from source array",
+        "None of the above"
+    ],
+    [
+        "from spliterator",
+        "from supplier of spliterator"
+    ],
+    [
+        "around matches of this pattern",
+        "None of the above"
+    ],
+    [
+        "with handler",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with collection",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "according to object",
+        "by searching",
+        "for socket",
+        "of int values",
+        "None of the above"
+    ],
+    [
+        "using the given common mapped value for any additions ( i.",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "if it is possible to do so immediately without violating capacity restrictions , returning true upon success and false if no space is currently available",
+        "if it is possible to do so immediately without violating capacity restrictions , throwing an illegalstateexception if no space is currently available",
+        "unless it would violate capacity restrictions",
+        "waiting if necessary for space to become available",
+        "None of the above"
+    ],
+    [
+        "in this list",
+        "None of the above"
+    ],
+    [
+        "if it is possible to do so immediately without exceeding the queue 's capacity , returning true upon success and false if this queue is full",
+        "if it is possible to do so immediately without exceeding the queue 's capacity , returning true upon success and throwing an illegalstateexception if this queue is full",
+        "waiting if necessary for space to become available",
+        "waiting if necessary up to the specified wait time for space to become available",
+        "None of the above"
+    ],
+    [
+        "if another thread is waiting to receive it",
+        "if it is possible to do so immediately without violating capacity restrictions",
+        "if it is possible to do so immediately without violating capacity restrictions , returning true upon success and false if no space is currently available",
+        "if it is possible to do so immediately without violating capacity restrictions , returning true upon success and throwing an illegalstateexception if no space is currently available",
+        "waiting if necessary for space to become available",
+        "waiting if necessary up to the specified wait time for another thread to receive it",
+        "waiting up to the specified wait time if necessary for space to become available",
+        "None of the above"
+    ],
+    [
+        "if it is possible to do so immediately without violating capacity restrictions , returning true upon success and false if no space is currently available",
+        "unless it would violate capacity restrictions",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "in set",
+        "into list"
+    ],
+    [
+        "in currently",
+        "into list"
+    ],
+    [
+        "in iteration",
+        "into list"
+    ],
+    [
+        "at position",
+        "None of the above"
+    ],
+    [
+        "empty",
+        "sequential",
+        "None of the above"
+    ],
+    [
+        "from startinclusive",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "with handler",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with collection",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "according to object",
+        "by searching",
+        "for socket",
+        "of int values",
+        "None of the above"
+    ],
+    [
+        "in base 2",
+        "in base 8"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "from spliterator",
+        "from supplier of spliterator"
+    ],
+    [
+        "around matches of this pattern",
+        "None of the above"
+    ],
+    [
+        "if it is possible to do so immediately without violating capacity restrictions , returning true upon success and false if no space is currently available",
+        "if it is possible to do so immediately without violating capacity restrictions , throwing an illegalstateexception if no space is currently available",
+        "unless it would violate capacity restrictions",
+        "waiting if necessary for space to become available",
+        "None of the above"
+    ],
+    [
+        "in this list",
+        "None of the above"
+    ],
+    [
+        "if it is possible to do so immediately without exceeding the queue 's capacity , returning true upon success and false if this queue is full",
+        "if it is possible to do so immediately without exceeding the queue 's capacity , returning true upon success and throwing an illegalstateexception if this queue is full",
+        "waiting if necessary for space to become available",
+        "waiting if necessary up to the specified wait time for space to become available",
+        "None of the above"
+    ],
+    [
+        "if another thread is waiting to receive it",
+        "if it is possible to do so immediately without violating capacity restrictions",
+        "if it is possible to do so immediately without violating capacity restrictions , returning true upon success and false if no space is currently available",
+        "if it is possible to do so immediately without violating capacity restrictions , returning true upon success and throwing an illegalstateexception if no space is currently available",
+        "waiting if necessary for space to become available",
+        "waiting if necessary up to the specified wait time for another thread to receive it",
+        "waiting up to the specified wait time if necessary for space to become available",
+        "None of the above"
+    ],
+    [
+        "if it is possible to do so immediately without violating capacity restrictions , returning true upon success and false if no space is currently available",
+        "unless it would violate capacity restrictions",
+        "None of the above"
+    ],
+    [
+        "in increasing order",
+        "in proper sequence",
+        "using the provided generator function to allocate the returned array",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "in list",
+        "in set"
+    ],
+    [
+        "in currently",
+        "in list"
+    ],
+    [
+        "in iteration",
+        "in list"
+    ],
+    [
+        "at position",
+        "None of the above"
+    ],
+    [
+        "with handler",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with collection",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "by searching",
+        "for object",
+        "for socket",
+        "of int values",
+        "None of the above"
+    ],
+    [
+        "along with alignment",
+        "at index",
+        "for button",
+        "for role value",
+        "from defaults",
+        "in sequence",
+        "including indications of run state",
+        "including information",
+        "including type",
+        "with name",
+        "None of the above"
+    ],
+    [
+        "at the given index",
+        "None of the above"
+    ],
+    [
+        "in base 2",
+        "in base 8"
+    ],
+    [
+        "as a dynany",
+        "None of the above"
+    ],
+    [
+        "after a narrowing primitive conversion",
+        "after a widening primitive conversion",
+        "as a long after a narrowing primitive conversion",
+        "None of the above"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "with sign",
+        "None of the above"
+    ],
+    [
+        "for certificate",
+        "for crl",
+        "for crl entry",
+        "for gsscredential",
+        "for gssname",
+        "for object",
+        "for oid"
+    ],
+    [
+        "minimum",
+        "None of the above"
+    ],
+    [
+        "for variable",
+        "None of the above"
+    ],
+    [
+        "long",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "given array of normalized color alpha components",
+        "given array of unnormalized color alpha components"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "None of the above"
+    ],
+    [
+        "except that its declared return value is object rather than string",
+        "None of the above"
+    ],
+    [
+        "as double",
+        "as float",
+        "as int",
+        "as value",
+        "at index",
+        "at unit of granularity",
+        "for cell",
+        "for cell index",
+        "for certificate",
+        "for class",
+        "for field name",
+        "for key",
+        "for nth header field",
+        "for trailer field",
+        "in copy of this local variable",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "with the given flags",
+        "None of the above"
+    ],
+    [
+        "from source array",
+        "None of the above"
+    ],
+    [
+        "from spliterator",
+        "from supplier of spliterator"
+    ],
+    [
+        "around matches of this pattern",
+        "None of the above"
+    ],
+    [
+        "for use as a dataflavor",
+        "for use as a java mime type"
+    ],
+    [
+        "in the radix specified by the second argument",
+        "specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "guaranteeing that each element is processed in encounter order for streams that have a defined encounter order",
+        "if the stream has a defined encounter order",
+        "None of the above"
+    ],
+    [
+        "in the current thread",
+        "None of the above"
+    ],
+    [
+        "for each entry",
+        "for each non - null transformation of each entry",
+        "for each non - null transformation of each key",
+        "for each non - null transformation of each value",
+        "None of the above"
+    ],
+    [
+        "in increasing order",
+        "in proper sequence",
+        "using the provided generator function to allocate the returned array",
+        "None of the above"
+    ],
+    [
+        "friendly",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "with amount",
+        "with element",
+        "None of the above"
+    ],
+    [
+        "empty",
+        "sequential",
+        "None of the above"
+    ],
+    [
+        "in ascending order",
+        "in descending order",
+        "in proper sequence",
+        "in reverse sequential order",
+        "None of the above"
+    ],
+    [
+        "empty",
+        "None of the above"
+    ],
+    [
+        "from startinclusive",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "either",
+        "without keeping an internal reference to this new object",
+        "None of the above"
+    ],
+    [
+        "as appropriate",
+        "for reading",
+        "from defaults",
+        "in interface repository",
+        "in sequence",
+        "None of the above"
+    ],
+    [
+        "with handler",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with collection",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "by searching",
+        "for socket",
+        "of int values",
+        "on object",
+        "None of the above"
+    ],
+    [
+        "at the given index",
+        "None of the above"
+    ],
+    [
+        "in base 2",
+        "in base 8"
+    ],
+    [
+        "in this vector",
+        "None of the above"
+    ],
+    [
+        "such that",
+        "None of the above"
+    ],
+    [
+        "in ascending order",
+        "in descending order",
+        "in proper sequence",
+        "in reverse sequential order",
+        "None of the above"
+    ],
+    [
+        "empty",
+        "None of the above"
+    ],
+    [
+        "for nth header field",
+        "for relation",
+        "None of the above"
+    ],
+    [
+        "with handler",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with collection",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "by searching",
+        "for object",
+        "for socket",
+        "of int values",
+        "None of the above"
+    ],
+    [
+        "along with alignment",
+        "as sequence",
+        "at index",
+        "for button",
+        "for role value",
+        "from defaults",
+        "including indications of run state",
+        "including information",
+        "including type",
+        "with name",
+        "None of the above"
+    ],
+    [
+        "as a dynany",
+        "None of the above"
+    ],
+    [
+        "after a narrowing primitive conversion",
+        "after a widening primitive conversion",
+        "as a long after a narrowing primitive conversion",
+        "None of the above"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "with sign",
+        "None of the above"
+    ],
+    [
+        "for certificate",
+        "for crl",
+        "for crl entry",
+        "for gsscredential",
+        "for gssname",
+        "for object",
+        "for oid"
+    ],
+    [
+        "minimum",
+        "None of the above"
+    ],
+    [
+        "for variable",
+        "None of the above"
+    ],
+    [
+        "long",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "given array of normalized color alpha components",
+        "given array of unnormalized color alpha components"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "None of the above"
+    ],
+    [
+        "except that its declared return value is object rather than string",
+        "None of the above"
+    ],
+    [
+        "as double",
+        "as float",
+        "as int",
+        "as value",
+        "at index",
+        "at unit of granularity",
+        "for cell",
+        "for cell index",
+        "for certificate",
+        "for class",
+        "for field name",
+        "for key",
+        "for nth header field",
+        "for trailer field",
+        "in copy of this local variable",
+        "None of the above"
+    ],
+    [
+        "using the given common mapped value for any additions ( i.",
+        "None of the above"
+    ],
+    [
+        "from source array",
+        "None of the above"
+    ],
+    [
+        "from spliterator",
+        "from supplier of spliterator"
+    ],
+    [
+        "around matches of this pattern",
+        "None of the above"
+    ],
+    [
+        "in the radix specified by the second argument",
+        "specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "uniformly distributed long value from this random number generator 's sequence",
+        "None of the above"
+    ],
+    [
+        "along with alignment",
+        "at index",
+        "for button",
+        "for role value",
+        "from defaults",
+        "from sequence",
+        "including indications of run state",
+        "including information",
+        "including type",
+        "with name",
+        "None of the above"
+    ],
+    [
+        "at the given index",
+        "None of the above"
+    ],
+    [
+        "in base 2",
+        "in base 8"
+    ],
+    [
+        "as a dynany",
+        "None of the above"
+    ],
+    [
+        "after a narrowing primitive conversion",
+        "after a widening primitive conversion",
+        "as a long after a narrowing primitive conversion",
+        "None of the above"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "with sign",
+        "None of the above"
+    ],
+    [
+        "for certificate",
+        "for crl",
+        "for crl entry",
+        "for gsscredential",
+        "for gssname",
+        "for object",
+        "for oid"
+    ],
+    [
+        "minimum",
+        "None of the above"
+    ],
+    [
+        "for variable",
+        "None of the above"
+    ],
+    [
+        "long",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "given array of normalized color alpha components",
+        "given array of unnormalized color alpha components"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "None of the above"
+    ],
+    [
+        "except that its declared return value is object rather than string",
+        "None of the above"
+    ],
+    [
+        "as double",
+        "as float",
+        "as int",
+        "as value",
+        "at index",
+        "at unit of granularity",
+        "for cell",
+        "for cell index",
+        "for certificate",
+        "for class",
+        "for field name",
+        "for key",
+        "for nth header field",
+        "for trailer field",
+        "in copy of this local variable",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "from source array",
+        "None of the above"
+    ],
+    [
+        "in this vector",
+        "None of the above"
+    ],
+    [
+        "first",
+        "last"
+    ],
+    [
+        "first",
+        "last"
+    ],
+    [
+        "in increasing order",
+        "in proper sequence",
+        "using the provided generator function to allocate the returned array",
+        "None of the above"
+    ],
+    [
+        "as per the definition in the map interface",
+        "None of the above"
+    ],
+    [
+        "for this openmbeanoperationinfosupport instance",
+        "None of the above"
+    ],
+    [
+        "in ascending order",
+        "in descending order",
+        "in proper sequence",
+        "in reverse sequential order",
+        "None of the above"
+    ],
+    [
+        "empty",
+        "None of the above"
+    ],
+    [
+        "for traversal operation",
+        "None of the above"
+    ],
+    [
+        "from source array",
+        "None of the above"
+    ],
+    [
+        "with handler",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with collection",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "by searching",
+        "for object",
+        "for socket",
+        "of int values",
+        "None of the above"
+    ],
+    [
+        "as a dynany",
+        "None of the above"
+    ],
+    [
+        "after a narrowing primitive conversion",
+        "after a widening primitive conversion",
+        "as a long after a narrowing primitive conversion",
+        "None of the above"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "with sign",
+        "None of the above"
+    ],
+    [
+        "for certificate",
+        "for crl",
+        "for crl entry",
+        "for gsscredential",
+        "for gssname",
+        "for object",
+        "for oid"
+    ],
+    [
+        "minimum",
+        "None of the above"
+    ],
+    [
+        "for variable",
+        "None of the above"
+    ],
+    [
+        "long",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "given array of normalized color alpha components",
+        "given array of unnormalized color alpha components"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "None of the above"
+    ],
+    [
+        "except that its declared return value is object rather than string",
+        "None of the above"
+    ],
+    [
+        "as double",
+        "as float",
+        "as int",
+        "as value",
+        "at index",
+        "at unit of granularity",
+        "for cell",
+        "for cell index",
+        "for certificate",
+        "for class",
+        "for field name",
+        "for key",
+        "for nth header field",
+        "for trailer field",
+        "in copy of this local variable",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "in directory",
+        "None of the above"
+    ],
+    [
+        "down from its current position",
+        "None of the above"
+    ],
+    [
+        "forward one row from its current position",
+        "None of the above"
+    ],
+    [
+        "for reading",
+        "None of the above"
+    ],
+    [
+        "in directory",
+        "None of the above"
+    ],
+    [
+        "in the radix specified by the second argument",
+        "specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "using the given class loader",
+        "None of the above"
+    ],
+    [
+        "either",
+        "without keeping an internal reference to this new object",
+        "None of the above"
+    ],
+    [
+        "as appropriate",
+        "for reading",
+        "from defaults",
+        "in interface repository",
+        "in sequence",
+        "None of the above"
+    ],
+    [
+        "with handler",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with collection",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "according to object",
+        "by searching",
+        "for socket",
+        "of int values",
+        "None of the above"
+    ],
+    [
+        "internal",
+        "None of the above"
+    ],
+    [
+        "if it is possible to do so immediately without violating capacity restrictions , returning true upon success and false if no space is currently available",
+        "if it is possible to do so immediately without violating capacity restrictions , throwing an illegalstateexception if no space is currently available",
+        "unless it would violate capacity restrictions",
+        "waiting if necessary for space to become available",
+        "None of the above"
+    ],
+    [
+        "in this list",
+        "None of the above"
+    ],
+    [
+        "if it is possible to do so immediately without exceeding the queue 's capacity , returning true upon success and false if this queue is full",
+        "if it is possible to do so immediately without exceeding the queue 's capacity , returning true upon success and throwing an illegalstateexception if this queue is full",
+        "waiting if necessary for space to become available",
+        "waiting if necessary up to the specified wait time for space to become available",
+        "None of the above"
+    ],
+    [
+        "if another thread is waiting to receive it",
+        "if it is possible to do so immediately without violating capacity restrictions",
+        "if it is possible to do so immediately without violating capacity restrictions , returning true upon success and false if no space is currently available",
+        "if it is possible to do so immediately without violating capacity restrictions , returning true upon success and throwing an illegalstateexception if no space is currently available",
+        "waiting if necessary for space to become available",
+        "waiting if necessary up to the specified wait time for another thread to receive it",
+        "waiting up to the specified wait time if necessary for space to become available",
+        "None of the above"
+    ],
+    [
+        "if it is possible to do so immediately without violating capacity restrictions , returning true upon success and false if no space is currently available",
+        "unless it would violate capacity restrictions",
+        "None of the above"
+    ],
+    [
+        "for reading",
+        "None of the above"
+    ],
+    [
+        "to directory",
+        "None of the above"
+    ],
+    [
+        "in set",
+        "into list"
+    ],
+    [
+        "in currently",
+        "into list"
+    ],
+    [
+        "in iteration",
+        "into list"
+    ],
+    [
+        "at position",
+        "None of the above"
+    ],
+    [
+        "starting the search at the specified index",
+        "None of the above"
+    ],
+    [
+        "searching backward starting at the specified index",
+        "None of the above"
+    ],
+    [
+        "searching backward starting at the specified index",
+        "None of the above"
+    ],
+    [
+        "current",
+        "selected",
+        "None of the above"
+    ],
+    [
+        "with amount",
+        "with element",
+        "None of the above"
+    ],
+    [
+        "either",
+        "without keeping an internal reference to this new object",
+        "None of the above"
+    ],
+    [
+        "as appropriate",
+        "for reading",
+        "from defaults",
+        "in interface repository",
+        "within sequence",
+        "None of the above"
+    ],
+    [
+        "along with alignment",
+        "at index",
+        "for button",
+        "for role value",
+        "from defaults",
+        "including indications of run state",
+        "including information",
+        "including type",
+        "with name",
+        "within sequence",
+        "None of the above"
+    ],
+    [
+        "in directory",
+        "None of the above"
+    ],
+    [
+        "in the default temporary - file directory",
+        "None of the above"
+    ],
+    [
+        "with zero required delay",
+        "None of the above"
+    ],
+    [
+        "in a separate process",
+        "in a separate process with the specified environment"
+    ],
+    [
+        "using the default time zone and locale",
+        "None of the above"
+    ],
+    [
+        "iso",
+        "None of the above"
+    ],
+    [
+        "in",
+        "None of the above"
+    ],
+    [
+        "local",
+        "None of the above"
+    ],
+    [
+        "starting the search at the specified index",
+        "None of the above"
+    ],
+    [
+        "searching backward starting at the specified index",
+        "None of the above"
+    ],
+    [
+        "searching backward starting at the specified index",
+        "None of the above"
+    ],
+    [
+        "current",
+        "selected",
+        "None of the above"
+    ],
+    [
+        "preferred",
+        "None of the above"
+    ],
+    [
+        "with handler",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with collection",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "according to object",
+        "by searching",
+        "for socket",
+        "of int values",
+        "None of the above"
+    ],
+    [
+        "in milliseconds since midnight , january 1",
+        "None of the above"
+    ],
+    [
+        "using the given prefix to generate its name",
+        "None of the above"
+    ],
+    [
+        "failing if the file already exists",
+        "None of the above"
+    ],
+    [
+        "given",
+        "None of the above"
+    ],
+    [
+        "in a separate process",
+        "in a separate process with the specified environment"
+    ],
+    [
+        "for reading",
+        "None of the above"
+    ],
+    [
+        "in directory",
+        "None of the above"
+    ],
+    [
+        "with handler",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with collection",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "according to object",
+        "by searching",
+        "for socket",
+        "of int values",
+        "None of the above"
+    ],
+    [
+        "if it is possible to do so immediately without violating capacity restrictions , returning true upon success and false if no space is currently available",
+        "if it is possible to do so immediately without violating capacity restrictions , throwing an illegalstateexception if no space is currently available",
+        "unless it would violate capacity restrictions",
+        "waiting if necessary for space to become available",
+        "None of the above"
+    ],
+    [
+        "in this list",
+        "None of the above"
+    ],
+    [
+        "if it is possible to do so immediately without exceeding the queue 's capacity , returning true upon success and false if this queue is full",
+        "if it is possible to do so immediately without exceeding the queue 's capacity , returning true upon success and throwing an illegalstateexception if this queue is full",
+        "waiting if necessary for space to become available",
+        "waiting if necessary up to the specified wait time for space to become available",
+        "None of the above"
+    ],
+    [
+        "if another thread is waiting to receive it",
+        "if it is possible to do so immediately without violating capacity restrictions",
+        "if it is possible to do so immediately without violating capacity restrictions , returning true upon success and false if no space is currently available",
+        "if it is possible to do so immediately without violating capacity restrictions , returning true upon success and throwing an illegalstateexception if no space is currently available",
+        "waiting if necessary for space to become available",
+        "waiting if necessary up to the specified wait time for another thread to receive it",
+        "waiting up to the specified wait time if necessary for space to become available",
+        "None of the above"
+    ],
+    [
+        "if it is possible to do so immediately without violating capacity restrictions , returning true upon success and false if no space is currently available",
+        "unless it would violate capacity restrictions",
+        "None of the above"
+    ],
+    [
+        "in the radix specified by the second argument",
+        "specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "next",
+        "None of the above"
+    ],
+    [
+        "len",
+        "None of the above"
+    ],
+    [
+        "single",
+        "None of the above"
+    ],
+    [
+        "in increasing order",
+        "in proper sequence",
+        "using the provided generator function to allocate the returned array",
+        "None of the above"
+    ],
+    [
+        "starting the search at the specified index",
+        "None of the above"
+    ],
+    [
+        "searching backward starting at the specified index",
+        "None of the above"
+    ],
+    [
+        "searching backward starting at the specified index",
+        "None of the above"
+    ],
+    [
+        "current",
+        "selected",
+        "None of the above"
+    ],
+    [
+        "with amount",
+        "with element",
+        "None of the above"
+    ],
+    [
+        "either",
+        "without keeping an internal reference to this new object",
+        "None of the above"
+    ],
+    [
+        "as appropriate",
+        "for reading",
+        "from defaults",
+        "in interface repository",
+        "within sequence",
+        "None of the above"
+    ],
+    [
+        "with handler",
+        "None of the above"
+    ],
+    [
+        "with array",
+        "with collection",
+        "with range of the specified array",
+        "None of the above"
+    ],
+    [
+        "according to object",
+        "by searching",
+        "for socket",
+        "of int values",
+        "None of the above"
+    ],
+    [
+        "along with alignment",
+        "at index",
+        "for button",
+        "for role value",
+        "from defaults",
+        "including indications of run state",
+        "including information",
+        "including type",
+        "with name",
+        "within sequence",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "returning a default value if the conversion fails",
+        "returning zero if the conversion fails"
+    ],
+    [
+        "for use as a dataflavor",
+        "for use as a java mime type"
+    ],
+    [
+        "in the radix specified by the second argument",
+        "specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "to stream",
+        "None of the above"
+    ],
+    [
+        "to file",
+        "to stream",
+        "None of the above"
+    ],
+    [
+        "as per the definition in the map interface",
+        "None of the above"
+    ],
+    [
+        "for this openmbeanoperationinfosupport instance",
+        "None of the above"
+    ],
+    [
+        "along with alignment",
+        "as sequence",
+        "at index",
+        "for button",
+        "for role value",
+        "from defaults",
+        "including indications of run state",
+        "including information",
+        "including type",
+        "with name",
+        "None of the above"
+    ],
+    [
+        "at the given index",
+        "None of the above"
+    ],
+    [
+        "into buffer",
+        "None of the above"
+    ],
+    [
+        "specified",
+        "None of the above"
+    ],
+    [
+        "at the current position",
+        "None of the above"
+    ],
+    [
+        "specified",
+        "None of the above"
+    ],
+    [
+        "at the position pos",
+        "None of the above"
+    ],
+    [
+        "as a sequence of bytes",
+        "using modified utf-8 encoding in a machine - independent manner",
+        "None of the above"
+    ],
+    [
+        "as a sequence of bytes",
+        "as a sequence of characters",
+        "using modified utf-8 encoding in a machine - independent manner",
+        "using the specified format string and arguments",
+        "None of the above"
+    ],
+    [
+        "a convenience method to write a formatted string to this writer using the specified format string and arguments",
+        "as a sequence of bytes",
+        "as a sequence of chars",
+        "using the specified format string and arguments",
+        "using the specified locale , format string , and arguments",
+        "None of the above"
+    ],
+    [
+        "on file",
+        "on region of file",
+        "None of the above"
+    ],
+    [
+        "using the given prefix to generate its name",
+        "None of the above"
+    ],
+    [
+        "failing if the file already exists",
+        "None of the above"
+    ],
+    [
+        "for reading",
+        "None of the above"
+    ],
+    [
+        "in directory",
+        "None of the above"
+    ],
+    [
+        "failing if the file already exists",
+        "None of the above"
+    ],
+    [
+        "if it is possible to do so immediately without violating capacity restrictions , returning true upon success and false if no space is currently available",
+        "if it is possible to do so immediately without violating capacity restrictions , throwing an illegalstateexception if no space is currently available",
+        "unless it would violate capacity restrictions",
+        "waiting if necessary for space to become available",
+        "None of the above"
+    ],
+    [
+        "in this list",
+        "None of the above"
+    ],
+    [
+        "if it is possible to do so immediately without exceeding the queue 's capacity , returning true upon success and false if this queue is full",
+        "if it is possible to do so immediately without exceeding the queue 's capacity , returning true upon success and throwing an illegalstateexception if this queue is full",
+        "waiting if necessary for space to become available",
+        "waiting if necessary up to the specified wait time for space to become available",
+        "None of the above"
+    ],
+    [
+        "if another thread is waiting to receive it",
+        "if it is possible to do so immediately without violating capacity restrictions",
+        "if it is possible to do so immediately without violating capacity restrictions , returning true upon success and false if no space is currently available",
+        "if it is possible to do so immediately without violating capacity restrictions , returning true upon success and throwing an illegalstateexception if no space is currently available",
+        "waiting if necessary for space to become available",
+        "waiting if necessary up to the specified wait time for another thread to receive it",
+        "waiting up to the specified wait time if necessary for space to become available",
+        "None of the above"
+    ],
+    [
+        "if it is possible to do so immediately without violating capacity restrictions , returning true upon success and false if no space is currently available",
+        "unless it would violate capacity restrictions",
+        "None of the above"
+    ],
+    [
+        "in the radix specified by the second argument",
+        "specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "single",
+        "None of the above"
+    ],
+    [
+        "with amount",
+        "with element",
+        "None of the above"
+    ],
+    [
+        "either",
+        "without keeping an internal reference to this new object",
+        "None of the above"
+    ],
+    [
+        "as appropriate",
+        "for reading",
+        "from defaults",
+        "in interface repository",
+        "in sequence",
+        "None of the above"
+    ],
+    [
+        "as a dynany",
+        "None of the above"
+    ],
+    [
+        "after a narrowing primitive conversion",
+        "after a widening primitive conversion",
+        "as a long after a narrowing primitive conversion",
+        "None of the above"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "with sign",
+        "None of the above"
+    ],
+    [
+        "for certificate",
+        "for crl",
+        "for crl entry",
+        "for gsscredential",
+        "for gssname",
+        "for object",
+        "for oid"
+    ],
+    [
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance"
+    ],
+    [
+        "for variable",
+        "None of the above"
+    ],
+    [
+        "with bit",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "given array of normalized color alpha components",
+        "given array of unnormalized color alpha components"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "None of the above"
+    ],
+    [
+        "as hasmoretokens method",
+        "as method"
+    ],
+    [
+        "as double",
+        "as float",
+        "as int",
+        "as value",
+        "at index",
+        "at unit of granularity",
+        "for cell",
+        "for cell index",
+        "for certificate",
+        "for class",
+        "for field name",
+        "for key",
+        "for nth header field",
+        "for trailer field",
+        "in copy of this local variable",
+        "None of the above"
+    ],
+    [
+        "as a dynany",
+        "None of the above"
+    ],
+    [
+        "after a narrowing primitive conversion",
+        "after a widening primitive conversion",
+        "as a long after a narrowing primitive conversion",
+        "None of the above"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "with sign",
+        "None of the above"
+    ],
+    [
+        "for certificate",
+        "for crl",
+        "for crl entry",
+        "for gsscredential",
+        "for gssname",
+        "for object",
+        "for oid"
+    ],
+    [
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance"
+    ],
+    [
+        "for variable",
+        "None of the above"
+    ],
+    [
+        "with bit",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "given array of normalized color alpha components",
+        "given array of unnormalized color alpha components"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "None of the above"
+    ],
+    [
+        "as hasmoretokens method",
+        "as method"
+    ],
+    [
+        "as double",
+        "as float",
+        "as int",
+        "as value",
+        "at index",
+        "at unit of granularity",
+        "for cell",
+        "for cell index",
+        "for certificate",
+        "for class",
+        "for field name",
+        "for key",
+        "for nth header field",
+        "for trailer field",
+        "in copy of this local variable",
+        "None of the above"
+    ],
+    [
+        "specified",
+        "None of the above"
+    ],
+    [
+        "at the current position",
+        "None of the above"
+    ],
+    [
+        "specified",
+        "None of the above"
+    ],
+    [
+        "in order , two bytes per character",
+        "None of the above"
+    ],
+    [
+        "at the position pos",
+        "None of the above"
+    ],
+    [
+        "as a sequence of bytes",
+        "using modified utf-8 encoding in a machine - independent manner",
+        "None of the above"
+    ],
+    [
+        "as a sequence of bytes",
+        "as a sequence of characters",
+        "using modified utf-8 encoding in a machine - independent manner",
+        "using the specified format string and arguments",
+        "None of the above"
+    ],
+    [
+        "a convenience method to write a formatted string to this writer using the specified format string and arguments",
+        "as a sequence of bytes",
+        "as a sequence of chars",
+        "using the specified format string and arguments",
+        "using the specified locale , format string , and arguments",
+        "None of the above"
+    ],
+    [
+        "at some time in the future",
+        "None of the above"
+    ],
+    [
+        "in a separate process",
+        "in a separate process with the specified environment"
+    ],
+    [
+        "using the given class loader",
+        "None of the above"
+    ],
+    [
+        "capable",
+        "None of the above"
+    ],
+    [
+        "for sending",
+        "None of the above"
+    ],
+    [
+        "in this preparedstatement object , which may be any kind of sql statement",
+        "in this preparedstatement object , which must be an sql data manipulation language statement , such as insert , update or delete ; or an sql statement that returns nothing , such as a ddl statement",
+        "None of the above"
+    ],
+    [
+        "using the given object",
+        "None of the above"
+    ],
+    [
+        "new",
+        "None of the above"
+    ],
+    [
+        "using the named charset, storing the result into a new byte array.",
+        "using the platform's default charset, storing the result into a new byte array.",
+        "None of the above"
+    ],
+    [
+        "as appropriate",
+        "for reading",
+        "from defaults",
+        "in interface repository",
+        "in sequence",
+        "None of the above"
+    ],
+    [
+        "including dns hostname",
+        "None of the above"
+    ],
+    [
+        "as an int",
+        "None of the above"
+    ],
+    [
+        "as a float",
+        "None of the above"
+    ],
+    [
+        "from the boundedrangemodel",
+        "None of the above"
+    ],
+    [
+        "lowest",
+        "maximum"
+    ],
+    [
+        "lowest",
+        "maximum"
+    ],
+    [
+        "from the boundedrangemodel",
+        "None of the above"
+    ],
+    [
+        "from the boundedrangemodel",
+        "None of the above"
+    ],
+    [
+        "into array of bytes",
+        "into bigdecimal value",
+        "into biginteger value",
+        "into calendar value",
+        "into float value",
+        "into int value",
+        "into qname value",
+        "into string",
+        "into value"
+    ],
+    [
+        "using the named charset, storing the result into a new byte array.",
+        "using the platform's default charset, storing the result into a new byte array.",
+        "None of the above"
+    ],
+    [
+        "from mixer",
+        "None of the above"
+    ],
+    [
+        "to object",
+        "to url"
+    ],
+    [
+        "as double",
+        "as float",
+        "as int",
+        "at index",
+        "at unit of granularity",
+        "for cell",
+        "for cell index",
+        "for certificate",
+        "for class",
+        "for field name",
+        "for key",
+        "for nth header field",
+        "for trailer field",
+        "in copy of this local variable",
+        "into value",
+        "None of the above"
+    ],
+    [
+        "then",
+        "None of the above"
+    ],
+    [
+        "to array output stream",
+        "to file",
+        "to file output stream",
+        "to output stream",
+        "to sqloutputimpl",
+        "to stream",
+        "None of the above"
+    ],
+    [
+        "in order",
+        "None of the above"
+    ],
+    [
+        "in the radix specified by the second argument",
+        "specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "same",
+        "None of the above"
+    ],
+    [
+        "consistent",
+        "standard",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "as per the definition in the map interface",
+        "None of the above"
+    ],
+    [
+        "for this openmbeanoperationinfosupport instance",
+        "None of the above"
+    ],
+    [
+        "with amount",
+        "with element",
+        "None of the above"
+    ],
+    [
+        "either",
+        "without keeping an internal reference to this new object",
+        "None of the above"
+    ],
+    [
+        "as appropriate",
+        "for reading",
+        "from defaults",
+        "in interface repository",
+        "in sequence",
+        "None of the above"
+    ],
+    [
+        "according to ieee point format bit layout",
+        "according to ieee point format layout"
+    ],
+    [
+        "according to ieee point format bit layout",
+        "according to ieee point format layout"
+    ],
+    [
+        "along with alignment",
+        "at index",
+        "for button",
+        "for role value",
+        "from defaults",
+        "in sequence",
+        "including indications of run state",
+        "including information",
+        "including type",
+        "with name",
+        "None of the above"
+    ],
+    [
+        "at the given index",
+        "None of the above"
+    ],
+    [
+        "as an unsigned integer in base 16",
+        "None of the above"
+    ],
+    [
+        "next",
+        "None of the above"
+    ],
+    [
+        "len",
+        "None of the above"
+    ],
+    [
+        "same",
+        "None of the above"
+    ],
+    [
+        "consistent",
+        "standard",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "as per the definition in the map interface",
+        "None of the above"
+    ],
+    [
+        "for this openmbeanoperationinfosupport instance",
+        "None of the above"
+    ],
+    [
+        "either",
+        "without keeping an internal reference to this new object",
+        "None of the above"
+    ],
+    [
+        "as appropriate",
+        "for reading",
+        "from defaults",
+        "in interface repository",
+        "in sequence",
+        "None of the above"
+    ],
+    [
+        "along with alignment",
+        "at index",
+        "for button",
+        "for role value",
+        "from defaults",
+        "in sequence",
+        "including indications of run state",
+        "including information",
+        "including type",
+        "with name",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "in increasing order",
+        "in proper sequence",
+        "using the provided generator function to allocate the returned array",
+        "None of the above"
+    ],
+    [
+        "for annotation type",
+        "None of the above"
+    ],
+    [
+        "remote",
+        "None of the above"
+    ],
+    [
+        "remote",
+        "None of the above"
+    ],
+    [
+        "java",
+        "None of the above"
+    ],
+    [
+        "given",
+        "None of the above"
+    ],
+    [
+        "in a separate process",
+        "in a separate process with the specified environment"
+    ],
+    [
+        "remote",
+        "None of the above"
+    ],
+    [
+        "remote",
+        "None of the above"
+    ],
+    [
+        "java",
+        "None of the above"
+    ],
+    [
+        "in milliseconds since midnight , january 1",
+        "None of the above"
+    ],
+    [
+        "at the given position",
+        "with the specified constraints at the specified index",
+        "None of the above"
+    ],
+    [
+        "using the specified constraint object",
+        "using the specified constraints object",
+        "None of the above"
+    ],
+    [
+        "specified",
+        "None of the above"
+    ],
+    [
+        "at a specified position within this composite name",
+        "at a specified position within this compound name",
+        "at a specified position within this ldap name",
+        "at a specified position within this name",
+        "at the specified tab index",
+        "None of the above"
+    ],
+    [
+        "given",
+        "None of the above"
+    ],
+    [
+        "in a separate process",
+        "in a separate process with the specified environment"
+    ],
+    [
+        "after you 've changed how node is to be represented in the tree",
+        "after you 've changed how the children identified by childindicies are to be represented in the tree",
+        "after you 've inserted some treenodes into node",
+        "after you 've removed some treenodes from node",
+        "None of the above"
+    ],
+    [
+        "iso",
+        "None of the above"
+    ],
+    [
+        "in the hijrah calendar system",
+        "in the japanese calendar system",
+        "in the minguo calendar system",
+        "in the thai buddhist calendar system",
+        "None of the above"
+    ],
+    [
+        "in hijrah calendar system",
+        "in japanese calendar system",
+        "in minguo calendar system",
+        "in thai buddhist calendar system",
+        "None of the above"
+    ],
+    [
+        "iso",
+        "None of the above"
+    ],
+    [
+        "in hijrah",
+        "None of the above"
+    ],
+    [
+        "remote",
+        "None of the above"
+    ],
+    [
+        "remote",
+        "None of the above"
+    ],
+    [
+        "java",
+        "None of the above"
+    ],
+    [
+        "in milliseconds since midnight , january 1",
+        "None of the above"
+    ],
+    [
+        "remote",
+        "None of the above"
+    ],
+    [
+        "remote",
+        "None of the above"
+    ],
+    [
+        "java",
+        "None of the above"
+    ],
+    [
+        "in milliseconds since midnight , january 1",
+        "None of the above"
+    ],
+    [
+        "from image producer",
+        "None of the above"
+    ],
+    [
+        "with time zone",
+        "None of the above"
+    ],
+    [
+        "as per the definition in the map interface",
+        "None of the above"
+    ],
+    [
+        "for this openmbeanoperationinfosupport instance",
+        "None of the above"
+    ],
+    [
+        "as one large tile",
+        "None of the above"
+    ],
+    [
+        "in milliseconds since midnight , january 1",
+        "None of the above"
+    ],
+    [
+        "as a dynany",
+        "None of the above"
+    ],
+    [
+        "after a narrowing primitive conversion",
+        "after a widening primitive conversion",
+        "as a long after a narrowing primitive conversion",
+        "None of the above"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "with sign",
+        "None of the above"
+    ],
+    [
+        "for certificate",
+        "for crl",
+        "for crl entry",
+        "for gsscredential",
+        "for gssname",
+        "for object",
+        "for oid"
+    ],
+    [
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance"
+    ],
+    [
+        "for variable",
+        "None of the above"
+    ],
+    [
+        "with bit",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "if it has one",
+        "if specified , or null otherwise",
+        "None of the above"
+    ],
+    [
+        "for attribute",
+        "for calendar field of this calendar instance",
+        "for calendar field of this gregoriancalendar instance",
+        "for object reference",
+        "None of the above"
+    ],
+    [
+        "given array of normalized color alpha components",
+        "given array of unnormalized color alpha components"
+    ],
+    [
+        "between origin",
+        "between zero",
+        "None of the above"
+    ],
+    [
+        "as hasmoretokens method",
+        "as method"
+    ],
+    [
+        "as double",
+        "as float",
+        "as int",
+        "as value",
+        "at index",
+        "at unit of granularity",
+        "for cell",
+        "for cell index",
+        "for certificate",
+        "for class",
+        "for field name",
+        "for key",
+        "for nth header field",
+        "for trailer field",
+        "in copy of this local variable",
+        "None of the above"
+    ],
+    [
+        "specified",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "after you 've changed how node is to be represented in the tree",
+        "after you 've changed how the children identified by childindicies are to be represented in the tree",
+        "after you 've inserted some treenodes into node",
+        "after you 've removed some treenodes from node",
+        "None of the above"
+    ],
+    [
+        "guaranteeing that each element is processed in encounter order for streams that have a defined encounter order",
+        "if the stream has a defined encounter order",
+        "None of the above"
+    ],
+    [
+        "in the current thread",
+        "None of the above"
+    ],
+    [
+        "for each entry",
+        "for each non - null transformation of each entry",
+        "for each non - null transformation of each key",
+        "for each non - null transformation of each value",
+        "None of the above"
+    ],
+    [
+        "managed",
+        "None of the above"
+    ],
+    [
+        "preferred",
+        "None of the above"
+    ],
+    [
+        "remote",
+        "None of the above"
+    ],
+    [
+        "remote",
+        "None of the above"
+    ],
+    [
+        "java",
+        "None of the above"
+    ],
+    [
+        "with time zone",
+        "None of the above"
+    ],
+    [
+        "iso",
+        "None of the above"
+    ],
+    [
+        "in the hijrah calendar system",
+        "in the japanese calendar system",
+        "in the minguo calendar system",
+        "in the thai buddhist calendar system",
+        "None of the above"
+    ],
+    [
+        "in hijrah calendar system",
+        "in japanese calendar system",
+        "in minguo calendar system",
+        "in thai buddhist calendar system",
+        "None of the above"
+    ],
+    [
+        "iso",
+        "None of the above"
+    ],
+    [
+        "in hijrah",
+        "None of the above"
+    ],
+    [
+        "iso",
+        "None of the above"
+    ],
+    [
+        "in",
+        "None of the above"
+    ],
+    [
+        "local",
+        "None of the above"
+    ],
+    [
+        "using a specific formatter",
+        "None of the above"
+    ],
+    [
+        "setting the second and nanosecond to zero",
+        "None of the above"
+    ],
+    [
+        "using seconds from the epoch of 1970 - 01 - 01t00:00:00z",
+        "None of the above"
+    ],
+    [
+        "using the preferred offset",
+        "None of the above"
+    ],
+    [
+        "using a specific formatter",
+        "None of the above"
+    ],
+    [
+        "current",
+        "None of the above"
+    ],
+    [
+        "along with alignment",
+        "at index",
+        "for button",
+        "for role value",
+        "for sequence",
+        "from defaults",
+        "including indications of run state",
+        "including information",
+        "including type",
+        "with name",
+        "None of the above"
+    ],
+    [
+        "in milliseconds since midnight , january 1",
+        "None of the above"
+    ],
+    [
+        "for order",
+        "None of the above"
+    ],
+    [
+        "as per the definition in the map interface",
+        "None of the above"
+    ],
+    [
+        "iso",
+        "None of the above"
+    ],
+    [
+        "in the hijrah calendar system",
+        "in the japanese calendar system",
+        "in the minguo calendar system",
+        "in the thai buddhist calendar system",
+        "None of the above"
+    ],
+    [
+        "in hijrah calendar system",
+        "in japanese calendar system",
+        "in minguo calendar system",
+        "in thai buddhist calendar system",
+        "None of the above"
+    ],
+    [
+        "iso",
+        "None of the above"
+    ],
+    [
+        "in hijrah",
+        "None of the above"
+    ],
+    [
+        "localized",
+        "None of the above"
+    ],
+    [
+        "readable",
+        "None of the above"
+    ],
+    [
+        "generic",
+        "None of the above"
+    ],
+    [
+        "canonical",
+        "distinguished",
+        "human",
+        "local",
+        "logical",
+        "qualified",
+        "relative",
+        "None of the above"
+    ],
+    [
+        "in milliseconds since midnight , january 1",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ],
+    [
+        "iso",
+        "None of the above"
+    ],
+    [
+        "in the hijrah calendar system",
+        "in the japanese calendar system",
+        "in the minguo calendar system",
+        "in the thai buddhist calendar system",
+        "None of the above"
+    ],
+    [
+        "in hijrah calendar system",
+        "in japanese calendar system",
+        "in minguo calendar system",
+        "in thai buddhist calendar system",
+        "None of the above"
+    ],
+    [
+        "iso",
+        "None of the above"
+    ],
+    [
+        "in hijrah",
+        "None of the above"
+    ],
+    [
+        "using a specific formatter",
+        "None of the above"
+    ],
+    [
+        "in the radix specified by the second argument",
+        "specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "with the day - of - month altered",
+        "with the day - of - year altered",
+        "with the hour - of - day altered",
+        "with the minute - of - hour altered",
+        "with the month - of - year altered",
+        "with the nano - of - second altered",
+        "with the second - of - minute altered",
+        "with the year altered"
+    ],
+    [
+        "iso",
+        "None of the above"
+    ],
+    [
+        "in the hijrah calendar system",
+        "in the japanese calendar system",
+        "in the minguo calendar system",
+        "in the thai buddhist calendar system",
+        "None of the above"
+    ],
+    [
+        "in hijrah calendar system",
+        "in japanese calendar system",
+        "in minguo calendar system",
+        "in thai buddhist calendar system",
+        "None of the above"
+    ],
+    [
+        "iso",
+        "None of the above"
+    ],
+    [
+        "in hijrah",
+        "None of the above"
+    ],
+    [
+        "using a specific formatter",
+        "None of the above"
+    ],
+    [
+        "using a specific formatter",
+        "None of the above"
+    ],
+    [
+        "setting the second and nanosecond to zero",
+        "None of the above"
+    ],
+    [
+        "using seconds from the epoch of 1970 - 01 - 01t00:00:00z",
+        "None of the above"
+    ],
+    [
+        "using a specific formatter",
+        "None of the above"
+    ],
+    [
+        "using a specific formatter",
+        "None of the above"
+    ],
+    [
+        "from object",
+        "None of the above"
+    ],
+    [
+        "in the specified time - zone",
+        "None of the above"
+    ],
+    [
+        "in milliseconds since midnight , january 1",
+        "None of the above"
+    ],
+    [
+        "including optional milliseconds",
+        "including the optional infinite precision fractional seconds",
+        "None of the above"
+    ],
+    [
+        "current",
+        "maximum",
+        "None of the above"
+    ],
+    [
+        "at the given position",
+        "with the specified constraints at the specified index",
+        "None of the above"
+    ],
+    [
+        "using the specified constraint object",
+        "using the specified constraints object",
+        "None of the above"
+    ],
+    [
+        "specified",
+        "None of the above"
+    ],
+    [
+        "at a specified position within this composite name",
+        "at a specified position within this compound name",
+        "at a specified position within this ldap name",
+        "at a specified position within this name",
+        "at the specified tab index",
+        "None of the above"
+    ],
+    [
+        "returning a default value if the conversion fails",
+        "returning zero if the conversion fails"
+    ],
+    [
+        "after you 've changed how node is to be represented in the tree",
+        "after you 've changed how the children identified by childindicies are to be represented in the tree",
+        "after you 've inserted some treenodes into node",
+        "after you 've removed some treenodes from node",
+        "None of the above"
+    ],
+    [
+        "for annotation type",
+        "None of the above"
+    ],
+    [
+        "remote",
+        "None of the above"
+    ],
+    [
+        "remote",
+        "None of the above"
+    ],
+    [
+        "java",
+        "None of the above"
+    ],
+    [
+        "after you 've changed how node is to be represented in the tree",
+        "after you 've changed how the children identified by childindicies are to be represented in the tree",
+        "after you 've inserted some treenodes into node",
+        "after you 've removed some treenodes from node",
+        "None of the above"
+    ],
+    [
+        "for annotation type",
+        "None of the above"
+    ],
+    [
+        "remote",
+        "None of the above"
+    ],
+    [
+        "remote",
+        "None of the above"
+    ],
+    [
+        "java",
+        "None of the above"
+    ],
+    [
+        "given",
+        "None of the above"
+    ],
+    [
+        "in a separate process",
+        "in a separate process with the specified environment"
+    ],
+    [
+        "in this vector",
+        "None of the above"
+    ],
+    [
+        "first",
+        "last"
+    ],
+    [
+        "managed",
+        "None of the above"
+    ],
+    [
+        "same",
+        "None of the above"
+    ],
+    [
+        "consistent",
+        "standard",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "as per the definition in the map interface",
+        "None of the above"
+    ],
+    [
+        "for this openmbeanoperationinfosupport instance",
+        "None of the above"
+    ],
+    [
+        "remote",
+        "None of the above"
+    ],
+    [
+        "remote",
+        "None of the above"
+    ],
+    [
+        "java",
+        "None of the above"
+    ],
+    [
+        "from source array",
+        "None of the above"
+    ],
+    [
+        "for reading",
+        "None of the above"
+    ],
+    [
+        "in directory",
+        "None of the above"
+    ],
+    [
+        "into character buffer",
+        "into portion of an array"
+    ],
+    [
+        "illegal",
+        "None of the above"
+    ],
+    [
+        "starting the search at the specified index",
+        "None of the above"
+    ],
+    [
+        "searching backward starting at the specified index",
+        "None of the above"
+    ],
+    [
+        "searching backward starting at the specified index",
+        "None of the above"
+    ],
+    [
+        "current",
+        "selected",
+        "None of the above"
+    ],
+    [
+        "with value",
+        "None of the above"
+    ],
+    [
+        "along with alignment",
+        "at index",
+        "for button",
+        "for role value",
+        "from defaults",
+        "including indications of run state",
+        "including information",
+        "including type",
+        "with name",
+        "within sequence",
+        "None of the above"
+    ],
+    [
+        "beveled",
+        "None of the above"
+    ],
+    [
+        "with title",
+        "None of the above"
+    ],
+    [
+        "if this component is embedded in a jscrollpane",
+        "None of the above"
+    ],
+    [
+        "along with alignment",
+        "as sequence",
+        "at index",
+        "for button",
+        "for role value",
+        "from defaults",
+        "including indications of run state",
+        "including information",
+        "including type",
+        "with name",
+        "None of the above"
+    ],
+    [
+        "in implementation of binder",
+        "in implementation of marshaller",
+        "in implementation of unmarshaller",
+        "in implementation of xmlreader"
+    ],
+    [
+        "as an int",
+        "None of the above"
+    ],
+    [
+        "as a float",
+        "None of the above"
+    ],
+    [
+        "from the boundedrangemodel",
+        "None of the above"
+    ],
+    [
+        "lowest",
+        "maximum"
+    ],
+    [
+        "lowest",
+        "maximum"
+    ],
+    [
+        "from the boundedrangemodel",
+        "None of the above"
+    ],
+    [
+        "from the boundedrangemodel",
+        "None of the above"
+    ],
+    [
+        "call paint method",
+        "create version of this image",
+        "fit inside rectangle",
+        "paint pixel",
+        "return bufferedimage",
+        "return value",
+        "set area",
+        "set clip"
+    ],
+    [
+        "specified",
+        "None of the above"
+    ],
+    [
+        "as one large tile",
+        "None of the above"
+    ],
+    [
+        "in the radix specified by the second argument",
+        "specified by the second argument",
+        "None of the above"
+    ],
+    [
+        "single",
+        "None of the above"
+    ],
+    [
+        "into pattern",
+        "None of the above"
+    ],
+    [
+        "given",
+        "None of the above"
+    ],
+    [
+        "in a separate process",
+        "in a separate process with the specified environment"
+    ],
+    [
+        "same",
+        "None of the above"
+    ],
+    [
+        "consistent",
+        "standard",
+        "suitable",
+        "None of the above"
+    ],
+    [
+        "remote",
+        "None of the above"
+    ],
+    [
+        "remote",
+        "None of the above"
+    ],
+    [
+        "java",
+        "None of the above"
+    ],
+    [
+        "in milliseconds since midnight , january 1",
+        "None of the above"
+    ],
+    [
+        "according to the natural ordering of its elements",
+        "according to the order induced by the specified comparator"
+    ]
+]
